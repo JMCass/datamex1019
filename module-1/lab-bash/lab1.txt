@@ -1,0 +1,76 @@
+Last login: Mon Oct 21 14:55:18 on ttys000
+MacBook-Pro-de-JLMC:~ macos$ cd Desktop/datamex1019
+MacBook-Pro-de-JLMC:datamex1019 macos$ cd module-1
+MacBook-Pro-de-JLMC:module-1 macos$ git branch
+  lab-bash
+* lab-bashjm
+  master
+MacBook-Pro-de-JLMC:module-1 macos$ cd lab-bash
+1.  MacBook-Pro-de-JLMC:lab-bash macos$ cat solution.txt
+echo ÔHello WorldÕ
+MacBook-Pro-de-JLMC:lab-bash macos$ ls
+README.md	inputs		lorem-copy	solution.txt
+exercices	lorem		outputs
+2. MacBook-Pro-de-JLMC:lab-bash macos$ mkdir new_dir
+MacBook-Pro-de-JLMC:lab-bash macos$ ls
+README.md	inputs		lorem		outputs
+exercices	labsjm		lorem-copy	solution.txt
+3. MacBook-Pro-de-JLMC:lab-bash macos$ rm -d new_dir
+MacBook-Pro-de-JLMC:lab-bash macos$ ls
+README.md	inputs		lorem-copy	solution.txt
+exercices	lorem		outputs
+MacBook-Pro-de-JLMC:lorem macos$ cd ..
+MacBook-Pro-de-JLMC:lab-bash macos$ ls
+README.md	inputs		lorem-copy	solution.txt
+exercices	lorem		outputs
+4. MacBook-Pro-de-JLMC:lorem macos$ cp sed.txt ../lorem-copy
+MacBook-Pro-de-JLMC:lorem macos$ cd ..
+MacBook-Pro-de-JLMC:lab-bash macos$ cd lorem-copy
+MacBook-Pro-de-JLMC:lorem-copy macos$ ls
+sed.txt
+5. MacBook-Pro-de-JLMC:lorem macos$ cp at.txt ../lorem-copy| cp lorem.txt ../lorem-copy
+MacBook-Pro-de-JLMC:lorem macos$ cd ..
+MacBook-Pro-de-JLMC:lab-bash macos$ cd lorem-copy
+MacBook-Pro-de-JLMC:lorem-copy macos$ ls
+at.txt		lorem.txt	sed.txt
+6. MacBook-Pro-de-JLMC:lorem-copy macos$ cat sed.txt
+7. MacBook-Pro-de-JLMC: lorem-copy macos$ cat at.txt
+MacBook-Pro-de-JLMC: lorem-copy macos$ cat lorem.txt
+8. MacBook-Pro-de-JLMC: lorem-copy macos$ head -3 sed.txt
+9. MacBook-Pro-de-JLMC: lorem-copy macos$ tail -3 sed.txt
+10. MacBook-Pro-de-JLMC:lorem-copy macos$ echo "Homo homini lupus." >> sed.txt
+11. MacBook-Pro-de-JLMC:lorem-copy macos$ tail -3 sed.txt
+12. MacBook-Pro-de-JLMC:lorem macos$ sed 's/et/ET/g' at.txt > atx_2.txt
+		MacBook-Pro-de-JLMC:lorem macos$ ls
+      at.txt		atx_2.txt	lorem.txt	sed.txt
+13. MacBook-Pro-de-JLMC:lorem macos$ cp atx_2.txt ../lorem-copy
+14. MacBook-Pro-de-JLMC:lorem macos$ users
+Macos
+15. MacBook-Pro-de-JLMC:lab-bash macos$ ls
+README.md	inputs		lorem-copy	solution.txt
+exercices	lorem		outputs
+16. MacBook-Pro-de-JLMC:lorem macos$ ls -dq *.txt* | wc -l
+       4
+
+17. MacBook-Pro-de-JLMC:lorem macos$ cat sed.txt | wc
+       8     129     873
+18. MacBook-Pro-de-JLMC:lorem macos$ grep -o -i et at.txt | wc -l
+11
+MacBook-Pro-de-JLMC:lorem macos$ grep -o -i et at.txt ; wc -l
+	et
+	et
+	et
+	et
+	Et
+	et
+	et
+	et
+	et
+	et
+	et
+19. MacBook-Pro-de-JLMC:lorem-copy macos$ grep -o -i et *.txt | wc -l
+29
+20. MacBook-Pro-de-JLMC:lab-bash macos$ vi list_files.sh
+		MacBook-Pro-de-JLMC:lab-bash macos$ sh list_files.sh
+		README.md	inputs		lorem		outputs
+		exercices	list_files.sh	lorem-copy	solution.txt
