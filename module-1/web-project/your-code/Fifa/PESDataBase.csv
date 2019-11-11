@@ -1,0 +1,552 @@
+Stat,Name
+75,Al Ahli
+68,Al Ain
+71,Al Duhail
+74,Al Hilal
+73,Al Ittihad
+72,Al Nassr
+66,Al Rayyan
+71,Al Sadd
+67,Al Wahda
+66,Al Wasl
+64,Al Zawra'a
+70,Beijing FC
+68,Buriram United
+69,Daegu
+69,Esteghlal
+71,Guangzhou Evergrande
+69,Gyeongnam
+70,Jeonbuk Hyundai Motors
+67,Johor Darul Ta'Zim FC
+70,Kashima Antlers
+70,Kawasaki Frontale
+66,Lokomotiv
+69,Melbourne Victory
+68,Pakhtakor
+68,Persepolis
+70,Sanfrecce Hiroshima
+69,Shandong Luneng
+70,Shanghai Sipg
+69,Sydney FC
+69,Ulsan Hyundai FC
+70,Urawa Reds
+67,Zob Ahan
+73,Aldosivi
+73,Argentinos Juniors
+69,Arsenal F.C.
+73,C.A. Tucumán
+74,Banfield
+78,Boca Juniors
+69,Central Córdoba Sde
+74,C.A. Colón
+73,Defensa y Justicia
+72,Estudiantes
+72,Gimnasia la Plata
+71,Godoy Cruz
+73,Huracán
+77,Independiente
+75,Lanús
+74,Newell's Old Boys
+71,C.A. Patronato
+77,Racing Club
+79,River Plate
+75,Rosario Central
+75,San Lorenzo
+73,Talleres de Córdoba
+74,Unión Santa Fe
+75,Vélez Sarsfield
+75,Anderlecht
+74,Antwerp
+70,Cercle Brugge
+76,Club Brugge
+75,Genk
+75,Gent
+70,KAS Eupen
+70,Kortrijk
+71,KV Oostende
+69,Mechelen
+69,Royal Excel Mouscron
+70,Sint-Truiden
+70,Sporting Charleroi
+74,Standard Liège
+67,Waasland-Beveren
+70,Zulte-Waregem
+71,Athletico Paranaense
+76,Atlético Mineiro
+68,Avaí
+64,Bahia
+73,Botafogo
+72,Ceará
+70,Chapecoense
+76,Corinthians
+77,Cruzeiro
+66,CSA
+77,Flamengo
+73,Fluminense
+72,Fortaleza
+72,Goiás
+75,Grêmio
+76,Internacional
+77,Palmeiras
+73,Santos
+75,São Paulo
+73,Vasco da Gama
+69,América Mineiro
+67,Atlético Go
+67,Botafogo Sp
+68,Bragantino
+66,Brasil de Pelotas
+68,Coritiba
+69,Crb
+67,Criciúma
+67,Cuiabá
+66,Figueirense
+68,Guarani
+68,Londrina
+66,Oeste
+66,Operário Pr
+67,Paraná
+70,Ponte Preta
+68,São Bento
+69,Sport Recife
+67,Vila Nova
+70,Vitória
+68,Audax Italiano
+67,Cobresal
+73,Colo-Colo
+70,Coquimbo Unido
+67,Curicó Unido
+70,Antofagasta
+68,Deportes Iquique
+69,Everton
+69,Huachipato
+70,O'Higgins
+69,Palestino
+70,Unión Española
+71,Unión La Calera
+74,Universidad Católica
+70,Universidad Concepción
+72,Universidad de Chile
+69,Beijing Guoan
+68,Beijing Renhe
+67,Chongqing Ddlf
+70,Dalian Yifang
+71,Guangzhou Evergrande
+68,Guangzhou R&F
+69,Hebei Cffc
+67,Henan Jianye
+69,Jiangsu Suning
+69,Shandong Luneng
+68,Shanghai Shenhua
+70,Shanghai Sipg
+67,Shenzhen Kaisa
+67,Tianjin Teda
+68,Tianjin Tianhai
+67,Wuhan Zall
+68,Alianza Petrolera
+71,América de Cali
+69,Atlético Bucaramanga
+67,Atlético Huila
+73,Atlético Nacional
+68,Cúcuta Deportivo
+72,Deportes Tolima
+72,Deportivo Cali
+69,Deportivo Pasto
+67,Envigado
+72,Independiente Medellín
+66,Jaguares de Córdoba
+73,Junior
+70,la Equidad
+72,Millonarios
+70,Once Caldas
+67,Patriotas Boyacá
+70,Rionegro
+71,Santa Fe
+67,Unión Magdalena
+68,Aab
+68,Agf
+71,Brøndby
+67,Esbjerg
+66,Hobro
+66,Horsens
+74,København
+64,Lyngby
+70,Midtjylland
+67,Nordsjælland
+68,OB
+67,Randers
+66,Silkeborg
+68,Sønderjyske
+71,ADO Den Haag
+79,Ajax
+72,AZ
+70,Emmen
+76,Feyenoord
+68,Fortuna Sittard
+71,Groningen
+69,Heerenveen
+70,Heracles
+72,PEC Zwolle
+78,PSV
+67,RKC Waalwijk
+69,Sparta Rotterdam
+69,Twente
+74,Utrecht
+73,Vitesse
+68,VVV
+68,Willem II
+81,Arsenal
+76,Aston Villa
+77,Bournemouth
+76,Brighton & Hove Albion
+76,Burnley
+82,Chelsea
+77,Crystal Palace
+80,Everton
+78,Leicester City
+84,Liverpool
+86,Manchester City
+81,Manchester United
+77,Newcastle United
+74,Norwich City
+74,Sheffield United
+77,Southampton
+83,Tottenham Hotspur
+77,Watford
+79,West Ham United
+77,Wolverhampton Wanderers
+65,Barnsley FC
+71,Birmingham City
+70,Blackburn Rovers
+70,Brentford
+71,Bristol City
+73,Cardiff City
+68,Charlton Athletic
+71,Derby County
+74,Fulham
+71,Huddersfield Town
+70,Hull City
+72,Leeds United
+67,Luton Town
+71,Middlesbrough
+69,Millwall
+73,Nottingham Forest
+70,Preston North End
+70,QPR
+71,Reading
+72,Sheffield Wednesday
+73,Stoke City
+72,Swansea City
+72,West Bromwich Albion
+70,Wigan Athletic
+74,AEK Athens
+80,Bayer Leverkusen
+84,Bayern München
+74,Dinamo Zagreb
+77,Dynamo Kyiv
+75,Olympiakos Piraeus
+71,Panathinaikos
+75,PAOK
+78,Schalke 04
+77,Shakhtar Donetsk
+67,U.S.C. Palermo
+72,Slavia Praha
+72,Sparta Praha
+70,Beerschot
+75,Amiens
+75,Angers
+76,Bordeaux
+72,Brest
+73,Dijon
+77,Lille
+72,Metz
+80,Monaco
+76,Montpellier
+75,Nantes
+77,Nice
+71,Nîmes
+80,Olympique Lyonnais
+79,Olympique Marseille
+85,PSG
+76,Rennes
+77,Saint-Étienne
+74,Stade de Reims
+76,Strasbourg
+75,Toulouse
+67,Ajaccio
+71,Auxerre
+71,Caen
+66,Chambly
+67,Châteauroux
+68,Clermont
+68,Grenoble Foot 38
+72,Guingamp
+69,Le Havre
+67,Le Mans
+70,Lorient
+69,Nancy
+69,Niort
+67,Orléans
+69,Paris
+70,RC Lens
+64,Rodez
+67,Sochaux
+68,Troyes
+67,Valenciennes
+78,Atalanta
+76,Bologna
+74,Brescia
+77,Cagliari Calcio
+78,Fiorentina
+76,Genoa
+73,Hellas Verona
+81,Internazionale
+85,Juventus
+80,Lazio
+72,Lecce
+81,Milan
+82,Napoli
+75,Parma Calcio 1913
+80,Roma
+76,Sampdoria
+76,U.S. Sassuolo
+75,SPAL
+78,Torino
+77,Udinese
+70,Ascoli
+72,Benevento Calcio
+70,Chievo
+68,AS Cittadella
+67,Cosenza
+70,US Cremonese
+69,Crotone
+71,Empoli FC
+71,Frosinone
+68,Juve Stabia
+68,Livorno
+70,Perugia
+70,Pescara
+66,AC Pisa
+68,Pordenone
+69,Salernitana
+69,Spezia
+65,Trapani
+68,Venezia FC
+67,Virtus Entella
+69,Cerezo Osaka
+68,Consadole Sapporo
+69,FC Tokyo
+69,Gamba Osaka
+69,Júbilo Iwata
+70,Kashima Antlers
+70,Kawasaki Frontale
+67,Matsumoto Yamaga
+69,Nagoya Grampus
+67,Oita Trinita
+67,Sagan Tosu
+69,Sanfrecce Hiroshima
+68,Shimizu S-Pulse
+68,Shonan Bellmare
+70,Urawa Reds
+68,Vegalta Sendai
+71,Vissel Kobe
+70,Yokohama F. Marinos
+66,Albirex Niigata
+66,Avispa Fukuoka
+65,Ehime FC
+66,Fagiano Okayama
+65,FC Gifu
+65,FC Ryukyu
+67,Jef United Chiba
+64,Kagoshima United
+69,Kashiwa Reysol
+66,Kyoto Sanga
+65,Machida Zelvia
+65,Mito Hollyhock
+66,Montedio Yamagata
+67,Omiya Ardija
+65,Renofa Yamaguchi
+65,Tochigi SC
+66,Tokushima Vortis
+66,Tokyo Verdy
+67,V-Varen Nagasaki
+66,Ventforet Kofu
+67,Yokohama FC
+65,Zweigen Kanazawa
+86,France
+85,Germany
+85,Spain
+84,Belgium
+84,Italy
+83,England
+83,Netherlands
+83,Portugal
+80,Croatia
+80,Poland
+80,Russia
+80,Serbia
+80,Switzerland
+79,Denmark
+79,Ukraine
+78,Austria
+78,Turkey
+77,Czech Republic
+77,Greece
+77,Norway
+77,Sweden
+76,Bosnia and Herzegovina
+76,Scotland
+76,Slovakia
+75,Iceland
+75,Ireland
+75,Slovenia
+75,Wales
+85,Brazil
+84,Argentina
+82,Uruguay
+81,Colombia
+78,Chile
+76,Paraguay
+75,Peru
+75,Iran
+79,Senegal
+78,Algeria
+78,Côte d'Ivoire
+78,Morocco
+76,Cameroon
+76,Nigeria
+76,Tunisia
+75,Ghana
+78,Mexico
+68,CD Aves
+69,Belenenses
+79,Benfica
+71,Boavista
+69,Famalicão
+67,Gil Vicente
+70,CS Maritimo
+70,Moreirense
+69,Paços de Ferreira
+71,Portimonense SC
+78,FC Porto
+72,Rio Ave
+71,Santa Clara
+75,S.C. Braga
+77,Sporting
+69,Tondela
+74,Vitória Guimarães
+71,Vitória Setúbal
+73,Akhmat Grozny
+72,Arsenal Tula
+76,CSKA Moskva
+75,Dinamo Moskva
+78,Krasnodar
+71,Krylya Sovetov
+78,Lokomotiv Moskva
+70,Orenburg
+74,Rostov
+73,Rubin Kazan
+73,Sochi
+76,Spartak Moskva
+70,Tambov
+69,Ufa
+70,Ural
+79,Zenit
+69,Aberdeen
+75,Celtic
+65,Hamilton Academical
+70,Hearts
+69,Hibernian
+66,Kilmarnock
+65,Livingston
+66,Motherwell
+74,Rangers
+66,Ross County
+66,St. Johnstone
+64,St. Mirren
+75,Alavés
+85,Barcelona
+77,Athletic Club
+76,SD Eibar
+78,Getafe CF
+72,Granada CF
+77,CD Leganés
+76,Levante UD
+77,RCD Espanyol
+86,Real Madrid
+83,Atlético de Madrid
+71,RCD Mallorca
+73,CA Osasuna
+79,Sevilla FC
+79,Real Betis
+79,Valencia CF
+74,Real Valladolid
+77,Real Sociedad
+78,Celta de Vigo
+78,Villarreal
+69,Albacete Balompié
+68,AD Alcorcón
+70,UD Almería
+71,Cádiz CF
+67,Elche CF
+68,Extremadura Ar
+66,Fuenlabrada A
+70,Real Sporting
+75,Girona FC
+73,SD Huesca
+70,RC Deportivo
+70,UD Las Palmas
+68,CD Lugo
+71,Málaga CF
+66,CD Mirandés
+67,CD Numancia
+69,Real Oviedo
+65,Ponferrada Ab
+67,Santander Vb
+68,CD Tenerife
+72,Rayo Vallecano
+70,Real Zaragoza
+73,Basel
+69,Lugano
+69,Luzern
+65,Neuchâtel Xamax
+67,Servette
+70,Sion
+67,St. Gallen
+67,Thun
+74,Young Boys
+70,Zürich
+67,Buriram United
+61,Chainat Hornbill
+62,Chiangmai
+63,Chonburi
+62,Nakhonratchasima Mazda
+66,Port
+63,Pt Prachuap
+63,Ptt Rayong
+63,Ratchaburi Mitrphol
+62,Samut Prakan City
+67,SCG Muangthong United
+62,Singha Chiangrai United
+61,Sukhothai
+63,Suphanburi
+61,Trat
+65,True Bangkok United
+73,Alanyaspor
+69,Ankaragücü
+72,Antalyaspor
+77,Beşiktaş
+70,Denizlispor
+78,Fenerbahçe
+78,Galatasaray
+72,Gazişehir Gaziantep
+71,Gençlerbirliği
+75,Göztepe
+77,Istanbul Başakşehir
+73,Kasimpaşa
+73,Kayserispor
+72,Konyaspor
+71,Rizespor
+72,Sivasspor
+74,Trabzonspor
+72,Yeni Malatyaspor
