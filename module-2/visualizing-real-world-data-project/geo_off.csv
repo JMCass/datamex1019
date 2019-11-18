@@ -4,251 +4,260 @@
 2,5dd035d6f61aba4c994ea467,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
 3,5dd038897c4209e8fcddf9ef,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
 4,5dd1cf33ba98b511863b4ab2,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-5,5dd1e343d50343d5fda8903e,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-6,5dd1e2c8cf118f55cb1a088d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-7,5dd1e29d99a030d2fb03980c,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-8,5dd1e18209bb2cadf9410e1a,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-9,5dd1df09dc9cc345dbc7bc40,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-10,5dd1de7671aa6543dec25339,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-11,5dd1de0633e4b4f9e630730d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-12,5dd1dc22e874c9837a52bf2d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-13,5dd1dbfe853d28e884488ffa,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-14,5dd04446b0aaa073f9bd7433,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-15,5dd041733a8dbcbd8b0ffaad,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-16,5dd0395f357dcf96ffd92f8d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-17,5dd0394c0bc4a3d12b55383a,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-18,5dd039377f50ccaf8ba4dabd,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-19,5dd0391e0e78a76559956c5f,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-20,5dd0390258d8fcb1160d60f9,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-21,5dd036dddcf01e60030da03a,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-22,5dd036551041a8b71973d0b3,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-23,5dd036072dddc537f4f17454,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-24,5dd02f4fa3ea084975260122,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
-25,5dd01fdff31b3aaf2dc7bd73,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-26,5dd02ee0c322efee569434dd,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-27,5dd035d6f61aba4c994e8538,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-28,5dd038887c4209e8fcdddac0,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-29,5dd093d907e10bb8c38e2a66,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-30,5dd1df09dc9cc345dbc79d11,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-31,5dd1dff793e35332333ba8c6,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-32,5dd093df07e10bb8c38e323f,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-33,5dd1e0de17a4672259ab61a8,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-34,5dd1e17a3822b82347cb9db2,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-35,5dd0390258d8fcb1160d41ca,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-36,5dd098c483fbd13d430325d7,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-37,5dd1e18209bb2cadf940eeeb,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-38,5dd1e29d99a030d2fb0378dd,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-39,5dd098d9e2834a8e2747ba18,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-40,5dd1e2c8cf118f55cb19e95e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-41,5dd1e343d50343d5fda8710f,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-42,5dd036072dddc537f4f15525,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-43,5dd0391d0e78a76559954d30,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-44,5dd0999f087b14cff5cf0bdd,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-45,5dd09dba8d4c977fed3b00a2,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-46,5dd039377f50ccaf8ba4bb8e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-47,5dd1cf33ba98b511863b2b83,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-48,5dd1d7bde30a9b793455d3c5,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-49,5dd02f4fa3ea08497525e1f3,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-50,5dd036551041a8b71973b184,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-51,5dd0394c0bc4a3d12b55190b,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-52,5dd1d9005f963ca65f383083,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-53,5dd1da0a509a984f64d26904,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-54,5dd0395f357dcf96ffd9105e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-55,5dd1da6b36302e9b2a3d9215,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-56,5dd1db1a1eefd7744ea000b4,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-57,5dd036dddcf01e60030d810b,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-58,5dd041733a8dbcbd8b0fdb7e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-59,5dd1dbfe853d28e8844870cb,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-60,5dd1dc22e874c9837a529ffe,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-61,5dd04446b0aaa073f9bd5504,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-62,5dd1de0533e4b4f9e63053de,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-63,5dd1de7671aa6543dec2340a,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
-64,5dd1da0a509a984f64d2694e,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-65,5dd1da6b36302e9b2a3d925f,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-66,5dd1db1a1eefd7744ea000fe,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-67,5dd1dbfe853d28e884487227,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-68,5dd1dc22e874c9837a52a15a,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-69,5dd1de0533e4b4f9e630553a,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-70,5dd1de7671aa6543dec23566,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-71,5dd1d9005f963ca65f3830cd,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-72,5dd1dff793e35332333ba910,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-73,5dd1e0de17a4672259ab61f2,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-74,5dd1e17a3822b82347cb9dfc,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-75,5dd0999f087b14cff5cf0c27,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-76,5dd1e29d99a030d2fb037a39,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-77,5dd1e2c8cf118f55cb19eaba,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-78,5dd1e343d50343d5fda8726b,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-79,5dd093d907e10bb8c38e2ab0,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-80,5dd1e18209bb2cadf940f047,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-81,5dd01fdff31b3aaf2dc7becf,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-82,5dd02ee0c322efee56943639,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-83,5dd02f4fa3ea08497525e34f,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-84,5dd035d6f61aba4c994e8694,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-85,5dd038887c4209e8fcdddc1c,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-86,5dd036072dddc537f4f15681,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-87,5dd036551041a8b71973b2e0,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-88,5dd036dddcf01e60030d8267,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-89,5dd0390258d8fcb1160d4326,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-90,5dd0391d0e78a76559954e8c,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-91,5dd039377f50ccaf8ba4bcea,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-92,5dd0394c0bc4a3d12b551a67,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-93,5dd0395f357dcf96ffd911ba,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-94,5dd041733a8dbcbd8b0fdcda,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-95,5dd04446b0aaa073f9bd5660,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-96,5dd093df07e10bb8c38e3289,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-97,5dd098c483fbd13d43032621,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-98,5dd1df09dc9cc345dbc79e6d,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-99,5dd098d9e2834a8e2747ba62,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-100,5dd09dba8d4c977fed3b00ec,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-101,5dd1cf33ba98b511863b2cdf,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-102,5dd1d7bde30a9b793455d40f,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
-103,5dd1e343d50343d5fda87a09,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-104,5dd1de0633e4b4f9e6305cd8,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-105,5dd1df09dc9cc345dbc7a60b,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-106,5dd01fdff31b3aaf2dc7c66d,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-107,5dd02f4fa3ea08497525eaed,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-108,5dd1e29d99a030d2fb0381d7,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-109,5dd1dc22e874c9837a52a8f8,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-110,5dd039377f50ccaf8ba4c488,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-111,5dd1cf33ba98b511863b347d,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-112,5dd02ee1c322efee56943dd7,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-113,5dd0391e0e78a7655995562a,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-114,5dd0390258d8fcb1160d4ac4,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-115,5dd036551041a8b71973ba7e,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-116,5dd036dddcf01e60030d8a05,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-117,5dd041733a8dbcbd8b0fe478,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-118,5dd036072dddc537f4f15e1f,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-119,5dd038897c4209e8fcdde3ba,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-120,5dd04446b0aaa073f9bd5dfe,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-121,5dd1de7671aa6543dec23d04,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-122,5dd0394c0bc4a3d12b552205,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-123,5dd1dbfe853d28e8844879c5,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-124,5dd0395f357dcf96ffd91958,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-125,5dd1e18209bb2cadf940f7e5,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-126,5dd035d6f61aba4c994e8e32,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-127,5dd1e2c8cf118f55cb19f258,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
-128,5dd041733a8dbcbd8b0feaf9,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-129,5dd04446b0aaa073f9bd647f,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-130,5dd1e343d50343d5fda8808a,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-131,5dd1e29d99a030d2fb038858,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-132,5dd039377f50ccaf8ba4cb09,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-133,5dd1cf33ba98b511863b3afe,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-134,5dd1dc22e874c9837a52af79,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-135,5dd1de0633e4b4f9e6306359,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-136,5dd1de7671aa6543dec24385,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-137,5dd1e18209bb2cadf940fe66,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-138,5dd1e2c8cf118f55cb19f8d9,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-139,5dd1df09dc9cc345dbc7ac8c,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-140,5dd1dbfe853d28e884488046,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-141,5dd0395f357dcf96ffd91fd9,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-142,5dd01fdff31b3aaf2dc7ccee,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-143,5dd0390258d8fcb1160d5145,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-144,5dd02ee1c322efee56944458,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-145,5dd02f4fa3ea08497525f16e,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-146,5dd035d6f61aba4c994e94b3,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-147,5dd036551041a8b71973c0ff,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-148,5dd036072dddc537f4f164a0,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-149,5dd036dddcf01e60030d9086,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-150,5dd038897c4209e8fcddea3b,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-151,5dd0394c0bc4a3d12b552886,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-152,5dd0391e0e78a76559955cab,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
-153,5dd035d6f61aba4c994e8a4f,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-154,5dd1e2c8cf118f55cb19ee75,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-155,5dd1de7671aa6543dec23921,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-156,5dd1cf33ba98b511863b309a,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-157,5dd1e18209bb2cadf940f402,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-158,5dd01fdff31b3aaf2dc7c28a,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-159,5dd039377f50ccaf8ba4c0a5,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-160,5dd0394c0bc4a3d12b551e22,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-161,5dd0395f357dcf96ffd91575,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-162,5dd04446b0aaa073f9bd5a1b,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-163,5dd0390258d8fcb1160d46e1,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-164,5dd041733a8dbcbd8b0fe095,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-165,5dd1dbfe853d28e8844875e2,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-166,5dd1de0533e4b4f9e63058f5,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-167,5dd036551041a8b71973b69b,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-168,5dd1df09dc9cc345dbc7a228,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-169,5dd1e29d99a030d2fb037df4,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-170,5dd036072dddc537f4f15a3c,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-171,5dd036dddcf01e60030d8622,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+5,5dd2bd6ea22dbb6a54632db1,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+6,5dd1e343d50343d5fda8903e,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+7,5dd1e2c8cf118f55cb1a088d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+8,5dd1e29d99a030d2fb03980c,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+9,5dd1e18209bb2cadf9410e1a,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+10,5dd1df09dc9cc345dbc7bc40,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+11,5dd1de7671aa6543dec25339,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+12,5dd1de0633e4b4f9e630730d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+13,5dd1dc22e874c9837a52bf2d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+14,5dd1dbfe853d28e884488ffa,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+15,5dd04446b0aaa073f9bd7433,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+16,5dd041733a8dbcbd8b0ffaad,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+17,5dd0395f357dcf96ffd92f8d,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+18,5dd0394c0bc4a3d12b55383a,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+19,5dd039377f50ccaf8ba4dabd,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+20,5dd0391e0e78a76559956c5f,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+21,5dd0390258d8fcb1160d60f9,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+22,5dd036dddcf01e60030da03a,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+23,5dd036551041a8b71973d0b3,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+24,5dd036072dddc537f4f17454,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+25,5dd02f4fa3ea084975260122,Pipit Interactive,34.045499,-118.47036,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1.0
+26,5dd01fdff31b3aaf2dc7bd73,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+27,5dd02ee0c322efee569434dd,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+28,5dd035d6f61aba4c994e8538,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+29,5dd038887c4209e8fcdddac0,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+30,5dd093d907e10bb8c38e2a66,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+31,5dd1df09dc9cc345dbc79d11,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+32,5dd1dff793e35332333ba8c6,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+33,5dd093df07e10bb8c38e323f,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+34,5dd1e0de17a4672259ab61a8,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+35,5dd1e17a3822b82347cb9db2,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+36,5dd0390258d8fcb1160d41ca,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+37,5dd098c483fbd13d430325d7,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+38,5dd1e18209bb2cadf940eeeb,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+39,5dd1e29d99a030d2fb0378dd,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+40,5dd098d9e2834a8e2747ba18,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+41,5dd1e2c8cf118f55cb19e95e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+42,5dd1e343d50343d5fda8710f,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+43,5dd036072dddc537f4f15525,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+44,5dd0391d0e78a76559954d30,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+45,5dd0999f087b14cff5cf0bdd,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+46,5dd2bd6ea22dbb6a54630e82,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+47,5dd09dba8d4c977fed3b00a2,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+48,5dd039377f50ccaf8ba4bb8e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+49,5dd1cf33ba98b511863b2b83,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+50,5dd1d7bde30a9b793455d3c5,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+51,5dd02f4fa3ea08497525e1f3,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+52,5dd036551041a8b71973b184,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+53,5dd0394c0bc4a3d12b55190b,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+54,5dd1d9005f963ca65f383083,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+55,5dd1da0a509a984f64d26904,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+56,5dd0395f357dcf96ffd9105e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+57,5dd1da6b36302e9b2a3d9215,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+58,5dd1db1a1eefd7744ea000b4,ZiFiMusic,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+59,5dd036dddcf01e60030d810b,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+60,5dd041733a8dbcbd8b0fdb7e,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+61,5dd1dbfe853d28e8844870cb,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+62,5dd1dc22e874c9837a529ffe,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+63,5dd04446b0aaa073f9bd5504,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+64,5dd1de0533e4b4f9e63053de,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+65,5dd1de7671aa6543dec2340a,DailyStrength,34.043948,-118.468204,"{'type': 'Point', 'coordinates': [-118.468204, 34.043948]}",1.0
+66,5dd1d9005f963ca65f3830cd,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+67,5dd1da0a509a984f64d2694e,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+68,5dd1da6b36302e9b2a3d925f,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+69,5dd1db1a1eefd7744ea000fe,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+70,5dd1dbfe853d28e884487227,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+71,5dd1dc22e874c9837a52a15a,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+72,5dd1de0533e4b4f9e630553a,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+73,5dd1d7bde30a9b793455d40f,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+74,5dd1de7671aa6543dec23566,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+75,5dd1df09dc9cc345dbc79e6d,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+76,5dd1dff793e35332333ba910,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+77,5dd1e0de17a4672259ab61f2,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+78,5dd098d9e2834a8e2747ba62,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+79,5dd1e18209bb2cadf940f047,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+80,5dd1e29d99a030d2fb037a39,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+81,5dd1e2c8cf118f55cb19eaba,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+82,5dd04446b0aaa073f9bd5660,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+83,5dd0395f357dcf96ffd911ba,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+84,5dd2bd6ea22dbb6a54630fde,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+85,5dd01fdff31b3aaf2dc7becf,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+86,5dd02ee0c322efee56943639,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+87,5dd02f4fa3ea08497525e34f,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+88,5dd035d6f61aba4c994e8694,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+89,5dd036072dddc537f4f15681,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+90,5dd036dddcf01e60030d8267,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+91,5dd036551041a8b71973b2e0,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+92,5dd038887c4209e8fcdddc1c,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+93,5dd0390258d8fcb1160d4326,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+94,5dd0391d0e78a76559954e8c,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+95,5dd039377f50ccaf8ba4bcea,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+96,5dd0394c0bc4a3d12b551a67,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+97,5dd1e343d50343d5fda8726b,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+98,5dd041733a8dbcbd8b0fdcda,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+99,5dd093d907e10bb8c38e2ab0,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+100,5dd1e17a3822b82347cb9dfc,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+101,5dd093df07e10bb8c38e3289,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+102,5dd098c483fbd13d43032621,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+103,5dd0999f087b14cff5cf0c27,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+104,5dd09dba8d4c977fed3b00ec,RiffTrax,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+105,5dd1cf33ba98b511863b2cdf,Brilliant2,34.043228,-118.46856,"{'type': 'Point', 'coordinates': [-118.46856, 34.043228]}",1.0
+106,5dd2bd6ea22dbb6a5463177c,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+107,5dd1de7671aa6543dec23d04,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+108,5dd1e18209bb2cadf940f7e5,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+109,5dd1e29d99a030d2fb0381d7,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+110,5dd04446b0aaa073f9bd5dfe,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+111,5dd02f4fa3ea08497525eaed,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+112,5dd1de0633e4b4f9e6305cd8,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+113,5dd1dc22e874c9837a52a8f8,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+114,5dd1df09dc9cc345dbc7a60b,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+115,5dd039377f50ccaf8ba4c488,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+116,5dd0391e0e78a7655995562a,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+117,5dd1cf33ba98b511863b347d,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+118,5dd035d6f61aba4c994e8e32,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+119,5dd036dddcf01e60030d8a05,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+120,5dd036551041a8b71973ba7e,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+121,5dd036072dddc537f4f15e1f,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+122,5dd038897c4209e8fcdde3ba,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+123,5dd01fdff31b3aaf2dc7c66d,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+124,5dd041733a8dbcbd8b0fe478,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+125,5dd0394c0bc4a3d12b552205,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+126,5dd02ee1c322efee56943dd7,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+127,5dd1dbfe853d28e8844879c5,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+128,5dd0395f357dcf96ffd91958,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+129,5dd1e2c8cf118f55cb19f258,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+130,5dd1e343d50343d5fda87a09,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+131,5dd0390258d8fcb1160d4ac4,The Inteq Group,34.045504,-118.465743,"{'type': 'Point', 'coordinates': [-118.465743, 34.045504]}",1.0
+132,5dd0394c0bc4a3d12b552886,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+133,5dd0395f357dcf96ffd91fd9,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+134,5dd041733a8dbcbd8b0feaf9,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+135,5dd04446b0aaa073f9bd647f,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+136,5dd1cf33ba98b511863b3afe,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+137,5dd1dbfe853d28e884488046,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+138,5dd1dc22e874c9837a52af79,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+139,5dd1de7671aa6543dec24385,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+140,5dd1df09dc9cc345dbc7ac8c,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+141,5dd1e29d99a030d2fb038858,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+142,5dd1e18209bb2cadf940fe66,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+143,5dd1e2c8cf118f55cb19f8d9,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+144,5dd2bd6ea22dbb6a54631dfd,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+145,5dd1de0633e4b4f9e6306359,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+146,5dd1e343d50343d5fda8808a,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+147,5dd039377f50ccaf8ba4cb09,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+148,5dd0390258d8fcb1160d5145,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+149,5dd01fdff31b3aaf2dc7ccee,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+150,5dd036dddcf01e60030d9086,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+151,5dd02ee1c322efee56944458,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+152,5dd035d6f61aba4c994e94b3,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+153,5dd036072dddc537f4f164a0,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+154,5dd02f4fa3ea08497525f16e,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+155,5dd036551041a8b71973c0ff,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+156,5dd038897c4209e8fcddea3b,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+157,5dd0391e0e78a76559955cab,Vitality,34.0485243,-118.4623627,"{'type': 'Point', 'coordinates': [-118.4623627, 34.0485243]}",1.0
+158,5dd036551041a8b71973b69b,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+159,5dd035d6f61aba4c994e8a4f,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+160,5dd1e29d99a030d2fb037df4,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+161,5dd0390258d8fcb1160d46e1,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+162,5dd1df09dc9cc345dbc7a228,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+163,5dd2bd6ea22dbb6a54631399,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+164,5dd01fdff31b3aaf2dc7c28a,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+165,5dd0391d0e78a76559955247,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+166,5dd039377f50ccaf8ba4c0a5,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+167,5dd041733a8dbcbd8b0fe095,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+168,5dd0395f357dcf96ffd91575,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+169,5dd04446b0aaa073f9bd5a1b,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+170,5dd1cf33ba98b511863b309a,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+171,5dd1dc22e874c9837a52a515,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
 172,5dd038887c4209e8fcdddfd7,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-173,5dd1e343d50343d5fda87626,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-174,5dd0391d0e78a76559955247,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+173,5dd1de7671aa6543dec23921,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+174,5dd1e18209bb2cadf940f402,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
 175,5dd02f4fa3ea08497525e70a,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-176,5dd02ee1c322efee569439f4,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-177,5dd1dc22e874c9837a52a515,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
-178,5dd1e2c8cf118f55cb19fca0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-179,5dd1e18209bb2cadf941022d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-180,5dd1dc22e874c9837a52b340,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-181,5dd01fdff31b3aaf2dc7be38,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-182,5dd01fdff31b3aaf2dc7d0b5,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-183,5dd02ee0c322efee569435a2,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-184,5dd02ee1c322efee5694481f,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-185,5dd02f4fa3ea08497525e2b8,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-186,5dd02f4fa3ea08497525f535,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-187,5dd035d6f61aba4c994e85fd,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-188,5dd035d6f61aba4c994e987a,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-189,5dd0391e0e78a76559956072,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-190,5dd036072dddc537f4f155ea,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-191,5dd036072dddc537f4f16867,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-192,5dd036551041a8b71973b249,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-193,5dd036551041a8b71973c4c6,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-194,5dd038897c4209e8fcddee02,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-195,5dd036dddcf01e60030d81d0,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-196,5dd036dddcf01e60030d944d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-197,5dd1de7671aa6543dec2474c,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-198,5dd038887c4209e8fcdddb85,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+176,5dd1e343d50343d5fda87626,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+177,5dd0394c0bc4a3d12b551e22,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+178,5dd1e2c8cf118f55cb19ee75,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+179,5dd036dddcf01e60030d8622,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+180,5dd1dbfe853d28e8844875e2,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+181,5dd036072dddc537f4f15a3c,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+182,5dd1de0533e4b4f9e63058f5,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+183,5dd02ee1c322efee569439f4,ShopIt,34.05304,-118.46643,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1.0
+184,5dd1e343d50343d5fda88451,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+185,5dd2bd6ea22dbb6a54630f47,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+186,5dd2bd6ea22dbb6a546321c4,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+187,5dd1e343d50343d5fda871d4,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+188,5dd01fdff31b3aaf2dc7be38,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+189,5dd0395f357dcf96ffd91123,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+190,5dd01fdff31b3aaf2dc7d0b5,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+191,5dd02ee0c322efee569435a2,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+192,5dd1e29d99a030d2fb0379a2,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+193,5dd02ee1c322efee5694481f,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+194,5dd02f4fa3ea08497525e2b8,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+195,5dd02f4fa3ea08497525f535,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+196,5dd035d6f61aba4c994e85fd,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+197,5dd035d6f61aba4c994e987a,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+198,5dd036072dddc537f4f155ea,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
 199,5dd0390258d8fcb1160d428f,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-200,5dd0390258d8fcb1160d550c,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-201,5dd0391d0e78a76559954df5,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-202,5dd039377f50ccaf8ba4bc53,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-203,5dd039377f50ccaf8ba4ced0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-204,5dd0394c0bc4a3d12b5519d0,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-205,5dd0394c0bc4a3d12b552c4d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-206,5dd0395f357dcf96ffd91123,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-207,5dd0395f357dcf96ffd923a0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-208,5dd041733a8dbcbd8b0fdc43,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-209,5dd04446b0aaa073f9bd55c9,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-210,5dd04446b0aaa073f9bd6846,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-211,5dd1cf33ba98b511863b3ec5,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-212,5dd1cf33ba98b511863b2c48,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-213,5dd1dbfe853d28e884487190,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-214,5dd1dbfe853d28e88448840d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-215,5dd1dc22e874c9837a52a0c3,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-216,5dd1de0533e4b4f9e63054a3,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-217,5dd1de0633e4b4f9e6306720,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-218,5dd1de7671aa6543dec234cf,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+200,5dd1df09dc9cc345dbc79dd6,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+201,5dd036dddcf01e60030d81d0,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+202,5dd036072dddc537f4f16867,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+203,5dd036551041a8b71973b249,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+204,5dd036551041a8b71973c4c6,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+205,5dd036dddcf01e60030d944d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+206,5dd038887c4209e8fcdddb85,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+207,5dd038897c4209e8fcddee02,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+208,5dd0390258d8fcb1160d550c,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+209,5dd0391d0e78a76559954df5,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+210,5dd1de0533e4b4f9e63054a3,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+211,5dd0391e0e78a76559956072,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+212,5dd039377f50ccaf8ba4bc53,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+213,5dd039377f50ccaf8ba4ced0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+214,5dd0394c0bc4a3d12b5519d0,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+215,5dd0394c0bc4a3d12b552c4d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+216,5dd0395f357dcf96ffd923a0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+217,5dd041733a8dbcbd8b0fdc43,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+218,5dd1dbfe853d28e884487190,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
 219,5dd041733a8dbcbd8b0feec0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-220,5dd1df09dc9cc345dbc79dd6,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-221,5dd1df09dc9cc345dbc7b053,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-222,5dd1e343d50343d5fda88451,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-223,5dd1e2c8cf118f55cb19ea23,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-224,5dd1e18209bb2cadf940efb0,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-225,5dd1e29d99a030d2fb0379a2,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-226,5dd1e29d99a030d2fb038c1f,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
-227,5dd1e343d50343d5fda871d4,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
-228,5dd041733a8dbcbd8b0ff8a7,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-229,5dd04446b0aaa073f9bd722d,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-230,5dd0394c0bc4a3d12b553634,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-231,5dd035d6f61aba4c994ea261,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-232,5dd1cf33ba98b511863b48ac,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-233,5dd1dc22e874c9837a52bd27,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-234,5dd1de0633e4b4f9e6307107,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-235,5dd1de7671aa6543dec25133,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-236,5dd1e18209bb2cadf9410c14,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-237,5dd1e29d99a030d2fb039606,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-238,5dd039377f50ccaf8ba4d8b7,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-239,5dd1e2c8cf118f55cb1a0687,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-240,5dd036551041a8b71973cead,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-241,5dd0391e0e78a76559956a59,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-242,5dd01fdff31b3aaf2dc7da9c,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-243,5dd0390258d8fcb1160d5ef3,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-244,5dd036dddcf01e60030d9e34,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-245,5dd038897c4209e8fcddf7e9,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-246,5dd036072dddc537f4f1724e,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-247,5dd02f4fa3ea08497525ff1c,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+220,5dd04446b0aaa073f9bd6846,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+221,5dd1cf33ba98b511863b2c48,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+222,5dd1cf33ba98b511863b3ec5,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+223,5dd1dbfe853d28e88448840d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+224,5dd1dc22e874c9837a52a0c3,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+225,5dd1dc22e874c9837a52b340,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+226,5dd04446b0aaa073f9bd55c9,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+227,5dd1de0633e4b4f9e6306720,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+228,5dd1de7671aa6543dec234cf,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+229,5dd1de7671aa6543dec2474c,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+230,5dd1e2c8cf118f55cb19fca0,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+231,5dd1e2c8cf118f55cb19ea23,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+232,5dd1e18209bb2cadf941022d,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+233,5dd1df09dc9cc345dbc7b053,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+234,5dd1e18209bb2cadf940efb0,Terra Matrix Media,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",1.0
+235,5dd1e29d99a030d2fb038c1f,LeadPoint,34.054212,-118.464454,"{'type': 'Point', 'coordinates': [-118.464454, 34.054212]}",2.0
+236,5dd0394c0bc4a3d12b553634,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+237,5dd041733a8dbcbd8b0ff8a7,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+238,5dd04446b0aaa073f9bd722d,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+239,5dd036072dddc537f4f1724e,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+240,5dd1cf33ba98b511863b48ac,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+241,5dd1dbfe853d28e884488df4,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+242,5dd1dc22e874c9837a52bd27,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+243,5dd1de7671aa6543dec25133,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+244,5dd1df09dc9cc345dbc7ba3a,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+245,5dd0391e0e78a76559956a59,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+246,5dd1e18209bb2cadf9410c14,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+247,5dd1e2c8cf118f55cb1a0687,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
 248,5dd1e343d50343d5fda88e38,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-249,5dd1df09dc9cc345dbc7ba3a,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-250,5dd1dbfe853d28e884488df4,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-251,5dd02ee1c322efee56945206,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
-252,5dd0395f357dcf96ffd92d87,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+249,5dd2bd6ea22dbb6a54632bab,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+250,5dd02f4fa3ea08497525ff1c,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+251,5dd038897c4209e8fcddf7e9,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+252,5dd036551041a8b71973cead,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+253,5dd01fdff31b3aaf2dc7da9c,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+254,5dd0390258d8fcb1160d5ef3,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+255,5dd036dddcf01e60030d9e34,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+256,5dd035d6f61aba4c994ea261,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+257,5dd039377f50ccaf8ba4d8b7,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+258,5dd1e29d99a030d2fb039606,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+259,5dd0395f357dcf96ffd92d87,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+260,5dd1de0633e4b4f9e6307107,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
+261,5dd02ee1c322efee56945206,Global Fitness Media,34.054318,-118.462876,"{'type': 'Point', 'coordinates': [-118.462876, 34.054318]}",1.0
