@@ -35,18 +35,18 @@
 33,Australia,HYUNDAI A-LEAGUE,Sydney FC,-33.889167,151.225278,Allianz Stadium
 35,Australia,HYUNDAI A-LEAGUE,Western Sydney Wanderers,-33.843056,151.067778,Sydney Showground Stadium
 34,Australia,HYUNDAI A-LEAGUE,Wellington Phoenix,-41.273056,174.785833,Westpac Stadium
-36,Austria,Ö. BUNDESLIGA,FC Admira Wacker Mödling,,,
-37,Austria,Ö. BUNDESLIGA,FK Austria Wien,,,
-38,Austria,Ö. BUNDESLIGA,FC Wacker Innsbruck,,,
-39,Austria,Ö. BUNDESLIGA,LASK Linz,,,
-40,Austria,Ö. BUNDESLIGA,FC Red Bull Salzburg,,,
-41,Austria,Ö. BUNDESLIGA,SCR Altach,,,
-42,Austria,Ö. BUNDESLIGA,SK Rapid Wien,,,
-43,Austria,Ö. BUNDESLIGA,SK Sturm Graz,,,
-44,Austria,Ö. BUNDESLIGA,SKN St. Pölten,,,
-45,Austria,Ö. BUNDESLIGA,SV Mattersburg,,,
-46,Austria,Ö. BUNDESLIGA,TSV Hartberg,,,
-47,Austria,Ö. BUNDESLIGA,Wolfsberger AC,,,
+36,Austria,Ö. BUNDESLIGA,FC Admira Wacker Mödling,48.0976,16.3109,BSFZ-Arena
+37,Austria,Ö. BUNDESLIGA,FK Austria Wien,48.162306,16.386694,Generali Arena
+38,Austria,Ö. BUNDESLIGA,FC Wacker Innsbruck,47.255972,11.410789,Tivoli Neu
+39,Austria,Ö. BUNDESLIGA,LASK Linz,48.235556,14.226667,Waldstadion
+40,Austria,Ö. BUNDESLIGA,FC Red Bull Salzburg,47.81625,12.998222,Red Bull Arena
+41,Austria,Ö. BUNDESLIGA,SCR Altach,47.3536,9.6372,Cashpoint Arena
+42,Austria,Ö. BUNDESLIGA,SK Rapid Wien,48.1981,16.2653,Allianz Stadion
+43,Austria,Ö. BUNDESLIGA,SK Sturm Graz,47.046111,15.454444,Stadion Graz-Liebenau
+44,Austria,Ö. BUNDESLIGA,SKN St. Pölten,48.2209,15.6531,NV Arena
+45,Austria,Ö. BUNDESLIGA,SV Mattersburg,47.7394,16.4064,Pappelstadion
+46,Austria,Ö. BUNDESLIGA,TSV Hartberg,47.281,15.9772,Stadion Hartberg
+47,Austria,Ö. BUNDESLIGA,Wolfsberger AC,46.8253,14.8514,Lavanttal-Arena
 48,Belgium,PRO LEAGUE,KSV Cercle Brugge,,,
 49,Belgium,PRO LEAGUE,Club Brugge KV,,,
 50,Belgium,PRO LEAGUE,Royal Excel Mouscron,,,
@@ -429,40 +429,40 @@
 427,Mexico,LIGA BANCOMER MX,Deportivo Toluca,,,
 428,Mexico,LIGA BANCOMER MX,U.N.A.M.,,,
 429,Mexico,LIGA BANCOMER MX,Tiburones Rojos de Veracruz,,,
-430,Netherlands,EREDIVISIE,ADO Den Haag,,,
-431,Netherlands,EREDIVISIE,Ajax,,,
-432,Netherlands,EREDIVISIE,AZ Alkmaar,,,
-433,Netherlands,EREDIVISIE,De Graafschap,,,
-434,Netherlands,EREDIVISIE,Excelsior,,,
-435,Netherlands,EREDIVISIE,FC Emmen,,,
-436,Netherlands,EREDIVISIE,FC Groningen,,,
-437,Netherlands,EREDIVISIE,FC Utrecht,,,
-438,Netherlands,EREDIVISIE,Feyenoord,,,
-439,Netherlands,EREDIVISIE,Fortuna Sittard,,,
-440,Netherlands,EREDIVISIE,Heracles Almelo,,,
-441,Netherlands,EREDIVISIE,NAC Breda,,,
-442,Netherlands,EREDIVISIE,PEC Zwolle,,,
-443,Netherlands,EREDIVISIE,PSV,,,
-444,Netherlands,EREDIVISIE,SC Heerenveen,,,
-445,Netherlands,EREDIVISIE,Vitesse,,,
-446,Netherlands,EREDIVISIE,VVV-Venlo,,,
-447,Netherlands,EREDIVISIE,Willem II,,,
-448,Norway,ELITESERIEN,FK Bodø/Glimt,,,
-449,Norway,ELITESERIEN,FK Haugesund,,,
-450,Norway,ELITESERIEN,IK Start,,,
-451,Norway,ELITESERIEN,Kristiansund BK,,,
-452,Norway,ELITESERIEN,Lillestrøm SK,,,
-453,Norway,ELITESERIEN,Molde FK,,,
-454,Norway,ELITESERIEN,Odds BK,,,
-455,Norway,ELITESERIEN,Ranheim Fotball,,,
-456,Norway,ELITESERIEN,Rosenborg BK,,,
-457,Norway,ELITESERIEN,Sandefjord Fotball,,,
-458,Norway,ELITESERIEN,Sarpsborg 08 FF,,,
-459,Norway,ELITESERIEN,SK Brann,,,
-460,Norway,ELITESERIEN,Stabæk Fotball,,,
-461,Norway,ELITESERIEN,Strømsgodset IF,,,
-462,Norway,ELITESERIEN,Tromsø IL,,,
-463,Norway,ELITESERIEN,Vålerenga Fotball,,,
+430,Netherlands,EREDIVISIE,ADO Den Haag,52.062778,4.383056,Cars Jeans Stadion
+431,Netherlands,EREDIVISIE,Ajax,52.314167,4.941944,Johan Cruyff Arena
+432,Netherlands,EREDIVISIE,AZ Alkmaar,52.6125,4.741667,AFAS Stadion
+433,Netherlands,EREDIVISIE,De Graafschap,51.955833,6.309722,De Vijverberg
+434,Netherlands,EREDIVISIE,Excelsior Rotterdam,51.916944,4.520556,Stadion Woudestein
+435,Netherlands,EREDIVISIE,FC Emmen,52.774722,6.945556,De Oude Meerdijk
+436,Netherlands,EREDIVISIE,FC Groningen,53.206111,6.591389,Euroborg
+437,Netherlands,EREDIVISIE,FC Utrecht,52.078333,5.145833,Stadion Galgenwaard
+438,Netherlands,EREDIVISIE,Feyenoord,51.893894,4.523253,Stadion Feijenoord
+439,Netherlands,EREDIVISIE,Fortuna Sittard,50.991944,5.843611,Fortuna Sittard Stadion
+440,Netherlands,EREDIVISIE,Heracles Almelo,52.338611,6.649722,Polman Stadion
+441,Netherlands,EREDIVISIE,NAC Breda,51.595556,4.750278,Rat Verlegh Stadion
+442,Netherlands,EREDIVISIE,PEC Zwolle,52.517292,6.121911,MACPARK Stadion
+443,Netherlands,EREDIVISIE,PSV,51.4417,5.4674,Philips Stadion
+444,Netherlands,EREDIVISIE,SC Heerenveen,52.958611,5.936111,Abe Lenstra Stadion
+445,Netherlands,EREDIVISIE,Vitesse,51.9625,5.893056,Gelredome
+446,Netherlands,EREDIVISIE,VVV-Venlo,51.351944,6.179722,Seacon Stadion
+447,Netherlands,EREDIVISIE,Willem II,51.542778,5.066944,Willem II Stadion
+448,Norway,ELITESERIEN,FK Bodø/Glimt,67.276639,14.384333,Aspmyra stadium
+449,Norway,ELITESERIEN,FK Haugesund,59.413068,5.279379,Haugesund stadion
+450,Norway,ELITESERIEN,IK Start,58.153611,8.028611,Sparebanken Sør Arena
+451,Norway,ELITESERIEN,Kristiansund BK,63.124722,7.718056,Kristiansund stadion
+452,Norway,ELITESERIEN,Lillestrøm SK,59.962752,11.063458,Åråsen Stadion
+453,Norway,ELITESERIEN,Molde FK,62.733889,7.148611,Aker Stadion
+454,Norway,ELITESERIEN,Odds BK,59.211111,9.589722,Skagerak Arena
+455,Norway,ELITESERIEN,Ranheim Fotball,58.954,5.693,DNB Arena
+456,Norway,ELITESERIEN,Rosenborg BK,63.4125,10.405,Lerkendal Stadion
+457,Norway,ELITESERIEN,Sandefjord Fotball,59.13725,10.17969,Komplett.no Arena
+458,Norway,ELITESERIEN,Sarpsborg 08 FF,59.286217,11.097608,Sarpsborg Stadion
+459,Norway,ELITESERIEN,SK Brann,60.366389,5.356944,Brann Stadion
+460,Norway,ELITESERIEN,Stabæk Fotball,59.921111,10.581111,Nadderud Stadion
+461,Norway,ELITESERIEN,Strømsgodset IF,59.734392,10.201333,Marienlyst Stadion
+462,Norway,ELITESERIEN,Tromsø IL,69.648954,18.934582,Alfheim Stadion
+463,Norway,ELITESERIEN,Vålerenga Fotball,59.9183,10.8094,Intility Arena
 464,Poland,EKSTRAKLASA,Arka Gdynia,,,
 465,Poland,EKSTRAKLASA,Cracovia,,,
 466,Poland,EKSTRAKLASA,Górnik Zabrze,,,
