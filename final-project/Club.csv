@@ -47,22 +47,22 @@
 45,Austria,Ö. BUNDESLIGA,SV Mattersburg,47.7394,16.4064,Pappelstadion
 46,Austria,Ö. BUNDESLIGA,TSV Hartberg,47.281,15.9772,Stadion Hartberg
 47,Austria,Ö. BUNDESLIGA,Wolfsberger AC,46.8253,14.8514,Lavanttal-Arena
-48,Belgium,PRO LEAGUE,KSV Cercle Brugge,,,
-49,Belgium,PRO LEAGUE,Club Brugge KV,,,
-50,Belgium,PRO LEAGUE,Royal Excel Mouscron,,,
-51,Belgium,PRO LEAGUE,KAA Gent,,,
-52,Belgium,PRO LEAGUE,KAS Eupen,,,
-53,Belgium,PRO LEAGUE,KRC Genk,,,
-54,Belgium,PRO LEAGUE,KV Kortrijk,,,
-55,Belgium,PRO LEAGUE,KV Oostende,,,
-56,Belgium,PRO LEAGUE,Royal Antwerp FC,,,
-57,Belgium,PRO LEAGUE,RSC Anderlecht,,,
-58,Belgium,PRO LEAGUE,Sint-Truidense VV,,,
-59,Belgium,PRO LEAGUE,Sporting de Charleroi,,,
-60,Belgium,PRO LEAGUE,Sporting Lokeren,,,
-61,Belgium,PRO LEAGUE,Standard de Liège,,,
-62,Belgium,PRO LEAGUE,Waasland-Beveren,,,
-63,Belgium,PRO LEAGUE,SV Zulte-Waregem,,,
+48,Belgium,PRO LEAGUE,KSV Cercle Brugge,51.193269,3.181311,Estadio Jan Breydel
+49,Belgium,PRO LEAGUE,Club Brugge KV,51.193269,3.181311,Estadio Jan Breydel
+50,Belgium,PRO LEAGUE,Royal Excel Mouscron,50.733953,3.211082,Stade Le Canonnier
+51,Belgium,PRO LEAGUE,KAA Gent,51.016111,3.734167,Ghelamco Arena
+52,Belgium,PRO LEAGUE,KAS Eupen,50.626389,6.045833,Kehrweg Stadion
+53,Belgium,PRO LEAGUE,KRC Genk,51.005,5.533333,Luminus Arena
+54,Belgium,PRO LEAGUE,KV Kortrijk,50.830278,3.248889,Guldensporen Stadion
+55,Belgium,PRO LEAGUE,KV Oostende,51.216667,2.886389,Albertparkstadion
+56,Belgium,PRO LEAGUE,Royal Antwerp FC,51.232222,4.471667,Bosuilstadion
+57,Belgium,PRO LEAGUE,RSC Anderlecht,50.834167,4.298333,Constant Vanden Stock
+58,Belgium,PRO LEAGUE,Sint-Truidense VV,50.813611,5.165278,Stayen Stadion
+59,Belgium,PRO LEAGUE,Sporting de Charleroi,50.414609,4.453787,Stade du Pays de Charleroi
+60,Belgium,PRO LEAGUE,Sporting Lokeren,51.116389,3.987222,Daknamstadion
+61,Belgium,PRO LEAGUE,Standard de Liège,50.609908,5.543344,Maurice Dufrasne
+62,Belgium,PRO LEAGUE,Waasland-Beveren,51.214139,4.243931,Freethiel Stadion
+63,Belgium,PRO LEAGUE,SV Zulte-Waregem,50.883056,3.428889,Regenboogstadion
 64,Brazil,LIGA DO BRASIL,América FC (Minas Gerais),,,
 66,Brazil,LIGA DO BRASIL,Atlético Mineiro,,,
 65,Brazil,LIGA DO BRASIL,Atlético Paranaense,,,
@@ -130,20 +130,20 @@
 128,Colombia,LIGA DIMAYOR,Once Caldas,,,
 129,Colombia,LIGA DIMAYOR,Patriotas Boyacá FC,,,
 130,Colombia,LIGA DIMAYOR,Rionegro Águilas,,,
-131,Denmark,SUPERLIGA,Aalborg BK,,,
-132,Denmark,SUPERLIGA,Aarhus GF,,,
-133,Denmark,SUPERLIGA,AC Horsens,,,
-134,Denmark,SUPERLIGA,Brøndby IF,,,
-135,Denmark,SUPERLIGA,Esbjerg fB,,,
-136,Denmark,SUPERLIGA,FC København,,,
-137,Denmark,SUPERLIGA,FC Midtjylland,,,
-138,Denmark,SUPERLIGA,FC Nordsjælland,,,
-139,Denmark,SUPERLIGA,Hobro IK,,,
-140,Denmark,SUPERLIGA,Odense Boldklub,,,
-141,Denmark,SUPERLIGA,Randers FC,,,
-142,Denmark,SUPERLIGA,SønderjyskE,,,
-143,Denmark,SUPERLIGA,Vejle Boldklub,,,
-144,Denmark,SUPERLIGA,Vendsyssel FF,,,
+131,Denmark,SUPERLIGA,Aalborg BK,57.0515,9.8991,Nordjyske Arena
+132,Denmark,SUPERLIGA,Aarhus GF,56.131944,10.196389,Aarhus Idrætspark
+133,Denmark,SUPERLIGA,AC Horsens,55.871667,9.857222,CASA Arena Horsens
+134,Denmark,SUPERLIGA,Brøndby IF,55.648853,12.418358,Estadio Brøndby
+135,Denmark,SUPERLIGA,Esbjerg fB,55.481944,8.439444,Blue Water Arena
+136,Denmark,SUPERLIGA,FC København,55.702469,12.572203,Parken Stadion
+137,Denmark,SUPERLIGA,FC Midtjylland,56.116667,8.951667,MCH Arena
+138,Denmark,SUPERLIGA,FC Nordsjælland,55.815847,12.353289,Farum Park
+139,Denmark,SUPERLIGA,Hobro IK,56.635,9.82,DS Arena
+140,Denmark,SUPERLIGA,Odense Boldklub,55.397771,10.350055,Odense Stadion
+141,Denmark,SUPERLIGA,Randers FC,56.465833,10.010278,AutoC Park
+142,Denmark,SUPERLIGA,SønderjyskE,55.261359,9.487791,Sydbank Park
+143,Denmark,SUPERLIGA,Vejle Boldklub,55.71372,9.5562,Vejle Stadion
+144,Denmark,SUPERLIGA,Vendsyssel FF,57.457661,9.998506,Nord Energi Arena
 189,England,LEAGUE ONE DE LA EFL,Accrington Stanley,,,
 190,England,LEAGUE ONE DE LA EFL,AFC Wimbledon,,,
 145,England,PREMIER LEAGUE,Arsenal,51.555,-0.108611,Emirates Stadium
@@ -238,19 +238,19 @@
 236,England,LEAGUE TWO DE LA EFL,Yeovil Town,,,
 257,France,DOMINOS LIGUE 2,AC Ajaccio,41.931081,8.776725,Stade François Coty
 258,France,DOMINOS LIGUE 2,AJ Auxerre,47.786753,3.588664,Stade de l'Abbé-Deschamps
-237,France,LIGUE 1 CONFORAMA,Amiens SC,,,
-238,France,LIGUE 1 CONFORAMA,Angers SCO,,,
-259,France,DOMINOS LIGUE 2,AS Béziers,,,
+237,France,LIGUE 1 CONFORAMA,Amiens SC,49.894209,2.263312,Stade de la Licorne
+238,France,LIGUE 1 CONFORAMA,Angers SCO,47.460458,-0.530741,Stade Raymond Kopa
+259,France,DOMINOS LIGUE 2,AS Béziers,43.334714,3.266,Stade de la Méditerranée
 239,France,LIGUE 1 CONFORAMA,AS Monaco,43.727606,7.415614,Stade Louis II
-260,France,DOMINOS LIGUE 2,Chamois Niortais Football Club,,,
-261,France,DOMINOS LIGUE 2,Clermont Foot 63,,,
+260,France,DOMINOS LIGUE 2,Chamois Niortais Football Club,46.3169444,-0.489166667,Stade René Gaillard
+261,France,DOMINOS LIGUE 2,Clermont Foot 63,45.8158333,3.121666667,Stade Gabriel Montpied
 241,France,LIGUE 1 CONFORAMA,Dijon FCO,47.324383,5.068342,Stade Gaston Gérard
 242,France,LIGUE 1 CONFORAMA,En Avant de Guingamp,48.566285,-3.164599,Stade du Roudourou
 262,France,DOMINOS LIGUE 2,ESTAC Troyes,48.307561,4.098458,Stade de l'Aube
 263,France,DOMINOS LIGUE 2,FC Lorient,47.748747,-3.369367,Stade du Moustoir
-264,France,DOMINOS LIGUE 2,FC Metz,,,
+264,France,DOMINOS LIGUE 2,FC Metz,49.10981,6.159511,Stade Saint-Symphorien
 243,France,LIGUE 1 CONFORAMA,FC Nantes,47.255631,-1.525375,Stade de la Beaujoire
-266,France,DOMINOS LIGUE 2,GFC Ajaccio,,,
+266,France,DOMINOS LIGUE 2,GFC Ajaccio,41.951389,8.772222,Stade Ange Casanova
 244,France,LIGUE 1 CONFORAMA,FC Girondins de Bordeaux,44.829167,-0.597778,Stade Chaban-Delmas
 267,France,DOMINOS LIGUE 2,Grenoble Foot 38,,,
 269,France,DOMINOS LIGUE 2,La Berrichonne de Châteauroux,,,
@@ -411,24 +411,24 @@
 409,Korea,K-LEAGUE 1,Sangju Sangmu FC,36.432367,128.161655,Sangju Civic Stadium
 410,Korea,K-LEAGUE 1,Suwon Samsung Bluewings,37.286421,127.036855,Suwon World Cup Stadium
 411,Korea,K-LEAGUE 1,Ulsan Hyundai FC,35.535328,129.259512,Munsu Ulsan Stadium
-412,Mexico,LIGA BANCOMER MX,Club América,,,
-413,Mexico,LIGA BANCOMER MX,Club Atlas,,,
-414,Mexico,LIGA BANCOMER MX,Cruz Azul,,,
-415,Mexico,LIGA BANCOMER MX,Guadalajara,,,
-416,Mexico,LIGA BANCOMER MX,Club León,,,
-417,Mexico,LIGA BANCOMER MX,Lobos BUAP,,,
-418,Mexico,LIGA BANCOMER MX,Monarcas Morelia,,,
-419,Mexico,LIGA BANCOMER MX,Monterrey,,,
-420,Mexico,LIGA BANCOMER MX,Club Necaxa,,,
-421,Mexico,LIGA BANCOMER MX,Pachuca,,,
-422,Mexico,LIGA BANCOMER MX,Puebla FC,,,
-423,Mexico,LIGA BANCOMER MX,Querétaro,,,
-424,Mexico,LIGA BANCOMER MX,Santos Laguna,,,
-425,Mexico,LIGA BANCOMER MX,Tigres U.A.N.L.,,,
-426,Mexico,LIGA BANCOMER MX,Club Tijuana,,,
-427,Mexico,LIGA BANCOMER MX,Deportivo Toluca,,,
-428,Mexico,LIGA BANCOMER MX,U.N.A.M.,,,
-429,Mexico,LIGA BANCOMER MX,Tiburones Rojos de Veracruz,,,
+412,Mexico,LIGA BANCOMER MX,Club América,19.302778,-99.150556,Estadio Azteca
+413,Mexico,LIGA BANCOMER MX,Club Atlas,20.705,-103.328139,Etadio Jalisco
+414,Mexico,LIGA BANCOMER MX,Cruz Azul,19.302778,-99.150556,Estadio Azteca
+415,Mexico,LIGA BANCOMER MX,Guadalajara,20.681667,-103.462778,Estadio Akron
+416,Mexico,LIGA BANCOMER MX,Club León,21.115544,-101.657744,Estadio Nou Camp
+417,Mexico,LIGA BANCOMER MX,Lobos BUAP,18.997222,-98.1975,Olímpico de la B.U.A.P.
+418,Mexico,LIGA BANCOMER MX,Monarcas Morelia,19.718742,-101.233622,Estadio Morelos
+419,Mexico,LIGA BANCOMER MX,Monterrey,25.670172,-100.2437,Estadio BBVA
+420,Mexico,LIGA BANCOMER MX,Club Necaxa,21.880653,-102.275483,Estadio Victoria
+421,Mexico,LIGA BANCOMER MX,Pachuca,20.105144,-98.756114,Estadio Hidalgo
+422,Mexico,LIGA BANCOMER MX,Puebla FC,19.078056,-98.164444,Estadio Cuauhtémoc
+423,Mexico,LIGA BANCOMER MX,Querétaro,20.577642,-100.366539,Estadio Corregidora
+424,Mexico,LIGA BANCOMER MX,Santos Laguna,25.629145,-103.379417,Estadio Corona
+425,Mexico,LIGA BANCOMER MX,Tigres U.A.N.L.,25.722806,-100.312056,Estadio Universitario
+426,Mexico,LIGA BANCOMER MX,Club Tijuana,32.506067,-116.993092,Estadio Caliente
+427,Mexico,LIGA BANCOMER MX,Deportivo Toluca,19.287286,-99.666794,Estadio Nemesio Diez
+428,Mexico,LIGA BANCOMER MX,U.N.A.M.,19.331928,-99.192106,Estadio Olímpico Universitario
+429,Mexico,LIGA BANCOMER MX,Tiburones Rojos de Veracruz,19.164222,-96.125017,Estadio Luis Pirata Fuente
 430,Netherlands,EREDIVISIE,ADO Den Haag,52.062778,4.383056,Cars Jeans Stadion
 431,Netherlands,EREDIVISIE,Ajax,52.314167,4.941944,Johan Cruyff Arena
 432,Netherlands,EREDIVISIE,AZ Alkmaar,52.6125,4.741667,AFAS Stadion
@@ -583,22 +583,22 @@
 583,Spain,LALIGA 1 | 2 | 3,UD Las Palmas,,,
 560,Spain,LALIGA SANTANDER,Valencia CF,39.474656,-0.358361,Mestalla
 561,Spain,LALIGA SANTANDER,Villarreal CF,39.944167,-0.103611,El Madrigal
-584,Sweden,ALLSVENSKAN,AIK,,,
-585,Sweden,ALLSVENSKAN,BK Häcken,,,
-586,Sweden,ALLSVENSKAN,IF Brommapojkarna,,,
-587,Sweden,ALLSVENSKAN,Dalkurd FF,,,
-588,Sweden,ALLSVENSKAN,Djurgårdens IF,,,
-589,Sweden,ALLSVENSKAN,GIF Sundsvall,,,
-590,Sweden,ALLSVENSKAN,Hammarby IF,,,
-591,Sweden,ALLSVENSKAN,IF Elfsborg,,,
-592,Sweden,ALLSVENSKAN,IFK Göteborg,,,
-593,Sweden,ALLSVENSKAN,IFK Norrköping,,,
-594,Sweden,ALLSVENSKAN,IK Sirius,,,
-595,Sweden,ALLSVENSKAN,Kalmar FF,,,
-596,Sweden,ALLSVENSKAN,Malmö FF,,,
-597,Sweden,ALLSVENSKAN,Örebro SK,,,
-598,Sweden,ALLSVENSKAN,Östersunds FK,,,
-599,Sweden,ALLSVENSKAN,Trelleborgs FF,,,
+584,Sweden,ALLSVENSKAN,AIK,59.3725,18,Friends Arena
+585,Sweden,ALLSVENSKAN,BK Häcken,57.719167,11.930556,Rambergsvallen
+586,Sweden,ALLSVENSKAN,IF Brommapojkarna,59.362222,17.851667,Estadio Grimsta IP
+587,Sweden,ALLSVENSKAN,Dalkurd FF,60.495,15.434167,Domnarvsvallen
+588,Sweden,ALLSVENSKAN,Djurgårdens IF,59.291389,18.085278,Tele2 Arena
+589,Sweden,ALLSVENSKAN,GIF Sundsvall,58.584167,16.173056,Idrottsparken
+590,Sweden,ALLSVENSKAN,Hammarby IF,59.291389,18.085278,Tele2 Arena
+591,Sweden,ALLSVENSKAN,IF Elfsborg,57.73457,12.934334,Borås Arena
+592,Sweden,ALLSVENSKAN,IFK Göteborg,57.706111,11.980556,Gamla Ullevi
+593,Sweden,ALLSVENSKAN,IFK Norrköping,58.584167,16.173056,Östgötaporten
+594,Sweden,ALLSVENSKAN,IK Sirius,59.84958,17.64532,Studenternas IP
+595,Sweden,ALLSVENSKAN,Kalmar FF,56.69123,16.31493,Guldfågeln Arena
+596,Sweden,ALLSVENSKAN,Malmö FF,55.583611,12.987778,Swedbank Stadion
+597,Sweden,ALLSVENSKAN,Örebro SK,59.266111,15.223056,Behrn Arena
+598,Sweden,ALLSVENSKAN,Östersunds FK,63.194722,14.655833,Jämtkraft Arena
+599,Sweden,ALLSVENSKAN,Trelleborgs FF,59.9183,10.8094,Vångavallen
 600,Switzerland,RAIFFEISEN SUPER LEAGUE,BSC Young Boys,46.962778,7.465,Stade de Suisse
 601,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Basel 1893,47.541389,7.62,St. Jakob Park
 602,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Lugano,46.023611,8.961667,Stadio Comunale di Cornaredo
