@@ -78,38 +78,38 @@
 76,Brazil,LIGA DO BRASIL,Santos,,,
 77,Brazil,LIGA DO BRASIL,Sport Club do Recife,,,
 78,Brazil,LIGA DO BRASIL,Vitória,,,
-79,Chile,CAMP. SCOTIABANK,Audax Italiano,,,
-80,Chile,CAMP. SCOTIABANK,CD Antofagasta,,,
-81,Chile,CAMP. SCOTIABANK,CD Huachipato,,,
-82,Chile,CAMP. SCOTIABANK,CD Ohiggins,,,
-83,Chile,CAMP. SCOTIABANK,CD Palestino,,,
-84,Chile,CAMP. SCOTIABANK,Colo-Colo,,,
-85,Chile,CAMP. SCOTIABANK,Curicó Unido,,,
-86,Chile,CAMP. SCOTIABANK,Deportes Iquique,,,
-87,Chile,CAMP. SCOTIABANK,Club Deportes Temuco,,,
-88,Chile,CAMP. SCOTIABANK,CD Everton de Viña del Mar,,,
-89,Chile,CAMP. SCOTIABANK,San Luis de Quillota,,,
-93,Chile,CAMP. SCOTIABANK,Unión Española,,,
-94,Chile,CAMP. SCOTIABANK,Unión La Calera,,,
-90,Chile,CAMP. SCOTIABANK,Universidad Católica,,,
-91,Chile,CAMP. SCOTIABANK,CD Universidad de Concepción,,,
-92,Chile,CAMP. SCOTIABANK,Universidad de Chile,,,
-95,China,CSL,Beijing Sinobo Guoan FC,,,
-96,China,CSL,Beijing Renhe FC,,,
-97,China,CSL,Changchun Yatai FC,,,
-98,China,CSL,Chongqing Dangdai Lifan FC SWM Team,,,
-99,China,CSL,Dalian YiFang FC,,,
-100,China,CSL,Guangzhou Evergrande Taobao FC,,,
-101,China,CSL,Guangzhou R&F FC,,,
-102,China,CSL,Guizhou Hengfeng FC,,,
-103,China,CSL,Hebei China Fortune FC,,,
-104,China,CSL,Henan Jianye FC,,,
-105,China,CSL,Jiangsu Suning FC,,,
-106,China,CSL,Shandong Luneng TaiShan FC,,,
-107,China,CSL,Shanghai Greenland Shenhua FC,,,
-108,China,CSL,Shanghai SIPG FC,,,
-109,China,CSL,Tianjin Quanjian FC,,,
-110,China,CSL,Tianjin TEDA FC,,,
+79,Chile,CAMP. SCOTIABANK,Audax Italiano,-33.540833,-70.578333,Bicentenario de La Florida
+80,Chile,CAMP. SCOTIABANK,CD Antofagasta,-23.670139,-70.404583,Regional Calvo y Bascuñán
+81,Chile,CAMP. SCOTIABANK,CD Huachipato,-36.755556,-73.107222,Huachipato - CAP Acero
+82,Chile,CAMP. SCOTIABANK,CD O'higgins,-34.177764,-70.737719,El Teniente
+83,Chile,CAMP. SCOTIABANK,CD Palestino,-33.520833,-70.672778,Municipal de La Cisterna
+84,Chile,CAMP. SCOTIABANK,Colo-Colo,-33.506611,-70.605944,Monumental
+85,Chile,CAMP. SCOTIABANK,Curicó Unido,-34.974356,-71.230707,La Granja
+86,Chile,CAMP. SCOTIABANK,Deportes Iquique,-20.235111,-70.145611,Municipal de Cavancha
+87,Chile,CAMP. SCOTIABANK,Club Deportes Temuco,-38.742778,-72.619722,Germán Becker
+88,Chile,CAMP. SCOTIABANK,CD Everton de Viña del Mar,-33.014397,-71.535233,Sausalito
+89,Chile,CAMP. SCOTIABANK,San Luis de Quillota,-32.8876,-71.252,Municipal Lucio Fariña Fernández
+93,Chile,CAMP. SCOTIABANK,Unión Española,-33.404553,-70.659017,Santa Laura
+94,Chile,CAMP. SCOTIABANK,Unión La Calera,-32.784167,-71.199444,Nicolás Chahuán Nazar
+90,Chile,CAMP. SCOTIABANK,Universidad Católica,-33.395944,-70.500656,San Carlos de Apoquindo
+91,Chile,CAMP. SCOTIABANK,CD Universidad de Concepción,-36.815278,-73.023333,Ester Roa Rebolledo
+92,Chile,CAMP. SCOTIABANK,Universidad de Chile,-33.464522,-70.610586,Estadio Nacional de Chile
+95,China,CSL,Beijing Sinobo Guoan FC,39.929528,116.441139,Workers Stadium
+96,China,CSL,Beijing Renhe FC,39.865694,116.272625,Beijing Fengtai Stadium
+97,China,CSL,Changchun Yatai FC,43.864144,125.336861,Changchun Stadium
+98,China,CSL,Chongqing Dangdai Lifan FC SWM Team,29.528723,106.502109,Chongqing Olympic Sports Center
+99,China,CSL,Dalian YiFang FC,38.906939,121.604147,Sportcenter of Dalian
+100,China,CSL,Guangzhou Evergrande Taobao FC,23.138031,113.324661,Tianhe Stadium
+101,China,CSL,Guangzhou R&F FC,23.139216,113.260739,Yuexiushan Stadium
+102,China,CSL,Guizhou Hengfeng FC,26.620721,106.605749,Guiyang Olympic Sports Center
+103,China,CSL,Hebei China Fortune FC,39.907325,119.547708,Qinhuangdao Arena
+104,China,CSL,Henan Jianye FC,34.7167,113.725,Zhengzhou Hanghai Stadium
+105,China,CSL,Jiangsu Suning FC,32.010642,118.7197,Nanjing Olympic Sports Center
+106,China,CSL,Shandong Luneng TaiShan FC,36.656646,117.110052,Jinan Olympic Sports Center Stadium
+107,China,CSL,Shanghai Greenland Shenhua FC,31.2733,121.4762,Estadio Hongkou
+108,China,CSL,Shanghai SIPG FC,31.191291,121.489391,Shanghai Arena
+109,China,CSL,Tianjin Quanjian FC,39.006941,117.351801,Haihe Educational Football Stadium
+110,China,CSL,Tianjin TEDA FC,39.073444,117.169389,Estadio Olímpico de Tianjin
 111,Colombia,LIGA DIMAYOR,Alianza Petrolera,,,
 112,Colombia,LIGA DIMAYOR,América de Cali,,,
 113,Colombia,LIGA DIMAYOR,Atlético Bucaramanga,,,
@@ -381,24 +381,24 @@
 361,Italy,SERIE A TIM,Torino,,,
 362,Italy,SERIE A TIM,Udinese,,,
 381,Italy,CALCIO B,Venezia FC,,,
-382,Japan,MEIJI YASUDA J1,Cerezo Osaka,,,
-383,Japan,MEIJI YASUDA J1,FC Tokyo,,,
-384,Japan,MEIJI YASUDA J1,Gamba Osaka,,,
-385,Japan,MEIJI YASUDA J1,Hokkaido Consadole Sapporo,,,
-386,Japan,MEIJI YASUDA J1,Júbilo Iwata,,,
-387,Japan,MEIJI YASUDA J1,Kashima Antlers,,,
-388,Japan,MEIJI YASUDA J1,Kashiwa Reysol,,,
-389,Japan,MEIJI YASUDA J1,Kawasaki Frontale,,,
-390,Japan,MEIJI YASUDA J1,Nagoya Grampus,,,
-391,Japan,MEIJI YASUDA J1,Sagan Tosu,,,
-393,Japan,MEIJI YASUDA J1,Sanfrecce Hiroshima,,,
-392,Japan,MEIJI YASUDA J1,Shimizu S-Pulse,,,
-394,Japan,MEIJI YASUDA J1,Shonan Bellmare,,,
-395,Japan,MEIJI YASUDA J1,Urawa Red Diamonds,,,
-398,Japan,MEIJI YASUDA J1,V-Varen Nagasaki,,,
-396,Japan,MEIJI YASUDA J1,Vegalta Sendai,,,
-397,Japan,MEIJI YASUDA J1,Vissel Kobe,,,
-399,Japan,MEIJI YASUDA J1,Yokohama F. Marinos,,,
+382,Japan,MEIJI YASUDA J1,Cerezo Osaka,34.615339,135.516572,Kincho Stadium
+383,Japan,MEIJI YASUDA J1,FC Tokyo,35.664278,139.527139,Ajinomoto Stadium
+384,Japan,MEIJI YASUDA J1,Gamba Osaka,34.811372,135.54085,Panasonic Suita Stadium
+385,Japan,MEIJI YASUDA J1,Hokkaido Consadole Sapporo,43.015172,141.409767,Sapporo Dome
+386,Japan,MEIJI YASUDA J1,Júbilo Iwata,34.725217,137.875006,Yamaha Stadium
+387,Japan,MEIJI YASUDA J1,Kashima Antlers,35.991744,140.640525,Kashima Soccer Stadium
+388,Japan,MEIJI YASUDA J1,Kashiwa Reysol,35.8485,139.975149,Sankyo Frontier Kashiwa Stadium
+389,Japan,MEIJI YASUDA J1,Kawasaki Frontale,35.585895,139.652731,Kawasaki Todoroki Stadium
+390,Japan,MEIJI YASUDA J1,Nagoya Grampus,35.0845,137.170611,Toyota Stadium
+391,Japan,MEIJI YASUDA J1,Sagan Tosu,33.371944,130.520278,Ekimae Real Estate Stadium
+393,Japan,MEIJI YASUDA J1,Sanfrecce Hiroshima,34.440778,132.39425,EDION Hiroshima Stadium
+392,Japan,MEIJI YASUDA J1,Shimizu S-Pulse,34.984444,138.481111,IAI Nihondaira Stadium
+394,Japan,MEIJI YASUDA J1,Shonan Bellmare,35.343608,139.341263,Shonan BMW Stadium Hiratsuka
+395,Japan,MEIJI YASUDA J1,Urawa Red Diamonds,35.903142,139.717492,Saitama Stadium 2002
+398,Japan,MEIJI YASUDA J1,V-Varen Nagasaki,32.838611,130.039444,Transcosmos Stadium Nagasaki
+396,Japan,MEIJI YASUDA J1,Vegalta Sendai,38.319167,140.881944,Yurtec Stadium Sendai
+397,Japan,MEIJI YASUDA J1,Vissel Kobe,34.656708,135.168964,NOEVIR Stadium Kobe
+399,Japan,MEIJI YASUDA J1,Yokohama F. Marinos,35.510044,139.606247,Nissan Stadium
 400,Korea,K-LEAGUE 1,Daegu FC,35.829739,128.690205,Daegu Stadium
 401,Korea,K-LEAGUE 1,FC Seoul,37.568222,126.897361,Seul Stadium
 402,Korea,K-LEAGUE 1,Gangwon FC,37.77366,128.897503,Gangneung Stadium
@@ -463,45 +463,45 @@
 461,Norway,ELITESERIEN,Strømsgodset IF,59.734392,10.201333,Marienlyst Stadion
 462,Norway,ELITESERIEN,Tromsø IL,69.648954,18.934582,Alfheim Stadion
 463,Norway,ELITESERIEN,Vålerenga Fotball,59.9183,10.8094,Intility Arena
-464,Poland,EKSTRAKLASA,Arka Gdynia,,,
-465,Poland,EKSTRAKLASA,Cracovia,,,
-466,Poland,EKSTRAKLASA,Górnik Zabrze,,,
-467,Poland,EKSTRAKLASA,Jagiellonia Białystok,,,
-468,Poland,EKSTRAKLASA,Korona Kielce,,,
-469,Poland,EKSTRAKLASA,Lech Poznań,,,
-470,Poland,EKSTRAKLASA,Lechia Gdańsk,,,
-471,Poland,EKSTRAKLASA,Legia Warszawa,,,
-472,Poland,EKSTRAKLASA,Miedź Legnica,,,
-473,Poland,EKSTRAKLASA,Piast Gliwice,,,
-474,Poland,EKSTRAKLASA,Pogoń Szczecin,,,
-475,Poland,EKSTRAKLASA,Śląsk Wrocław,,,
-476,Poland,EKSTRAKLASA,Wisła Kraków,,,
-477,Poland,EKSTRAKLASA,Wisła Płock,,,
-478,Poland,EKSTRAKLASA,Zagłębie Sosnowiec,,,
-479,Poland,EKSTRAKLASA,Zagłębie Lubin,,,
-480,Portugal,LIGA NOS,Os Belenenses,,,
-481,Portugal,LIGA NOS,Boavista FC,,,
-482,Portugal,LIGA NOS,CD Feirense,,,
-486,Portugal,LIGA NOS,CD Nacional,,,
-483,Portugal,LIGA NOS,CD Tondela,,,
-484,Portugal,LIGA NOS,CD Aves,,,
-485,Portugal,LIGA NOS,FC Porto,,,
-487,Portugal,LIGA NOS,GD Chaves,,,
-488,Portugal,LIGA NOS,Clube Sport Marítimo,,,
-489,Portugal,LIGA NOS,Moreirense FC,,,
-490,Portugal,LIGA NOS,Portimonense SC,,,
-491,Portugal,LIGA NOS,Rio Ave FC,,,
-492,Portugal,LIGA NOS,Santa Clara,,,
-493,Portugal,LIGA NOS,SC Braga,,,
-494,Portugal,LIGA NOS,SL Benfica,,,
-495,Portugal,LIGA NOS,Sporting CP,,,
-496,Portugal,LIGA NOS,Vitória Guimarães,,,
-497,Portugal,LIGA NOS,Vitória de Setúbal,,,
+464,Poland,EKSTRAKLASA,Arka Gdynia,54.493136,18.531214,Stadion GOSiR
+465,Poland,EKSTRAKLASA,Cracovia,50.058056,19.919722,Estadio Józef Pilsudski
+466,Poland,EKSTRAKLASA,Górnik Zabrze,50.296317,18.768564,Estadio Ernest Pohl
+467,Poland,EKSTRAKLASA,Jagiellonia Białystok,53.105556,23.148889,Bialystok Civil Stadion 
+468,Poland,EKSTRAKLASA,Korona Kielce,50.861389,20.624722,Kielce Civil Stadion
+469,Poland,EKSTRAKLASA,Lech Poznań,52.397222,16.858056,Poznan Civil Stadion
+470,Poland,EKSTRAKLASA,Lechia Gdańsk,54.39,18.640278,PGE Arena Gdansk
+471,Poland,EKSTRAKLASA,Legia Warszawa,52.220461,21.040628,Józef Piłsudski Stadion
+472,Poland,EKSTRAKLASA,Miedź Legnica,51.203667,16.169889,Stadion Orła Białego
+473,Poland,EKSTRAKLASA,Piast Gliwice,50.306583,18.695866,Gilwice Stadion
+474,Poland,EKSTRAKLASA,Pogoń Szczecin,53.436576,14.518658,Florian Krygier Stadion
+475,Poland,EKSTRAKLASA,Śląsk Wrocław,51.141797,16.944094,Wroclaw Stadion
+476,Poland,EKSTRAKLASA,Wisła Kraków,50.063611,19.911944,Henryk Reyman Stadion
+477,Poland,EKSTRAKLASA,Wisła Płock,52.562004,19.684067,Kazimierz Górski Stadion
+478,Poland,EKSTRAKLASA,Zagłębie Sosnowiec,50.277222,19.103611,Stadion Ludowy
+479,Poland,EKSTRAKLASA,Zagłębie Lubin,51.413333,16.1975,Stadion Zagłębia Lubin
+480,Portugal,LIGA NOS,Os Belenenses,38.702778,-9.207778,Restelo Stadium
+481,Portugal,LIGA NOS,Boavista FC,41.162222,-8.642778,Estádio do Bessa XXI
+482,Portugal,LIGA NOS,CD Feirense,40.926689,-8.545814,Estádio Marcolino de Castro
+486,Portugal,LIGA NOS,CD Nacional,32.670625,-16.883525,Estádio da Madeira
+483,Portugal,LIGA NOS,CD Tondela,40.512041,-8.082825,Estádio João Cardoso
+484,Portugal,LIGA NOS,CD Aves,41.378077,-8.35476,Estádio do Clube Desportivo das Aves
+485,Portugal,LIGA NOS,FC Porto,41.161758,-8.583933,Estadio do Dragão
+487,Portugal,LIGA NOS,GD Chaves,41.75064,-7.464985,Estadio Municipal do Chaves
+488,Portugal,LIGA NOS,Clube Sport Marítimo,32.645561,-16.928331,Estádio do Marítimo
+489,Portugal,LIGA NOS,Moreirense FC,41.378089,-8.354761,Estadio Comendador Joaquim de Almeida Freitas
+490,Portugal,LIGA NOS,Portimonense SC,37.135694,-8.539833,Estadio Municipal de Portimão
+491,Portugal,LIGA NOS,Rio Ave FC,41.362756,-8.740186,Estádio do Rio Ave FC
+492,Portugal,LIGA NOS,Santa Clara,37.763708,-25.622589,Estadio de São Miguel
+493,Portugal,LIGA NOS,SC Braga,41.5624,-8.4308,Estádio Municipal de Braga
+494,Portugal,LIGA NOS,SL Benfica,38.752678,-9.184681,Estádio da Luz
+495,Portugal,LIGA NOS,Sporting CP,38.761194,-9.160783,Estadio José Alvalade
+496,Portugal,LIGA NOS,Vitória Guimarães,41.445833,-8.301111,Dom Afonso Henriques
+497,Portugal,LIGA NOS,Vitória de Setúbal,38.531389,-8.891111,Estadio do Bonfim
 498,Greece,Superleague Greece,AEK Athens,38.0369,23.7414,Agia Sofia Stadium
 499,Russia,Russian Liga Premier,PFC CSKA Moscow,55.791389,37.516111,Arena CSKA
 500,Croatia,MAXtv Prva Liga,Dinamo Zagreb,45.818858,16.018078,Maksimir Stadion
 501,Ukraine,Ukrainian Premier League,Dynamo Kyiv,50.433333,30.521667,Olímpico de Kiev
-502,Finland,Veikkausliiga,HJK Helsinki,,,
+502,Finland,Veikkausliiga,HJK Helsinki,60.1875,24.9225,Telia 5G -areena
 503,South Africa,Premier Soccer League,Kaizer Chiefs,-26.234806,27.982378,FNB Stadium
 504,Russia,Russian Liga Premier,Lokomotiv Moscow,55.80355,37.741169,RZD Arena
 505,Greece,Superleague Greece,Olympiacos CFP,37.946169,23.664536,Georgios Karaiskakis Stadium
@@ -541,46 +541,46 @@
 539,Scotland,SCOTTISH PREMIERSHIP,Rangers FC,55.853206,-4.309258,Ibrox Stadium
 540,Scotland,SCOTTISH PREMIERSHIP,St. Johnstone FC,56.409686,-3.476928,McDiarmid Park
 541,Scotland,SCOTTISH PREMIERSHIP,St. Mirren,55.850556,-4.443889,St. Mirren Park
-562,Spain,LALIGA 1 | 2 | 3,AD Alcorcón,,,
-563,Spain,LALIGA 1 | 2 | 3,Albacete BP,,,
+562,Spain,LALIGA 1 | 2 | 3,AD Alcorcón,40.338889,-3.840556,Santo Domingo
+563,Spain,LALIGA 1 | 2 | 3,Albacete BP,38.981117,-1.852142,Carlos Belmonte
 542,Spain,LALIGA SANTANDER,Athletic Club de Bilbao,43.264284,-2.950366,San Mamés
 543,Spain,LALIGA SANTANDER,Atlético Madrid,40.401719,-3.720606,Vicente Calderón
 564,Spain,LALIGA 1 | 2 | 3,CA Osasuna,42.796667,-1.636944,El Sadar
-565,Spain,LALIGA 1 | 2 | 3,Cádiz CF,,,
-569,Spain,LALIGA 1 | 2 | 3,CF Rayo Majadahonda,,,
-570,Spain,LALIGA 1 | 2 | 3,CF Reus Deportiu,,,
-544,Spain,LALIGA SANTANDER,CD Leganés,,,
-566,Spain,LALIGA 1 | 2 | 3,CD Lugo,,,
-567,Spain,LALIGA 1 | 2 | 3,CD Numancia,,,
-568,Spain,LALIGA 1 | 2 | 3,CD Tenerife,,,
-571,Spain,LALIGA 1 | 2 | 3,Córdoba CF,,,
-545,Spain,LALIGA SANTANDER,Deportivo Alavés,,,
+565,Spain,LALIGA 1 | 2 | 3,Cádiz CF,36.502778,-6.273056,Ramón de Carranza
+569,Spain,LALIGA 1 | 2 | 3,CF Rayo Majadahonda,40.4575,-3.86028,Cerro del Espino
+570,Spain,LALIGA 1 | 2 | 3,CF Reus Deportiu,41.16,1.09,Camp Nou Municipal
+544,Spain,LALIGA SANTANDER,CD Leganés,40.3404,-3.7607,Municipal de Butarque
+566,Spain,LALIGA 1 | 2 | 3,CD Lugo,43.003333,-7.570833,Anxo Carro
+567,Spain,LALIGA 1 | 2 | 3,CD Numancia,41.754444,-2.467778,Nuevo Los Pajaritos
+568,Spain,LALIGA 1 | 2 | 3,CD Tenerife,28.463056,-16.260556,Heliodoro Rodríguez López
+571,Spain,LALIGA 1 | 2 | 3,Córdoba CF,37.872294,-4.764642,Nuevo Arcángel
+545,Spain,LALIGA SANTANDER,Deportivo Alavés,42.837111,-2.688044,Mendizorroza
 572,Spain,LALIGA 1 | 2 | 3,Elche CF,38.266944,-0.663333,Martínez Valero
-573,Spain,LALIGA 1 | 2 | 3,Extremadura UD,,,
+573,Spain,LALIGA 1 | 2 | 3,Extremadura UD,38.684411,-6.414606,Estadio Francisco de la Hera
 546,Spain,LALIGA SANTANDER,FC Barcelona,41.38087,2.122802,Camp Nou
 547,Spain,LALIGA SANTANDER,Getafe CF,40.325556,-3.714722,Coliseum Alfonso Pérez
-548,Spain,LALIGA SANTANDER,Girona FC,,,
+548,Spain,LALIGA SANTANDER,Girona FC,41.961389,2.828611,Municipal de Montilivi
 574,Spain,LALIGA 1 | 2 | 3,Granada CF,37.152967,-3.595736,Nuevo Los Cármenes
 549,Spain,LALIGA SANTANDER,Levante UD,39.494722,-0.364167,Ciutat de València
 575,Spain,LALIGA 1 | 2 | 3,Málaga CF,36.734092,-4.426422,La Rosaleda
-576,Spain,LALIGA 1 | 2 | 3,Nàstic,,,
+576,Spain,LALIGA 1 | 2 | 3,Nàstic,41.126944,1.272778,Nou Estadi de Tarragona
 551,Spain,LALIGA SANTANDER,Rayo Vallecano,40.391944,-3.658961,Campo de Vallecas
 552,Spain,LALIGA SANTANDER,RC Celta,42.211842,-8.739711,Balaídos
 580,Spain,LALIGA 1 | 2 | 3,Deportivo de La Coruña,43.368714,-8.417516,Riazor
 554,Spain,LALIGA SANTANDER,Real Betis,37.356389,-5.981389,Benito Villamarín
 581,Spain,LALIGA 1 | 2 | 3,RCD Mallorca,39.59,2.63,Iberostar Stadium
 555,Spain,LALIGA SANTANDER,Real Madrid,40.45306,-3.68835,Santiago Bernabéu
-577,Spain,LALIGA 1 | 2 | 3,Real Oviedo,,,
+577,Spain,LALIGA 1 | 2 | 3,Real Oviedo,43.360783,-5.870222,Carlos Tartiere
 556,Spain,LALIGA SANTANDER,Real Sociedad,43.301378,-1.973617,Anoeta
-578,Spain,LALIGA 1 | 2 | 3,Real Sporting de Gijón,,,
+578,Spain,LALIGA 1 | 2 | 3,Real Sporting de Gijón,43.536111,-5.637222,Estadio El Molinón
 550,Spain,LALIGA SANTANDER,Real Valladolid CF,41.644444,-4.761111,Nuevo José Zorrilla
 579,Spain,LALIGA 1 | 2 | 3,Real Zaragoza,41.636592,-0.901822,La Romareda
 553,Spain,LALIGA SANTANDER,RCD Espanyol,41.347861,2.075667,Cornellà-El Prat
 559,Spain,LALIGA SANTANDER,Sevilla FC,37.384,-5.9705,Ramón Sánchez Pizjuán
-557,Spain,LALIGA SANTANDER,SD Eibar,,,
-558,Spain,LALIGA SANTANDER,SD Huesca,,,
+557,Spain,LALIGA SANTANDER,SD Eibar,43.181706,-2.475803,Ipurua
+558,Spain,LALIGA SANTANDER,SD Huesca,42.131944,-0.424444,El Alcoraz
 582,Spain,LALIGA 1 | 2 | 3,UD Almería,36.84,-2.435278,Estadio del Mediterráneo
-583,Spain,LALIGA 1 | 2 | 3,UD Las Palmas,,,
+583,Spain,LALIGA 1 | 2 | 3,UD Las Palmas,28.1,-15.456667,Estadio de Gran Canaria
 560,Spain,LALIGA SANTANDER,Valencia CF,39.474656,-0.358361,Mestalla
 561,Spain,LALIGA SANTANDER,Villarreal CF,39.944167,-0.103611,El Madrigal
 584,Sweden,ALLSVENSKAN,AIK,59.3725,18,Friends Arena
