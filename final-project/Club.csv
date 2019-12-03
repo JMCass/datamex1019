@@ -110,26 +110,26 @@
 108,China,CSL,Shanghai SIPG FC,31.191291,121.489391,Shanghai Arena
 109,China,CSL,Tianjin Quanjian FC,39.006941,117.351801,Haihe Educational Football Stadium
 110,China,CSL,Tianjin TEDA FC,39.073444,117.169389,Estadio Olímpico de Tianjin
-111,Colombia,LIGA DIMAYOR,Alianza Petrolera,,,
-112,Colombia,LIGA DIMAYOR,América de Cali,,,
-113,Colombia,LIGA DIMAYOR,Atlético Bucaramanga,,,
-115,Colombia,LIGA DIMAYOR,Atlético Huila,,,
-114,Colombia,LIGA DIMAYOR,Atlético Nacional,,,
-116,Colombia,LIGA DIMAYOR,Boyacá Chicó FC,,,
-117,Colombia,LIGA DIMAYOR,Deportes Tolima,,,
-118,Colombia,LIGA DIMAYOR,Deportivo Cali,,,
-119,Colombia,LIGA DIMAYOR,Deportivo Pasto,,,
-120,Colombia,LIGA DIMAYOR,Envigado FC,,,
-122,Colombia,LIGA DIMAYOR,Independiente Medellín,,,
-121,Colombia,LIGA DIMAYOR,Independiente Santa Fe,,,
-123,Colombia,LIGA DIMAYOR,Jaguares de Córdoba,,,
-124,Colombia,LIGA DIMAYOR,Junior FC,,,
-125,Colombia,LIGA DIMAYOR,La Equidad,,,
-126,Colombia,LIGA DIMAYOR,Itagüí Leones FC,,,
-127,Colombia,LIGA DIMAYOR,Millonarios FC,,,
-128,Colombia,LIGA DIMAYOR,Once Caldas,,,
-129,Colombia,LIGA DIMAYOR,Patriotas Boyacá FC,,,
-130,Colombia,LIGA DIMAYOR,Rionegro Águilas,,,
+111,Colombia,LIGA DIMAYOR,Alianza Petrolera,7.23639,-73.8642,Daniel Villa Zapata
+112,Colombia,LIGA DIMAYOR,América de Cali,3.429889,-76.541083,Olímpico Pascual Guerrero
+113,Colombia,LIGA DIMAYOR,Atlético Bucaramanga,7.136589,-73.116589,Estadio Alfonso López
+115,Colombia,LIGA DIMAYOR,Atlético Huila,2.936698,-75.274286,Guillermo Plazas Alcid
+114,Colombia,LIGA DIMAYOR,Atlético Nacional,6.2568,-75.590172,Atanasio Girardot
+116,Colombia,LIGA DIMAYOR,Boyacá Chicó FC,5.542233,-73.353131,La Independencia
+117,Colombia,LIGA DIMAYOR,Deportes Tolima,4.429509,-75.218325,Manuel Murillo Toro
+118,Colombia,LIGA DIMAYOR,Deportivo Cali,3.521642,-76.417036,Deportivo Cali
+119,Colombia,LIGA DIMAYOR,Deportivo Pasto,0.828889,-77.640556,Estadio Municipal De Ipiales
+120,Colombia,LIGA DIMAYOR,Envigado FC,6.164108,-75.59967,Polideportivo Sur
+122,Colombia,LIGA DIMAYOR,Independiente Medellín,6.2568,-75.590172,Atanasio Girardot
+121,Colombia,LIGA DIMAYOR,Independiente Santa Fe,4.645889,-74.0775,Nemesio Camacho El Campin
+123,Colombia,LIGA DIMAYOR,Jaguares de Córdoba,8.711778,-75.827639,Estadio Jaraguay
+124,Colombia,LIGA DIMAYOR,Junior FC,10.926861,-74.800722,Metropolitano Roberto Meléndez
+125,Colombia,LIGA DIMAYOR,La Equidad,4.623545,-74.135611,Metropolitano de Techo
+126,Colombia,LIGA DIMAYOR,Itagüí Leones FC,6.169072,-75.626826,Metropolitano Ciudad de Itagüí
+127,Colombia,LIGA DIMAYOR,Millonarios FC,4.645889,-74.0775,Nemesio Camacho El Campin
+128,Colombia,LIGA DIMAYOR,Once Caldas,5.056233,-75.489807,Palogrande
+129,Colombia,LIGA DIMAYOR,Patriotas Boyacá FC,5.542233,-73.353131,La Independencia
+130,Colombia,LIGA DIMAYOR,Rionegro Águilas,6.146678,-75.372754,Estadio Alberto Grisales
 131,Denmark,SUPERLIGA,Aalborg BK,57.0515,9.8991,Nordjyske Arena
 132,Denmark,SUPERLIGA,Aarhus GF,56.131944,10.196389,Aarhus Idrætspark
 133,Denmark,SUPERLIGA,AC Horsens,55.871667,9.857222,CASA Arena Horsens
@@ -252,21 +252,21 @@
 243,France,LIGUE 1 CONFORAMA,FC Nantes,47.255631,-1.525375,Stade de la Beaujoire
 266,France,DOMINOS LIGUE 2,GFC Ajaccio,41.951389,8.772222,Stade Ange Casanova
 244,France,LIGUE 1 CONFORAMA,FC Girondins de Bordeaux,44.829167,-0.597778,Stade Chaban-Delmas
-267,France,DOMINOS LIGUE 2,Grenoble Foot 38,,,
-269,France,DOMINOS LIGUE 2,La Berrichonne de Châteauroux,,,
-268,France,DOMINOS LIGUE 2,Le Havre AC,,,
-272,France,DOMINOS LIGUE 2,Lens,,,
+267,France,DOMINOS LIGUE 2,Grenoble Foot 38,45.187428,5.740099,Stade des Alpes
+269,France,DOMINOS LIGUE 2,La Berrichonne de Châteauroux,46.8019444,1.721666667,Stade Gaston Petit
+268,France,DOMINOS LIGUE 2,Le Havre AC,49.498889,0.169722,Stade Océane
+272,France,DOMINOS LIGUE 2,Racing Club de Lens,50.432778,2.814722,Stade Bollaert-Delelis
 245,France,LIGUE 1 CONFORAMA,LOSC Lille,50.611883,3.130428,Stade Pierre-Mauroy
 246,France,LIGUE 1 CONFORAMA,Montpellier HSC,43.622222,3.811944,Stade de la Mosson
 270,France,DOMINOS LIGUE 2,AS Nancy Lorraine,48.6955,6.210687,Stade Marcel Picot
-247,France,LIGUE 1 CONFORAMA,Nîmes Olympique,,,
+247,France,LIGUE 1 CONFORAMA,Nîmes Olympique,43.815972,4.359278,Stade des Costières
 248,France,LIGUE 1 CONFORAMA,OGC Nice,43.723328,7.258756,Allianz Riviera
 249,France,LIGUE 1 CONFORAMA,Olympique Lyonnais,45.723889,4.832222,Stade de Gerland
 250,France,LIGUE 1 CONFORAMA,Olympique de Marseille,43.269722,5.395833,Stade Velodrome
 251,France,LIGUE 1 CONFORAMA,Paris Saint-Germain,48.841389,2.253056,Parc des Princes
-271,France,DOMINOS LIGUE 2,Paris FC,,,
-252,France,LIGUE 1 CONFORAMA,RC Strasbourg Alsace,,,
-273,France,DOMINOS LIGUE 2,Red Star FC,,,
+271,France,DOMINOS LIGUE 2,Paris FC,48.818611,2.346667,Stade Charléty
+252,France,LIGUE 1 CONFORAMA,RC Strasbourg Alsace,48.560064,7.754969,Stade de la Meinau
+273,France,DOMINOS LIGUE 2,Red Star FC,48.905833,2.340833,Stade Bauer
 240,France,LIGUE 1 CONFORAMA,AS Saint-Étienne,45.460833,4.390278,Stade Geoffroy-Guichard
 253,France,LIGUE 1 CONFORAMA,Stade Malherbe Caen,49.179461,-0.396767,Stade Michel d'Ornano
 265,France,DOMINOS LIGUE 2,FC Sochaux-Montbéliard,47.512417,6.8112,Stade Auguste Bonal
@@ -274,7 +274,7 @@
 254,France,LIGUE 1 CONFORAMA,Stade de Reims,49.246667,4.025,Stade Auguste-Delaune II
 255,France,LIGUE 1 CONFORAMA,Stade Rennais FC,48.107458,-1.712839,Stade de la Route de Lorient
 256,France,LIGUE 1 CONFORAMA,Toulouse Football Club,43.583056,1.434167,Stadium Municipal
-275,France,DOMINOS LIGUE 2,US Orléans Loiret Football,,,
+275,France,DOMINOS LIGUE 2,US Orléans Loiret Football,47.8402778,1.941111111,Stade de la Source
 276,France,DOMINOS LIGUE 2,Valenciennes FC,50.348131,3.533027,Stade du Hainaut
 303,Germany,BUNDESLIGA 2,1. FC Heidenheim 1846,,,
 277,Germany,BUNDESLIGA,1. FC Nürnberg,49.426111,11.125833,Grundig-Stadion
@@ -609,24 +609,24 @@
 607,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Zürich,47.382791,8.503801,Letzigrund
 608,Switzerland,RAIFFEISEN SUPER LEAGUE,Grasshopper Club Zürich,47.382791,8.503801,Letzigrund
 609,Switzerland,RAIFFEISEN SUPER LEAGUE,Neuchâtel Xamax,46.9952,6.944,Stade de la Maladière
-610,Turkey,SÜPER LIG,Akhisar Belediyespor,,,
-611,Turkey,SÜPER LIG,Alanyaspor,,,
-612,Turkey,SÜPER LIG,Antalyaspor,,,
-614,Turkey,SÜPER LIG,BB Erzurumspor,,,
-615,Turkey,SÜPER LIG,Beşiktaş JK,,,
-616,Turkey,SÜPER LIG,Bursaspor,,,
-617,Turkey,SÜPER LIG,Çaykur Rizespor,,,
-618,Turkey,SÜPER LIG,Fenerbahçe SK,,,
-619,Turkey,SÜPER LIG,Galatasaray SK,,,
-620,Turkey,SÜPER LIG,Göztepe SK,,,
-621,Turkey,SÜPER LIG,Kasimpaşa SK,,,
-622,Turkey,SÜPER LIG,Kayserispor,,,
-623,Turkey,SÜPER LIG,Atiker Konyaspor,,,
-613,Turkey,SÜPER LIG,Medipol Başakşehir FK,,,
-624,Turkey,SÜPER LIG,MKE Ankaragücü,,,
-625,Turkey,SÜPER LIG,Sivasspor,,,
-626,Turkey,SÜPER LIG,Trabzonspor,,,
-627,Turkey,SÜPER LIG,Yeni Malatyaspor,,,
+610,Turkey,SÜPER LIG,Akhisar Belediyespor,38.921111,27.814722,Akhisar Arena
+611,Turkey,SÜPER LIG,Alanyaspor,36.56261,32.07916,Bahçeşehir Okulları Stadium
+612,Turkey,SÜPER LIG,Antalyaspor,36.888608,30.668772,Antalya Arena
+614,Turkey,SÜPER LIG,BB Erzurumspor,39.911197,41.238114,Estadio Kâzım Karabekir
+615,Turkey,SÜPER LIG,Beşiktaş JK,41.0392,28.9947,Vodafone Park
+616,Turkey,SÜPER LIG,Bursaspor,40.210778,29.009333,Timsah Arena
+617,Turkey,SÜPER LIG,Çaykur Rizespor,41.023056,40.532944,Atatürk Rize Stadyumu
+618,Turkey,SÜPER LIG,Fenerbahçe SK,40.987778,29.036667,Saracoğlu Stadyumu
+619,Turkey,SÜPER LIG,Galatasaray SK,41.102861,28.990417,Türk Telekom Arena
+620,Turkey,SÜPER LIG,Göztepe SK,38.446944,27.262222,Doğanlar Stadyumu
+621,Turkey,SÜPER LIG,Kasimpaşa SK,41.032806,28.972322,Recep Tayyip Erdoğan Stadyumu
+622,Turkey,SÜPER LIG,Kayserispor,38.737289,35.423133,Kadir Has Stadyumu
+623,Turkey,SÜPER LIG,Atiker Konyaspor,37.946328,32.485694,Konya Arena
+613,Turkey,SÜPER LIG,Medipol Başakşehir FK,41.1229,28.8086,Başakşehir Arena
+624,Turkey,SÜPER LIG,MKE Ankaragücü,39.980139,32.613861,Ankara Eryaman Stadyumu
+625,Turkey,SÜPER LIG,Sivasspor,39.728333,36.983889,Sivas Arena
+626,Turkey,SÜPER LIG,Trabzonspor,40.996361,39.64855,Şenol Güneş Stadium
+627,Turkey,SÜPER LIG,Yeni Malatyaspor,38.337222,38.445833,Malatya Arena
 628,USA,MLS,Atlanta United,,,
 629,USA,MLS,Chicago Fire,,,
 630,USA,MLS,Colorado Rapids,,,
