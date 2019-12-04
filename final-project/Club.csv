@@ -47,8 +47,8 @@
 45,Austria,Ö. BUNDESLIGA,SV Mattersburg,47.7394,16.4064,Pappelstadion
 46,Austria,Ö. BUNDESLIGA,TSV Hartberg,47.281,15.9772,Stadion Hartberg
 47,Austria,Ö. BUNDESLIGA,Wolfsberger AC,46.8253,14.8514,Lavanttal-Arena
-48,Belgium,PRO LEAGUE,KSV Cercle Brugge,51.193269,3.181311,Estadio Jan Breydel
-49,Belgium,PRO LEAGUE,Club Brugge KV,51.193269,3.181311,Estadio Jan Breydel
+48,Belgium,PRO LEAGUE,KSV Cercle Brugge,51.193269,3.181311,Jan Breydel Stadium
+49,Belgium,PRO LEAGUE,Club Brugge KV,51.193269,3.181311,Jan Breydel Stadium
 50,Belgium,PRO LEAGUE,Royal Excel Mouscron,50.733953,3.211082,Stade Le Canonnier
 51,Belgium,PRO LEAGUE,KAA Gent,51.016111,3.734167,Ghelamco Arena
 52,Belgium,PRO LEAGUE,KAS Eupen,50.626389,6.045833,Kehrweg Stadion
@@ -106,10 +106,10 @@
 104,China,CSL,Henan Jianye FC,34.7167,113.725,Zhengzhou Hanghai Stadium
 105,China,CSL,Jiangsu Suning FC,32.010642,118.7197,Nanjing Olympic Sports Center
 106,China,CSL,Shandong Luneng TaiShan FC,36.656646,117.110052,Jinan Olympic Sports Center Stadium
-107,China,CSL,Shanghai Greenland Shenhua FC,31.2733,121.4762,Estadio Hongkou
+107,China,CSL,Shanghai Greenland Shenhua FC,31.2733,121.4762,Hongkou Stadium
 108,China,CSL,Shanghai SIPG FC,31.191291,121.489391,Shanghai Arena
 109,China,CSL,Tianjin Quanjian FC,39.006941,117.351801,Haihe Educational Football Stadium
-110,China,CSL,Tianjin TEDA FC,39.073444,117.169389,Estadio Olímpico de Tianjin
+110,China,CSL,Tianjin TEDA FC,39.073444,117.169389,Tianjin Olimpic Stadium
 111,Colombia,LIGA DIMAYOR,Alianza Petrolera,7.23639,-73.8642,Daniel Villa Zapata
 112,Colombia,LIGA DIMAYOR,América de Cali,3.429889,-76.541083,Olímpico Pascual Guerrero
 113,Colombia,LIGA DIMAYOR,Atlético Bucaramanga,7.136589,-73.116589,Estadio Alfonso López
@@ -133,7 +133,7 @@
 131,Denmark,SUPERLIGA,Aalborg BK,57.0515,9.8991,Nordjyske Arena
 132,Denmark,SUPERLIGA,Aarhus GF,56.131944,10.196389,Aarhus Idrætspark
 133,Denmark,SUPERLIGA,AC Horsens,55.871667,9.857222,CASA Arena Horsens
-134,Denmark,SUPERLIGA,Brøndby IF,55.648853,12.418358,Estadio Brøndby
+134,Denmark,SUPERLIGA,Brøndby IF,55.648853,12.418358,Brøndby Stadium
 135,Denmark,SUPERLIGA,Esbjerg fB,55.481944,8.439444,Blue Water Arena
 136,Denmark,SUPERLIGA,FC København,55.702469,12.572203,Parken Stadion
 137,Denmark,SUPERLIGA,FC Midtjylland,56.116667,8.951667,MCH Arena
@@ -144,8 +144,8 @@
 142,Denmark,SUPERLIGA,SønderjyskE,55.261359,9.487791,Sydbank Park
 143,Denmark,SUPERLIGA,Vejle Boldklub,55.71372,9.5562,Vejle Stadion
 144,Denmark,SUPERLIGA,Vendsyssel FF,57.457661,9.998506,Nord Energi Arena
-189,England,LEAGUE ONE DE LA EFL,Accrington Stanley,,,
-190,England,LEAGUE ONE DE LA EFL,AFC Wimbledon,,,
+189,England,LEAGUE ONE DE LA EFL,Accrington Stanley,53.765356,-2.370911,Wham Stadium
+190,England,LEAGUE ONE DE LA EFL,AFC Wimbledon,51.405083,-0.281944,Cherry Red Records Stadium
 145,England,PREMIER LEAGUE,Arsenal,51.555,-0.108611,Emirates Stadium
 165,England,EFL CHAMPIONSHIP,Aston Villa,52.509167,-1.884722,Villa Park
 191,England,LEAGUE ONE DE LA EFL,Barnsley,53.552222,-1.4675,Oakwell
@@ -153,89 +153,89 @@
 167,England,EFL CHAMPIONSHIP,Blackburn Rovers,53.728611,-2.489167,Ewood Park
 192,England,LEAGUE ONE DE LA EFL,Blackpool,53.804722,-3.048056,Bloomfield Road
 168,England,EFL CHAMPIONSHIP,Bolton Wanderers,53.580556,-2.535556,Reebok Stadium
-146,England,PREMIER LEAGUE,Bournemouth,,,
-193,England,LEAGUE ONE DE LA EFL,Bradford City,,,
-169,England,EFL CHAMPIONSHIP,Brentford,,,
+146,England,PREMIER LEAGUE,Bournemouth,50.735278,-1.838333,Vitality Stadium
+193,England,LEAGUE ONE DE LA EFL,Bradford City,53.804222,-1.759022,Northern Commercials Stadium
+169,England,EFL CHAMPIONSHIP,Brentford,51.488167,-0.302639,Griffin Park
 147,England,PREMIER LEAGUE,Brighton & Hove Albion,50.861822,-0.083278,American Express Community Stadium
 170,England,EFL CHAMPIONSHIP,Bristol City,51.44,-2.620278,Ashton Gate
-194,England,LEAGUE ONE DE LA EFL,Bristol Rovers,,,
+194,England,LEAGUE ONE DE LA EFL,Bristol Rovers,51.48622,-2.583134,Memorial Stadium
 148,England,PREMIER LEAGUE,Burnley,53.789167,-2.230278,Turf Moor
-195,England,LEAGUE ONE DE LA EFL,Burton Albion,,,
-213,England,LEAGUE TWO DE LA EFL,Bury,,,
-214,England,LEAGUE TWO DE LA EFL,Cambridge United,,,
+195,England,LEAGUE ONE DE LA EFL,Burton Albion,52.821906,-1.626958,Pirelli Stadium
+213,England,LEAGUE TWO DE LA EFL,Bury,53.580506,-2.294822,Gigg Lane
+214,England,LEAGUE TWO DE LA EFL,Cambridge United,52.2121,-0.15415,Abbey Stadium
 149,England,PREMIER LEAGUE,Cardiff City,51.472778,-3.203056,Cardiff City Stadium
-215,England,LEAGUE TWO DE LA EFL,Carlisle United,,,
-196,England,LEAGUE ONE DE LA EFL,Charlton Athletic,,,
+215,England,LEAGUE TWO DE LA EFL,Carlisle United,54.89556,-2.91365,Brunton Park
+196,England,LEAGUE ONE DE LA EFL,Charlton Athletic,51.486389,-0.036389,The Valley
 150,England,PREMIER LEAGUE,Chelsea,51.481667,-0.191111,Stamford Bridge
-216,England,LEAGUE TWO DE LA EFL,Cheltenham Town,,,
-217,England,LEAGUE TWO DE LA EFL,Colchester United,,,
+216,England,LEAGUE TWO DE LA EFL,Cheltenham Town,51.906158,-2.060211,LCI Rail Stadium
+217,England,LEAGUE TWO DE LA EFL,Colchester United,51.923394,-0.897703,Colchester Community Stadium
 197,England,LEAGUE ONE DE LA EFL,Coventry City,52.448056,-1.495556,Ricoh Arena
-218,England,LEAGUE TWO DE LA EFL,Crawley Town,,,
-219,England,LEAGUE TWO DE LA EFL,Crewe Alexandra,,,
+218,England,LEAGUE TWO DE LA EFL,Crawley Town,51.099706,-0.194767,Checkatrade.com Stadium
+219,England,LEAGUE TWO DE LA EFL,Crewe Alexandra,53.087419,-2.435747,Gresty Road
 151,England,PREMIER LEAGUE,Crystal Palace,51.398333,-0.085556,Selhurst Park
 171,England,EFL CHAMPIONSHIP,Derby County,52.915,-1.447222,Pride Park Stadium
 198,England,LEAGUE ONE DE LA EFL,Doncaster Rovers,53.509722,-1.113889,Keepmoat Stadium
 152,England,PREMIER LEAGUE,Everton,53.438889,-2.966389,Goodison Park
-220,England,LEAGUE TWO DE LA EFL,Exeter City,,,
-199,England,LEAGUE ONE DE LA EFL,Fleetwood Town,,,
-221,England,LEAGUE TWO DE LA EFL,Forest Green Rovers,,,
+220,England,LEAGUE TWO DE LA EFL,Exeter City,50.730714,-3.52115,St James Park
+199,England,LEAGUE ONE DE LA EFL,Fleetwood Town,53.9165,-3.0247,Highbury Stadium
+221,England,LEAGUE TWO DE LA EFL,Forest Green Rovers,51.698975,-2.237892,The New Lawn
 153,England,PREMIER LEAGUE,Fulham,51.475,-0.221667,Craven Cottage
-200,England,LEAGUE ONE DE LA EFL,Gillingham,,,
-222,England,LEAGUE TWO DE LA EFL,Grimsby Town,,,
-154,England,PREMIER LEAGUE,Huddersfield Town,,,
+200,England,LEAGUE ONE DE LA EFL,Gillingham,51.38425,-0.560753,Priestfield Stadium
+222,England,LEAGUE TWO DE LA EFL,Grimsby Town,53.570225,-0.046497,Blundell Park
+154,England,PREMIER LEAGUE,Huddersfield Town,53.654167,-1.768333,John Smith's Stadium
 172,England,EFL CHAMPIONSHIP,Hull City,53.746111,-0.367778,KC Stadium
 173,England,EFL CHAMPIONSHIP,Ipswich Town,52.055061,1.144831,Portman Road
 174,England,EFL CHAMPIONSHIP,Leeds United,53.777778,-1.572222,Elland Road
 155,England,PREMIER LEAGUE,Leicester City,52.620278,-1.142222,King Power Stadium
-223,England,LEAGUE TWO DE LA EFL,Lincoln City,,,
+223,England,LEAGUE TWO DE LA EFL,Lincoln City,53.218289,-0.540811,Sincil Bank
 156,England,PREMIER LEAGUE,Liverpool,53.430819,-2.960828,Anfield
-201,England,LEAGUE ONE DE LA EFL,Luton Town,,,
-224,England,LEAGUE TWO DE LA EFL,Macclesfield Town,,,
+201,England,LEAGUE ONE DE LA EFL,Luton Town,51.884167,-0.431667,Kenilworth Road
+224,England,LEAGUE TWO DE LA EFL,Macclesfield Town,53.242781,-2.127136,Moss Rose
 157,England,PREMIER LEAGUE,Manchester City,53.482989,-2.200292,Etihad Stadium
 158,England,PREMIER LEAGUE,Manchester United,53.463056,-2.291389,Old Trafford
-225,England,LEAGUE TWO DE LA EFL,Mansfield Town,,,
+225,England,LEAGUE TWO DE LA EFL,Mansfield Town,53.138056,-1.200556,One Call Stadium
 175,England,EFL CHAMPIONSHIP,Middlesbrough,54.578333,-1.216944,Riverside Stadium
 176,England,EFL CHAMPIONSHIP,Millwall,51.485953,-0.05095,The Den
-226,England,LEAGUE TWO DE LA EFL,Milton Keynes Dons,,,
-227,England,LEAGUE TWO DE LA EFL,Morecambe,,,
+226,England,LEAGUE TWO DE LA EFL,Milton Keynes Dons,52.009444,-0.733333,Stadium MK
+227,England,LEAGUE TWO DE LA EFL,Morecambe,54.0615,-2.8672,Globe Arena
 159,England,PREMIER LEAGUE,Newcastle United,54.975556,-1.621667,Sports Direct Arena
-228,England,LEAGUE TWO DE LA EFL,Newport County,,,
-229,England,LEAGUE TWO DE LA EFL,Northampton Town,,,
+228,England,LEAGUE TWO DE LA EFL,Newport County,51.588333,-2.987778,Rodney Parade
+229,England,LEAGUE TWO DE LA EFL,Northampton Town,52.235197,-0.93345,Sixfields Stadium
 177,England,EFL CHAMPIONSHIP,Norwich City,52.622128,1.308653,Carrow Road
 178,England,EFL CHAMPIONSHIP,Nottingham Forest,52.94,-1.132778,City Ground
-230,England,LEAGUE TWO DE LA EFL,Notts County,,,
-231,England,LEAGUE TWO DE LA EFL,Oldham Athletic,,,
-202,England,LEAGUE ONE DE LA EFL,Oxford United,,,
+230,England,LEAGUE TWO DE LA EFL,Notts County,52.9425,-1.137222,Meadow Lane
+231,England,LEAGUE TWO DE LA EFL,Oldham Athletic,53.555278,-2.128611,SportsDirect.com Park
+202,England,LEAGUE ONE DE LA EFL,Oxford United,51.716419,-1.208067,Kassam Stadium
 203,England,LEAGUE ONE DE LA EFL,Peterborough United,52.564697,-0.240406,London Road Stadium
-204,England,LEAGUE ONE DE LA EFL,Plymouth Argyle,,,
-232,England,LEAGUE TWO DE LA EFL,Port Vale,,,
+204,England,LEAGUE ONE DE LA EFL,Plymouth Argyle,50.388056,-4.150833,Home Park
+232,England,LEAGUE TWO DE LA EFL,Port Vale,53.049722,-2.1925,Vale Park
 205,England,LEAGUE ONE DE LA EFL,Portsmouth,50.796389,-1.063889,Fratton Park
-179,England,EFL CHAMPIONSHIP,Preston North End,,,
+179,England,EFL CHAMPIONSHIP,Preston North End,53.772222,-2.688056,Deepdale
 180,England,EFL CHAMPIONSHIP,Queens Park Rangers,51.509167,-0.232222,Loftus Road
 181,England,EFL CHAMPIONSHIP,Reading,51.422222,-0.982778,Madejski Stadium
-206,England,LEAGUE ONE DE LA EFL,Rochdale,,,
-182,England,EFL CHAMPIONSHIP,Rotherham United,,,
-207,England,LEAGUE ONE DE LA EFL,Scunthorpe United,,,
-183,England,EFL CHAMPIONSHIP,Sheffield United,,,
-184,England,EFL CHAMPIONSHIP,Sheffield Wednesday,,,
-208,England,LEAGUE ONE DE LA EFL,Shrewsbury,,,
+206,England,LEAGUE ONE DE LA EFL,Rochdale,53.620833,-2.18,Crown Oil Arena
+182,England,EFL CHAMPIONSHIP,Rotherham United,53.4279,-1.362,AESSEAL New York Stadium
+207,England,LEAGUE ONE DE LA EFL,Scunthorpe United,53.585367,-0.690492,Glanford Park
+183,England,EFL CHAMPIONSHIP,Sheffield United,53.370278,-1.470833,Bramall Lane
+184,England,EFL CHAMPIONSHIP,Sheffield Wednesday,53.411389,-1.500556,Hillsborough Stadium
+208,England,LEAGUE ONE DE LA EFL,Shrewsbury,52.68863,-2.74933,Montgomery Waters Meadow
 160,England,PREMIER LEAGUE,Southampton,50.905833,-1.391111,St Mary's Stadium
-209,England,LEAGUE ONE DE LA EFL,Southend United,,,
+209,England,LEAGUE ONE DE LA EFL,Southend United,51.549017,-0.701558,Roots Hall
 161,England,PREMIER LEAGUE,Tottenham Hotspur,51.603333,-0.065833,White Hart Lane
-233,England,LEAGUE TWO DE LA EFL,Stevenage,,,
+233,England,LEAGUE TWO DE LA EFL,Stevenage,51.889839,-0.193608,Lamex Stadium
 185,England,EFL CHAMPIONSHIP,Stoke City,52.988333,-2.175556,Britannia Stadium
 210,England,LEAGUE ONE DE LA EFL,Sunderland,54.9144,-1.3882,Stadium of Light
 186,England,EFL CHAMPIONSHIP,Swansea City,51.6422,-3.9351,Liberty Stadium
-234,England,LEAGUE TWO DE LA EFL,Swindon Town,,,
-235,England,LEAGUE TWO DE LA EFL,Tranmere Rovers,,,
-211,England,LEAGUE ONE DE LA EFL,Walsall,,,
+234,England,LEAGUE TWO DE LA EFL,Swindon Town,51.564444,-1.770556,County Ground
+235,England,LEAGUE TWO DE LA EFL,Tranmere Rovers,53.373722,-3.0325,Prenton Park
+211,England,LEAGUE ONE DE LA EFL,Walsall,52.5655,-1.9909,Banks's Stadium
 162,England,PREMIER LEAGUE,Watford,51.649836,-0.401486,Vicarage Road
 187,England,EFL CHAMPIONSHIP,West Bromwich Albion,52.509167,-1.963889,The Hawthorns
 163,England,PREMIER LEAGUE,West Ham United,51.531944,0.039444,Boleyn Ground
 188,England,EFL CHAMPIONSHIP,Wigan Athletic,53.547778,-2.653889,DW Stadium
 164,England,PREMIER LEAGUE,Wolverhampton Wanderers,52.590278,-2.130278,Molineux Stadium
-212,England,LEAGUE ONE DE LA EFL,Wycombe Wanderers,,,
-236,England,LEAGUE TWO DE LA EFL,Yeovil Town,,,
+212,England,LEAGUE ONE DE LA EFL,Wycombe Wanderers,51.630556,-0.800278,Adams Park
+236,England,LEAGUE TWO DE LA EFL,Yeovil Town,50.950261,-2.673844,Huish Park
 257,France,DOMINOS LIGUE 2,AC Ajaccio,41.931081,8.776725,Stade François Coty
 258,France,DOMINOS LIGUE 2,AJ Auxerre,47.786753,3.588664,Stade de l'Abbé-Deschamps
 237,France,LIGUE 1 CONFORAMA,Amiens SC,49.894209,2.263312,Stade de la Licorne
@@ -342,45 +342,45 @@
 340,Irland,SSE AIRTRICITY LEAGUE,Sligo Rovers,54.150444,-6.320606,Showgrounds Stadium
 341,Irland,SSE AIRTRICITY LEAGUE,St. Patricks Athletic,53.340922,-6.316619,Richmond Park
 342,Irland,SSE AIRTRICITY LEAGUE,Waterford FC,52.244722,-7.132778,Regional Sports Centre
-363,Italy,CALCIO B,Ascoli,,,
-343,Italy,SERIE A TIM,Atalanta,,,
-364,Italy,CALCIO B,Benevento,,,
-344,Italy,SERIE A TIM,Bologna,,,
-365,Italy,CALCIO B,Brescia,,,
-345,Italy,SERIE A TIM,Cagliari,,,
-366,Italy,CALCIO B,Carpi,,,
-346,Italy,SERIE A TIM,Chievo Verona,,,
-367,Italy,CALCIO B,Cittadella,,,
-368,Italy,CALCIO B,Cosenza,,,
-369,Italy,CALCIO B,US Cremonese,,,
-370,Italy,CALCIO B,Crotone,,,
-347,Italy,SERIE A TIM,Empoli,,,
-348,Italy,SERIE A TIM,Fiorentina,,,
-371,Italy,CALCIO B,Foggia,,,
-349,Italy,SERIE A TIM,Frosinone,,,
-350,Italy,SERIE A TIM,Genoa,,,
-372,Italy,CALCIO B,Hellas Verona,,,
-351,Italy,SERIE A TIM,Inter,,,
-352,Italy,SERIE A TIM,Juventus,,,
-373,Italy,CALCIO B,Spezia,,,
-353,Italy,SERIE A TIM,Lazio,,,
-374,Italy,CALCIO B,Lecce,,,
-375,Italy,CALCIO B,Livorno,,,
-354,Italy,SERIE A TIM,Milan,,,
-355,Italy,SERIE A TIM,Napoli,,,
-376,Italy,CALCIO B,Padova,,,
-377,Italy,CALCIO B,Palermo,,,
-356,Italy,SERIE A TIM,Parma,,,
-378,Italy,CALCIO B,Perugia,,,
-379,Italy,CALCIO B,Pescara,,,
-357,Italy,SERIE A TIM,Roma,,,
-380,Italy,CALCIO B,US Salernitana 1919,,,
-358,Italy,SERIE A TIM,Sampdoria,,,
-359,Italy,SERIE A TIM,Sassuolo,,,
-360,Italy,SERIE A TIM,SPAL,,,
-361,Italy,SERIE A TIM,Torino,,,
-362,Italy,SERIE A TIM,Udinese,,,
-381,Italy,CALCIO B,Venezia FC,,,
+363,Italy,CALCIO B,Ascoli,42.861111,13.594167,Stadio Cino e Lillo Del Duca
+343,Italy,SERIE A TIM,Atalanta,45.708889,9.680833,Atleti Azzurri d'Italia
+364,Italy,CALCIO B,Benevento Calcio,41.116389,14.781111,Stadio Ciro Vigorito
+344,Italy,SERIE A TIM,Bologna,44.492222,11.309722,Renato Dall'Ara
+365,Italy,CALCIO B,Brescia,45.570556,10.236944,Stadio Mario Rigamonti
+345,Italy,SERIE A TIM,Cagliari,39.199889,9.137583,Arena Cerdeña
+366,Italy,CALCIO B,Carpi,44.775556,10.881667,Stadio Sandro Cabassi
+346,Italy,SERIE A TIM,Chievo Verona,45.435356,10.968647,Marcantonio Bentegodi
+367,Italy,CALCIO B,Cittadella,45.642778,11.781111,Stadio Piercesare Tombolato
+368,Italy,CALCIO B,Cosenza,39.31,16.231111,Stadio San Vito-Gigi Marulla
+369,Italy,CALCIO B,US Cremonese,45.140278,10.034722,Stadio Giovanni Zini
+370,Italy,CALCIO B,Crotone,39.079167,17.116667,Stadio Ezio Scida
+347,Italy,SERIE A TIM,Empoli,43.726389,10.955,Stadio Carlo Castellani
+348,Italy,SERIE A TIM,Fiorentina,43.780822,11.282258,Stadio Artemio Franchi
+371,Italy,CALCIO B,Foggia,41.454444,15.5425,Stadio Pino Zaccheria
+349,Italy,SERIE A TIM,Frosinone,41.63426,13.321866,Stadio Benito Stirpe
+350,Italy,SERIE A TIM,Genoa,44.416431,8.952428,Stadio Luigi Ferraris
+372,Italy,CALCIO B,Hellas Verona,45.435356,10.968647,Stadio Marcantonio Bentegodi
+351,Italy,SERIE A TIM,Inter,45.47808,9.124,Stadio Giuseppe Meazza
+352,Italy,SERIE A TIM,Juventus,45.109594,7.641247,Allianz Stadium
+373,Italy,CALCIO B,Spezia,44.102222,9.808611,Stadio Alberto Picco
+353,Italy,SERIE A TIM,Lazio,41.933872,12.454714,Olímpico di Roma
+374,Italy,CALCIO B,Lecce,40.365278,18.208889,Stadio Via del Mare
+375,Italy,CALCIO B,Livorno,43.526667,10.314167,Stadio Armando Picchi
+354,Italy,SERIE A TIM,Milan,45.47808,9.124,Stadio San Siro
+355,Italy,SERIE A TIM,Napoli,40.827967,14.193008,Stadio San Paolo
+376,Italy,CALCIO B,Padova,45.432222,11.858333,Euganeo Stadion
+377,Italy,CALCIO B,Palermo,38.152767,13.342275,Renzo Barbera
+356,Italy,SERIE A TIM,Parma,44.794917,10.338444,Ennio Tardini
+378,Italy,CALCIO B,Perugia,43.106111,12.357222,Stadio Renato Curi
+379,Italy,CALCIO B,Pescara,42.455278,14.229444,Adriatico-Giovanni Cornacchia
+357,Italy,SERIE A TIM,Roma,41.933872,12.454714,Olímpico di Roma
+380,Italy,CALCIO B,US Salernitana 1919,40.645,14.823889,Stadio Arechi
+358,Italy,SERIE A TIM,Sampdoria,44.416431,8.952428,Stadio Luigi Ferraris
+359,Italy,SERIE A TIM,Sassuolo,44.714722,10.649722,MAPEI Stadium - Città del Tricolore
+360,Italy,SERIE A TIM,SPAL,44.839722,11.6075,Stadio Paolo Mazza
+361,Italy,SERIE A TIM,Torino,45.041667,7.65,Olímpico Grande Torino
+362,Italy,SERIE A TIM,Udinese,46.081603,13.200136,Stadio Friuli
+381,Italy,CALCIO B,Venezia FC,45.4277611,12.3637306,Stadio Pierluigi Penzo
 382,Japan,MEIJI YASUDA J1,Cerezo Osaka,34.615339,135.516572,Kincho Stadium
 383,Japan,MEIJI YASUDA J1,FC Tokyo,35.664278,139.527139,Ajinomoto Stadium
 384,Japan,MEIJI YASUDA J1,Gamba Osaka,34.811372,135.54085,Panasonic Suita Stadium
@@ -464,8 +464,8 @@
 462,Norway,ELITESERIEN,Tromsø IL,69.648954,18.934582,Alfheim Stadion
 463,Norway,ELITESERIEN,Vålerenga Fotball,59.9183,10.8094,Intility Arena
 464,Poland,EKSTRAKLASA,Arka Gdynia,54.493136,18.531214,Stadion GOSiR
-465,Poland,EKSTRAKLASA,Cracovia,50.058056,19.919722,Estadio Józef Pilsudski
-466,Poland,EKSTRAKLASA,Górnik Zabrze,50.296317,18.768564,Estadio Ernest Pohl
+465,Poland,EKSTRAKLASA,Cracovia,50.058056,19.919722,Józef Pilsudski Stadion
+466,Poland,EKSTRAKLASA,Górnik Zabrze,50.296317,18.768564,Ernest Pohl Stadion
 467,Poland,EKSTRAKLASA,Jagiellonia Białystok,53.105556,23.148889,Bialystok Civil Stadion 
 468,Poland,EKSTRAKLASA,Korona Kielce,50.861389,20.624722,Kielce Civil Stadion
 469,Poland,EKSTRAKLASA,Lech Poznań,52.397222,16.858056,Poznan Civil Stadion
@@ -585,7 +585,7 @@
 561,Spain,LALIGA SANTANDER,Villarreal CF,39.944167,-0.103611,El Madrigal
 584,Sweden,ALLSVENSKAN,AIK,59.3725,18,Friends Arena
 585,Sweden,ALLSVENSKAN,BK Häcken,57.719167,11.930556,Rambergsvallen
-586,Sweden,ALLSVENSKAN,IF Brommapojkarna,59.362222,17.851667,Estadio Grimsta IP
+586,Sweden,ALLSVENSKAN,IF Brommapojkarna,59.362222,17.851667,Grimsta IP Stadion
 587,Sweden,ALLSVENSKAN,Dalkurd FF,60.495,15.434167,Domnarvsvallen
 588,Sweden,ALLSVENSKAN,Djurgårdens IF,59.291389,18.085278,Tele2 Arena
 589,Sweden,ALLSVENSKAN,GIF Sundsvall,58.584167,16.173056,Idrottsparken
@@ -612,7 +612,7 @@
 610,Turkey,SÜPER LIG,Akhisar Belediyespor,38.921111,27.814722,Akhisar Arena
 611,Turkey,SÜPER LIG,Alanyaspor,36.56261,32.07916,Bahçeşehir Okulları Stadium
 612,Turkey,SÜPER LIG,Antalyaspor,36.888608,30.668772,Antalya Arena
-614,Turkey,SÜPER LIG,BB Erzurumspor,39.911197,41.238114,Estadio Kâzım Karabekir
+614,Turkey,SÜPER LIG,BB Erzurumspor,39.911197,41.238114,Stadyumu Kâzım Karabekir 
 615,Turkey,SÜPER LIG,Beşiktaş JK,41.0392,28.9947,Vodafone Park
 616,Turkey,SÜPER LIG,Bursaspor,40.210778,29.009333,Timsah Arena
 617,Turkey,SÜPER LIG,Çaykur Rizespor,41.023056,40.532944,Atatürk Rize Stadyumu
@@ -637,7 +637,7 @@
 637,USA,MLS,LA Galaxy,33.864444,-118.261111,Dignity Health Sports Park
 636,USA,MLS,Los Angeles FC,34.013,-118.285,Banc of California Stadium
 638,USA,MLS,Minnesota United FC,44.9528,-93.1651,Allianz Field
-635,USA,MLS,Montreal Impact,45.563056,-73.5525,Estadio Saputo
+635,USA,MLS,Montreal Impact,45.563056,-73.5525,Saputo Stadium
 639,USA,MLS,New England Revolution,42.090944,-71.264344,Gillette Stadium
 640,USA,MLS,New York City FC,40.829569,-73.926392,Yankee Stadium
 641,USA,MLS,New York Red Bulls,40.736667,-74.150278,Red Bull Arena
