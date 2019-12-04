@@ -1,30 +1,30 @@
 ﻿Index,Nationality,Div,Team,Latitude,Longitude,Stadium
-0,Argentina,SAF,Club Atlético Aldosivi,,,
-1,Argentina,SAF,Argentinos Juniors,,,
-2,Argentina,SAF,San Martin de Tucumán,,,
-3,Argentina,SAF,Club Atlético Banfield,,,
-4,Argentina,SAF,Belgrano de Córdoba,,,
-5,Argentina,SAF,Boca Juniors,,,
-6,Argentina,SAF,Club Atlético Colón,,,
-7,Argentina,SAF,Defensa y Justicia,,,
-8,Argentina,SAF,Estudiantes de La Plata,,,
-9,Argentina,SAF,Gimnasia y Esgrima La Plata,,,
-10,Argentina,SAF,Godoy Cruz,,,
-11,Argentina,SAF,Club Atlético Huracán,,,
-12,Argentina,SAF,Independiente,,,
-13,Argentina,SAF,Club Atlético Lanús,,,
-14,Argentina,SAF,Newells Old Boys,,,
-15,Argentina,SAF,Patronato,,,
-16,Argentina,SAF,Racing Club de Lens,,,
-17,Argentina,SAF,River Plate,,,
-18,Argentina,SAF,Rosario Central,,,
-19,Argentina,SAF,San Lorenzo de Almagro,,,
-20,Argentina,SAF,San Martín de San Juan,,,
-21,Argentina,SAF,SM Tucumán,,,
-22,Argentina,SAF,Club Atlético Talleres,,,
-23,Argentina,SAF,Club Atlético Tigre,,,
-24,Argentina,SAF,Unión de Santa Fe,,,
-25,Argentina,SAF,Vélez Sarsfield,,,
+0,Argentina,SAF,Club Atlético Aldosivi,-38.017944,-57.582333,José María Minella
+1,Argentina,SAF,Argentinos Juniors,-34.606028,-58.472583,Autocrédito Diego Armando Maradona
+2,Argentina,SAF,San Martin de Tucumán,-26.836281,-65.229606,La Ciudadela
+3,Argentina,SAF,Club Atlético Banfield,-34.750847,-58.387544,Florencio Sola
+4,Argentina,SAF,Belgrano de Córdoba,-31.4035,-64.206272,"Estadio Julio César Villagra ""El Gigante de Alberdi"""
+5,Argentina,SAF,Boca Juniors,-34.635556,-58.364722,"Alberto J. Armando ""La Bombonera"""
+6,Argentina,SAF,Club Atlético Colón,-31.662595,-60.725431,"Brigadier General Estanislao López ""El Cementerio de los Elefantes"""
+7,Argentina,SAF,Defensa y Justicia,-34.821753,-58.286511,"Norberto ""Tito"" Tomaghello"
+8,Argentina,SAF,Estudiantes de La Plata,-34.911925,-57.938794,Estadio Jorge Luis Hirschi
+9,Argentina,SAF,Gimnasia y Esgrima La Plata,-34.910975,-57.932592,Juan Carmelo Zerillo
+10,Argentina,SAF,Godoy Cruz,-32.920278,-68.839444,Feliciano Gambarte
+11,Argentina,SAF,Club Atlético Huracán,-34.643494,-58.396511,Tomás Adolfo Ducó
+12,Argentina,SAF,Independiente,-34.670267,-58.370969,Libertadores de América
+13,Argentina,SAF,Club Atlético Lanús,-34.717667,-58.383806,Estadio Ciudad de Lanús-Néstor Díaz Pérez
+14,Argentina,SAF,Newells Old Boys,-32.956056,-60.661444,Marcelo Bielsa
+15,Argentina,SAF,Patronato,-31.743031,-60.507597,Estadio Presbítero Bartolomé Grella
+16,Argentina,SAF,Racing Club,-34.666603,-58.368556,Estadio Presidente Perón
+17,Argentina,SAF,River Plate,-34.545278,-58.449444,"Antonio Vespucio Liberti ""El Monumental"""
+18,Argentina,SAF,Rosario Central,-32.913997,-60.674567,Gigante de Arroyito
+19,Argentina,SAF,San Lorenzo de Almagro,-34.652064,-58.440119,Estadio Pedro Bidegain
+20,Argentina,SAF,San Martín de San Juan,-31.519847,-68.530289,Estadio Ingeniero Hilario Sánchez
+21,Argentina,SAF,SM Tucumán,-26.836281,-65.229606,La Ciudadela
+22,Argentina,SAF,Club Atlético Talleres,-31.449167,-64.175278,Boutique de Barrio Jardín
+23,Argentina,SAF,Club Atlético Tigre,-34.449333,-58.542219,Estadio José Dellagiovanna
+24,Argentina,SAF,Unión de Santa Fe,-31.631853,-60.715867,Estadio 15 de Abril
+25,Argentina,SAF,Vélez Sarsfield,-34.635375,-58.520711,José Amalfitani
 26,Australia,HYUNDAI A-LEAGUE,Adelaide United,-34.9075,138.568889,Hindmarsh Stadium
 27,Australia,HYUNDAI A-LEAGUE,Brisbane Roar,-27.464722,153.009444,Lang Park
 28,Australia,HYUNDAI A-LEAGUE,Central Coast Mariners,-33.428333,151.338056,Central Coast Stadium
@@ -63,21 +63,21 @@
 61,Belgium,PRO LEAGUE,Standard de Liège,50.609908,5.543344,Maurice Dufrasne
 62,Belgium,PRO LEAGUE,Waasland-Beveren,51.214139,4.243931,Freethiel Stadion
 63,Belgium,PRO LEAGUE,SV Zulte-Waregem,50.883056,3.428889,Regenboogstadion
-64,Brazil,LIGA DO BRASIL,América FC (Minas Gerais),,,
-66,Brazil,LIGA DO BRASIL,Atlético Mineiro,,,
-65,Brazil,LIGA DO BRASIL,Atlético Paranaense,,,
-67,Brazil,LIGA DO BRASIL,Bahia,,,
-68,Brazil,LIGA DO BRASIL,Botafogo,,,
-69,Brazil,LIGA DO BRASIL,Ceará Sporting Club,,,
-70,Brazil,LIGA DO BRASIL,Chapecoense,,,
-71,Brazil,LIGA DO BRASIL,Cruzeiro,,,
-72,Brazil,LIGA DO BRASIL,Fluminense,,,
-73,Brazil,LIGA DO BRASIL,Grêmio,,,
-74,Brazil,LIGA DO BRASIL,Internacional,,,
-75,Brazil,LIGA DO BRASIL,Paraná,,,
-76,Brazil,LIGA DO BRASIL,Santos,,,
-77,Brazil,LIGA DO BRASIL,Sport Club do Recife,,,
-78,Brazil,LIGA DO BRASIL,Vitória,,,
+64,Brazil,LIGA DO BRASIL,América FC (Minas Gerais),-19.908333,-43.917778,Estadio Raimundo Sampaio
+66,Brazil,LIGA DO BRASIL,Atlético Mineiro,-19.908333,-43.917778,Estadio Raimundo Sampaio
+65,Brazil,LIGA DO BRASIL,Atlético Paranaense,-25.448333,-49.276944,Arena da Baixada
+67,Brazil,LIGA DO BRASIL,Esporte Club Bahia,-12.978819,-38.504253,Arena Fonte Nova
+68,Brazil,LIGA DO BRASIL,Botafogo,-22.893172,-43.292269,Estadio Nilton Santos
+69,Brazil,LIGA DO BRASIL,Ceará Sporting Club,-3.807267,-38.522481,Estadio Castelão
+70,Brazil,LIGA DO BRASIL,Chapecoense,-27.1041,-52.607,Arena Condá
+71,Brazil,LIGA DO BRASIL,Cruzeiro,-19.865833,-43.970833,Mineirão
+72,Brazil,LIGA DO BRASIL,Fluminense,-22.912167,-43.230164,Maracaná
+73,Brazil,LIGA DO BRASIL,Grêmio,-29.973444,-51.194403,Arena do Grêmio
+74,Brazil,LIGA DO BRASIL,Internacional,-30.065614,-51.236086,Beira-Rio
+75,Brazil,LIGA DO BRASIL,Paraná Clube,-25.439444,-49.255833,Estadio Durival de Britto e Silva
+76,Brazil,LIGA DO BRASIL,Santos Futebol Clube,-23.951111,-46.338889,Estadio Vila Belmiro
+77,Brazil,LIGA DO BRASIL,Sport Club do Recife,-8.062953,-34.902981,Estadio Ilha do Retiro
+78,Brazil,LIGA DO BRASIL,Esporte Clube Vitória,-12.919,-38.427,Barradão
 79,Chile,CAMP. SCOTIABANK,Audax Italiano,-33.540833,-70.578333,Bicentenario de La Florida
 80,Chile,CAMP. SCOTIABANK,CD Antofagasta,-23.670139,-70.404583,Regional Calvo y Bascuñán
 81,Chile,CAMP. SCOTIABANK,CD Huachipato,-36.755556,-73.107222,Huachipato - CAP Acero
@@ -513,17 +513,17 @@
 511,Czech Republic,Fortuna League,Sparta Praha,50.099716,14.416122,Generali Arena
 512,Russia,Russian Liga Premier,Spartak Moscow,55.8175,37.435556,Otkrytie Arena
 513,Czech Republic,Others,Viktoria Plzeň,49.75,13.385556,Doosan Arena
-514,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ahli,,,
-515,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Batin,,,
-516,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Faisaly,,,
-517,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fateh,,,
-518,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fayha,,,
-519,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hazem,,,
-520,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hilal,,,
-521,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ittihad,,,
-522,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Nassr,,,
-523,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Qadisiyah,,,
-524,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Raed,,,
+514,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ahli,22.094444,39.125833,King Abdullah Sports City
+515,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Batin,28.448611,46.075,Al-Batin Club Stadium
+516,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Faisaly,26.3789,43.9478,King Salman Sport City Stadium
+517,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fateh,25.305833,49.612778,Prince Abdullah bin Jalawi Stadium
+518,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fayha,26.3789,43.9478,King Salman Sport City Stadium
+519,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hazem,25.860278,43.502222,Estadio Al Hazm
+520,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hilal,24.788206,46.839236,Estadio Rey Fahd
+521,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ittihad,22.094444,39.125833,King Abdullah Sports City
+522,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Nassr,24.788206,46.839236,Estadio Rey Fahd
+523,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Qadisiyah,26.3699,50.2052,Prince Salud bin Jalawi Stadium
+524,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Raed,22.094444,39.125833,King Abdullah Sports City
 525,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Shabab,,,
 527,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Taawoun,,,
 526,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Wehda,,,
@@ -627,26 +627,26 @@
 625,Turkey,SÜPER LIG,Sivasspor,39.728333,36.983889,Sivas Arena
 626,Turkey,SÜPER LIG,Trabzonspor,40.996361,39.64855,Şenol Güneş Stadium
 627,Turkey,SÜPER LIG,Yeni Malatyaspor,38.337222,38.445833,Malatya Arena
-628,USA,MLS,Atlanta United,,,
-629,USA,MLS,Chicago Fire,,,
-630,USA,MLS,Colorado Rapids,,,
-631,USA,MLS,Columbus Crew SC,,,
-632,USA,MLS,DC United,,,
-633,USA,MLS,FC Dallas,,,
-634,USA,MLS,Houston Dynamo,,,
-637,USA,MLS,LA Galaxy,,,
-636,USA,MLS,Los Angeles FC,,,
-638,USA,MLS,Minnesota United FC,,,
-635,USA,MLS,Montreal Impact,,,
-639,USA,MLS,New England Revolution,,,
-640,USA,MLS,New York City FC,,,
-641,USA,MLS,New York Red Bulls,,,
-642,USA,MLS,Orlando City SC,,,
-643,USA,MLS,Philadelphia Union,,,
-644,USA,MLS,Portland Timbers,,,
-645,USA,MLS,Real Salt Lake,,,
-646,USA,MLS,Seattle Sounders FC,,,
-647,USA,MLS,San Jose Earthquakes,,,
-648,USA,MLS,Sporting Kansas City,,,
-649,USA,MLS,Toronto FC,,,
-650,USA,MLS,Vancouver Whitecaps FC,,,
+628,USA,MLS,Atlanta United,33.755278,-84.400833,Mercedes-Benz Stadium
+629,USA,MLS,Chicago Fire,41.8625,-87.616667,Soldier Field
+630,USA,MLS,Colorado Rapids,39.805556,-104.891944,DSG Park
+631,USA,MLS,Columbus Crew SC,40.009444,-82.991111,Mapfre Stadium
+632,USA,MLS,DC United,38.868611,-76.998889,Audi Field
+633,USA,MLS,FC Dallas,33.154458,-96.835158,Toyota Stadium
+634,USA,MLS,Houston Dynamo,29.7522,-95.3524,BBVA Stadium
+637,USA,MLS,LA Galaxy,33.864444,-118.261111,Dignity Health Sports Park
+636,USA,MLS,Los Angeles FC,34.013,-118.285,Banc of California Stadium
+638,USA,MLS,Minnesota United FC,44.9528,-93.1651,Allianz Field
+635,USA,MLS,Montreal Impact,45.563056,-73.5525,Estadio Saputo
+639,USA,MLS,New England Revolution,42.090944,-71.264344,Gillette Stadium
+640,USA,MLS,New York City FC,40.829569,-73.926392,Yankee Stadium
+641,USA,MLS,New York Red Bulls,40.736667,-74.150278,Red Bull Arena
+642,USA,MLS,Orlando City SC,28.541065,-81.389035,Exploria Stadium
+643,USA,MLS,Philadelphia Union,39.832222,-75.378889,PPL Park
+644,USA,MLS,Portland Timbers,45.521389,-122.691667,Providence Park
+645,USA,MLS,Real Salt Lake,40.5829,-111.893,Rio Tinto Stadium
+646,USA,MLS,Seattle Sounders FC,47.595278,-122.331667,CenturyLink Field
+647,USA,MLS,San Jose Earthquakes,37.351389,-121.925,Avaya Stadium
+648,USA,MLS,Sporting Kansas City,39.1218,-94.8237,Children's Mercy Park
+649,USA,MLS,Toronto FC,43.632778,-79.418611,BMO Field
+650,USA,MLS,Vancouver Whitecaps FC,49.276667,-123.111944,BC Place
