@@ -11,16 +11,16 @@ footer {
 }
 
 .btn-primary {
-    background-color: #00D2B3;
+    background-color: #6D0528;
     border-color: white;
 }
 
 .bg-dark {
-    background-color: #7ad0d6!important;
+    background-color: #400216!important;
 }
 
 .bg-light {
-    background-color: #7ad0d6!important;
+    background-color: #400216!important;
 }
 
 .container {
@@ -37,7 +37,7 @@ h2 {
 }
 
 .card-footer {
-    border-top: 1px solid #7ad0d6;
+    border-top: 1px solid #400216;
     background-color: transparent;
 }
 
@@ -94,7 +94,7 @@ a {
 }
 
 footer {
-    background-color: #7ad0d6;
+    background-color: #400216;
 }
 
 h6 {
@@ -170,23 +170,23 @@ h5 {
 }
 
 .fa-genderless {
-    color: #7ad0d6;
+    color: #400216;
 }
 
 .fa-mars {
-    color: #7ad0d6;
+    color: #400216;
 }
 
 .fa-neuter {
-    color: #7ad0d6;
+    color: #400216;
 }
 
 .fa-venus {
-    color: #7ad0d6;
+    color: #400216;
 }
 
 .page-footer {
-    background-color: #99d4d8;
+    background-color: #400216;
 }
 
 .teal {
