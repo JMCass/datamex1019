@@ -1,652 +1,652 @@
-﻿Index,Nationality,Div,Team,Latitude,Longitude,Stadium
-0,Argentina,SAF,Club Atlético Aldosivi,-38.017944,-57.582333,José María Minella
-1,Argentina,SAF,Argentinos Juniors,-34.606028,-58.472583,Autocrédito Diego Armando Maradona
-2,Argentina,SAF,San Martin de Tucumán,-26.836281,-65.229606,La Ciudadela
-3,Argentina,SAF,Club Atlético Banfield,-34.750847,-58.387544,Florencio Sola
-4,Argentina,SAF,Belgrano de Córdoba,-31.4035,-64.206272,"Estadio Julio César Villagra ""El Gigante de Alberdi"""
-5,Argentina,SAF,Boca Juniors,-34.635556,-58.364722,"Alberto J. Armando ""La Bombonera"""
-6,Argentina,SAF,Club Atlético Colón,-31.662595,-60.725431,"Brigadier General Estanislao López ""El Cementerio de los Elefantes"""
-7,Argentina,SAF,Defensa y Justicia,-34.821753,-58.286511,"Norberto ""Tito"" Tomaghello"
-8,Argentina,SAF,Estudiantes de La Plata,-34.911925,-57.938794,Estadio Jorge Luis Hirschi
-9,Argentina,SAF,Gimnasia y Esgrima La Plata,-34.910975,-57.932592,Juan Carmelo Zerillo
-10,Argentina,SAF,Godoy Cruz,-32.920278,-68.839444,Feliciano Gambarte
-11,Argentina,SAF,Club Atlético Huracán,-34.643494,-58.396511,Tomás Adolfo Ducó
-12,Argentina,SAF,Independiente,-34.670267,-58.370969,Libertadores de América
-13,Argentina,SAF,Club Atlético Lanús,-34.717667,-58.383806,Estadio Ciudad de Lanús-Néstor Díaz Pérez
-14,Argentina,SAF,Newells Old Boys,-32.956056,-60.661444,Marcelo Bielsa
-15,Argentina,SAF,Patronato,-31.743031,-60.507597,Estadio Presbítero Bartolomé Grella
-16,Argentina,SAF,Racing Club,-34.666603,-58.368556,Estadio Presidente Perón
-17,Argentina,SAF,River Plate,-34.545278,-58.449444,"Antonio Vespucio Liberti ""El Monumental"""
-18,Argentina,SAF,Rosario Central,-32.913997,-60.674567,Gigante de Arroyito
-19,Argentina,SAF,San Lorenzo de Almagro,-34.652064,-58.440119,Estadio Pedro Bidegain
-20,Argentina,SAF,San Martín de San Juan,-31.519847,-68.530289,Estadio Ingeniero Hilario Sánchez
-21,Argentina,SAF,SM Tucumán,-26.836281,-65.229606,La Ciudadela
-22,Argentina,SAF,Club Atlético Talleres,-31.449167,-64.175278,Boutique de Barrio Jardín
-23,Argentina,SAF,Club Atlético Tigre,-34.449333,-58.542219,Estadio José Dellagiovanna
-24,Argentina,SAF,Unión de Santa Fe,-31.631853,-60.715867,Estadio 15 de Abril
-25,Argentina,SAF,Vélez Sarsfield,-34.635375,-58.520711,José Amalfitani
-26,Australia,HYUNDAI A-LEAGUE,Adelaide United,-34.9075,138.568889,Hindmarsh Stadium
-27,Australia,HYUNDAI A-LEAGUE,Brisbane Roar,-27.464722,153.009444,Lang Park
-28,Australia,HYUNDAI A-LEAGUE,Central Coast Mariners,-33.428333,151.338056,Central Coast Stadium
-30,Australia,HYUNDAI A-LEAGUE,Melbourne City FC,-37.825278,144.983889,Melbourne Rectangular Stadium
-29,Australia,HYUNDAI A-LEAGUE,Melbourne Victory,-37.825278,144.983889,Melbourne Rectangular Stadium
-31,Australia,HYUNDAI A-LEAGUE,Newcastle Jets,-32.918889,151.726667,McDonald Jones Stadium
-32,Australia,HYUNDAI A-LEAGUE,Perth Glory,-31.945955,115.870131,NIB Stadium
-33,Australia,HYUNDAI A-LEAGUE,Sydney FC,-33.889167,151.225278,Allianz Stadium
-35,Australia,HYUNDAI A-LEAGUE,Western Sydney Wanderers,-33.843056,151.067778,Sydney Showground Stadium
-34,Australia,HYUNDAI A-LEAGUE,Wellington Phoenix,-41.273056,174.785833,Westpac Stadium
-36,Austria,Ö. BUNDESLIGA,FC Admira Wacker Mödling,48.0976,16.3109,BSFZ-Arena
-37,Austria,Ö. BUNDESLIGA,FK Austria Wien,48.162306,16.386694,Generali Arena
-38,Austria,Ö. BUNDESLIGA,FC Wacker Innsbruck,47.255972,11.410789,Tivoli Neu
-39,Austria,Ö. BUNDESLIGA,LASK Linz,48.235556,14.226667,Waldstadion
-40,Austria,Ö. BUNDESLIGA,FC Red Bull Salzburg,47.81625,12.998222,Red Bull Arena
-41,Austria,Ö. BUNDESLIGA,SCR Altach,47.3536,9.6372,Cashpoint Arena
-42,Austria,Ö. BUNDESLIGA,SK Rapid Wien,48.1981,16.2653,Allianz Stadion
-43,Austria,Ö. BUNDESLIGA,SK Sturm Graz,47.046111,15.454444,Stadion Graz-Liebenau
-44,Austria,Ö. BUNDESLIGA,SKN St. Pölten,48.2209,15.6531,NV Arena
-45,Austria,Ö. BUNDESLIGA,SV Mattersburg,47.7394,16.4064,Pappelstadion
-46,Austria,Ö. BUNDESLIGA,TSV Hartberg,47.281,15.9772,Stadion Hartberg
-47,Austria,Ö. BUNDESLIGA,Wolfsberger AC,46.8253,14.8514,Lavanttal-Arena
-48,Belgium,PRO LEAGUE,KSV Cercle Brugge,51.193269,3.181311,Jan Breydel Stadium
-49,Belgium,PRO LEAGUE,Club Brugge KV,51.193269,3.181311,Jan Breydel Stadium
-50,Belgium,PRO LEAGUE,Royal Excel Mouscron,50.733953,3.211082,Stade Le Canonnier
-51,Belgium,PRO LEAGUE,KAA Gent,51.016111,3.734167,Ghelamco Arena
-52,Belgium,PRO LEAGUE,KAS Eupen,50.626389,6.045833,Kehrweg Stadion
-53,Belgium,PRO LEAGUE,KRC Genk,51.005,5.533333,Luminus Arena
-54,Belgium,PRO LEAGUE,KV Kortrijk,50.830278,3.248889,Guldensporen Stadion
-55,Belgium,PRO LEAGUE,KV Oostende,51.216667,2.886389,Albertparkstadion
-56,Belgium,PRO LEAGUE,Royal Antwerp FC,51.232222,4.471667,Bosuilstadion
-57,Belgium,PRO LEAGUE,RSC Anderlecht,50.834167,4.298333,Constant Vanden Stock
-58,Belgium,PRO LEAGUE,Sint-Truidense VV,50.813611,5.165278,Stayen Stadion
-59,Belgium,PRO LEAGUE,Sporting de Charleroi,50.414609,4.453787,Stade du Pays de Charleroi
-60,Belgium,PRO LEAGUE,Sporting Lokeren,51.116389,3.987222,Daknamstadion
-61,Belgium,PRO LEAGUE,Standard de Liège,50.609908,5.543344,Maurice Dufrasne
-62,Belgium,PRO LEAGUE,Waasland-Beveren,51.214139,4.243931,Freethiel Stadion
-63,Belgium,PRO LEAGUE,SV Zulte-Waregem,50.883056,3.428889,Regenboogstadion
-64,Brazil,LIGA DO BRASIL,América FC (Minas Gerais),-19.908333,-43.917778,Estadio Raimundo Sampaio
-66,Brazil,LIGA DO BRASIL,Atlético Mineiro,-19.908333,-43.917778,Estadio Raimundo Sampaio
-65,Brazil,LIGA DO BRASIL,Atlético Paranaense,-25.448333,-49.276944,Arena da Baixada
-67,Brazil,LIGA DO BRASIL,Esporte Club Bahia,-12.978819,-38.504253,Arena Fonte Nova
-68,Brazil,LIGA DO BRASIL,Botafogo,-22.893172,-43.292269,Estadio Nilton Santos
-69,Brazil,LIGA DO BRASIL,Ceará Sporting Club,-3.807267,-38.522481,Estadio Castelão
-70,Brazil,LIGA DO BRASIL,Chapecoense,-27.1041,-52.607,Arena Condá
-71,Brazil,LIGA DO BRASIL,Cruzeiro,-19.865833,-43.970833,Mineirão
-72,Brazil,LIGA DO BRASIL,Fluminense,-22.912167,-43.230164,Maracaná
-73,Brazil,LIGA DO BRASIL,Grêmio,-29.973444,-51.194403,Arena do Grêmio
-74,Brazil,LIGA DO BRASIL,Internacional,-30.065614,-51.236086,Beira-Rio
-75,Brazil,LIGA DO BRASIL,Paraná Clube,-25.439444,-49.255833,Estadio Durival de Britto e Silva
-76,Brazil,LIGA DO BRASIL,Santos Futebol Clube,-23.951111,-46.338889,Estadio Vila Belmiro
-77,Brazil,LIGA DO BRASIL,Sport Club do Recife,-8.062953,-34.902981,Estadio Ilha do Retiro
-78,Brazil,LIGA DO BRASIL,Esporte Clube Vitória,-12.919,-38.427,Barradão
-79,Chile,CAMP. SCOTIABANK,Audax Italiano,-33.540833,-70.578333,Bicentenario de La Florida
-80,Chile,CAMP. SCOTIABANK,CD Antofagasta,-23.670139,-70.404583,Regional Calvo y Bascuñán
-81,Chile,CAMP. SCOTIABANK,CD Huachipato,-36.755556,-73.107222,Huachipato - CAP Acero
-82,Chile,CAMP. SCOTIABANK,CD O'higgins,-34.177764,-70.737719,El Teniente
-83,Chile,CAMP. SCOTIABANK,CD Palestino,-33.520833,-70.672778,Municipal de La Cisterna
-84,Chile,CAMP. SCOTIABANK,Colo-Colo,-33.506611,-70.605944,Monumental
-85,Chile,CAMP. SCOTIABANK,Curicó Unido,-34.974356,-71.230707,La Granja
-86,Chile,CAMP. SCOTIABANK,Deportes Iquique,-20.235111,-70.145611,Municipal de Cavancha
-87,Chile,CAMP. SCOTIABANK,Club Deportes Temuco,-38.742778,-72.619722,Germán Becker
-88,Chile,CAMP. SCOTIABANK,CD Everton de Viña del Mar,-33.014397,-71.535233,Sausalito
-89,Chile,CAMP. SCOTIABANK,San Luis de Quillota,-32.8876,-71.252,Municipal Lucio Fariña Fernández
-93,Chile,CAMP. SCOTIABANK,Unión Española,-33.404553,-70.659017,Santa Laura
-94,Chile,CAMP. SCOTIABANK,Unión La Calera,-32.784167,-71.199444,Nicolás Chahuán Nazar
-90,Chile,CAMP. SCOTIABANK,Universidad Católica,-33.395944,-70.500656,San Carlos de Apoquindo
-91,Chile,CAMP. SCOTIABANK,CD Universidad de Concepción,-36.815278,-73.023333,Ester Roa Rebolledo
-92,Chile,CAMP. SCOTIABANK,Universidad de Chile,-33.464522,-70.610586,Estadio Nacional de Chile
-95,China,CSL,Beijing Sinobo Guoan FC,39.929528,116.441139,Workers Stadium
-96,China,CSL,Beijing Renhe FC,39.865694,116.272625,Beijing Fengtai Stadium
-97,China,CSL,Changchun Yatai FC,43.864144,125.336861,Changchun Stadium
-98,China,CSL,Chongqing Dangdai Lifan FC SWM Team,29.528723,106.502109,Chongqing Olympic Sports Center
-99,China,CSL,Dalian YiFang FC,38.906939,121.604147,Sportcenter of Dalian
-100,China,CSL,Guangzhou Evergrande Taobao FC,23.138031,113.324661,Tianhe Stadium
-101,China,CSL,Guangzhou R&F FC,23.139216,113.260739,Yuexiushan Stadium
-102,China,CSL,Guizhou Hengfeng FC,26.620721,106.605749,Guiyang Olympic Sports Center
-103,China,CSL,Hebei China Fortune FC,39.907325,119.547708,Qinhuangdao Arena
-104,China,CSL,Henan Jianye FC,34.7167,113.725,Zhengzhou Hanghai Stadium
-105,China,CSL,Jiangsu Suning FC,32.010642,118.7197,Nanjing Olympic Sports Center
-106,China,CSL,Shandong Luneng TaiShan FC,36.656646,117.110052,Jinan Olympic Sports Center Stadium
-107,China,CSL,Shanghai Greenland Shenhua FC,31.2733,121.4762,Hongkou Stadium
-108,China,CSL,Shanghai SIPG FC,31.191291,121.489391,Shanghai Arena
-109,China,CSL,Tianjin Quanjian FC,39.006941,117.351801,Haihe Educational Football Stadium
-110,China,CSL,Tianjin TEDA FC,39.073444,117.169389,Tianjin Olimpic Stadium
-111,Colombia,LIGA DIMAYOR,Alianza Petrolera,7.23639,-73.8642,Daniel Villa Zapata
-112,Colombia,LIGA DIMAYOR,América de Cali,3.429889,-76.541083,Olímpico Pascual Guerrero
-113,Colombia,LIGA DIMAYOR,Atlético Bucaramanga,7.136589,-73.116589,Estadio Alfonso López
-115,Colombia,LIGA DIMAYOR,Atlético Huila,2.936698,-75.274286,Guillermo Plazas Alcid
-114,Colombia,LIGA DIMAYOR,Atlético Nacional,6.2568,-75.590172,Atanasio Girardot
-116,Colombia,LIGA DIMAYOR,Boyacá Chicó FC,5.542233,-73.353131,La Independencia
-117,Colombia,LIGA DIMAYOR,Deportes Tolima,4.429509,-75.218325,Manuel Murillo Toro
-118,Colombia,LIGA DIMAYOR,Deportivo Cali,3.521642,-76.417036,Deportivo Cali
-119,Colombia,LIGA DIMAYOR,Deportivo Pasto,0.828889,-77.640556,Estadio Municipal De Ipiales
-120,Colombia,LIGA DIMAYOR,Envigado FC,6.164108,-75.59967,Polideportivo Sur
-122,Colombia,LIGA DIMAYOR,Independiente Medellín,6.2568,-75.590172,Atanasio Girardot
-121,Colombia,LIGA DIMAYOR,Independiente Santa Fe,4.645889,-74.0775,Nemesio Camacho El Campin
-123,Colombia,LIGA DIMAYOR,Jaguares de Córdoba,8.711778,-75.827639,Estadio Jaraguay
-124,Colombia,LIGA DIMAYOR,Junior FC,10.926861,-74.800722,Metropolitano Roberto Meléndez
-125,Colombia,LIGA DIMAYOR,La Equidad,4.623545,-74.135611,Metropolitano de Techo
-126,Colombia,LIGA DIMAYOR,Itagüí Leones FC,6.169072,-75.626826,Metropolitano Ciudad de Itagüí
-127,Colombia,LIGA DIMAYOR,Millonarios FC,4.645889,-74.0775,Nemesio Camacho El Campin
-128,Colombia,LIGA DIMAYOR,Once Caldas,5.056233,-75.489807,Palogrande
-129,Colombia,LIGA DIMAYOR,Patriotas Boyacá FC,5.542233,-73.353131,La Independencia
-130,Colombia,LIGA DIMAYOR,Rionegro Águilas,6.146678,-75.372754,Estadio Alberto Grisales
-131,Denmark,SUPERLIGA,Aalborg BK,57.0515,9.8991,Nordjyske Arena
-132,Denmark,SUPERLIGA,Aarhus GF,56.131944,10.196389,Aarhus Idrætspark
-133,Denmark,SUPERLIGA,AC Horsens,55.871667,9.857222,CASA Arena Horsens
-134,Denmark,SUPERLIGA,Brøndby IF,55.648853,12.418358,Brøndby Stadium
-135,Denmark,SUPERLIGA,Esbjerg fB,55.481944,8.439444,Blue Water Arena
-136,Denmark,SUPERLIGA,FC København,55.702469,12.572203,Parken Stadion
-137,Denmark,SUPERLIGA,FC Midtjylland,56.116667,8.951667,MCH Arena
-138,Denmark,SUPERLIGA,FC Nordsjælland,55.815847,12.353289,Farum Park
-139,Denmark,SUPERLIGA,Hobro IK,56.635,9.82,DS Arena
-140,Denmark,SUPERLIGA,Odense Boldklub,55.397771,10.350055,Odense Stadion
-141,Denmark,SUPERLIGA,Randers FC,56.465833,10.010278,AutoC Park
-142,Denmark,SUPERLIGA,SønderjyskE,55.261359,9.487791,Sydbank Park
-143,Denmark,SUPERLIGA,Vejle Boldklub,55.71372,9.5562,Vejle Stadion
-144,Denmark,SUPERLIGA,Vendsyssel FF,57.457661,9.998506,Nord Energi Arena
-189,England,LEAGUE ONE DE LA EFL,Accrington Stanley,53.765356,-2.370911,Wham Stadium
-190,England,LEAGUE ONE DE LA EFL,AFC Wimbledon,51.405083,-0.281944,Cherry Red Records Stadium
-145,England,PREMIER LEAGUE,Arsenal,51.555,-0.108611,Emirates Stadium
-165,England,EFL CHAMPIONSHIP,Aston Villa,52.509167,-1.884722,Villa Park
-191,England,LEAGUE ONE DE LA EFL,Barnsley,53.552222,-1.4675,Oakwell
-166,England,EFL CHAMPIONSHIP,Birmingham City,52.475703,-1.868189,St Andrew's Stadium
-167,England,EFL CHAMPIONSHIP,Blackburn Rovers,53.728611,-2.489167,Ewood Park
-192,England,LEAGUE ONE DE LA EFL,Blackpool,53.804722,-3.048056,Bloomfield Road
-168,England,EFL CHAMPIONSHIP,Bolton Wanderers,53.580556,-2.535556,Reebok Stadium
-146,England,PREMIER LEAGUE,Bournemouth,50.735278,-1.838333,Vitality Stadium
-193,England,LEAGUE ONE DE LA EFL,Bradford City,53.804222,-1.759022,Northern Commercials Stadium
-169,England,EFL CHAMPIONSHIP,Brentford,51.488167,-0.302639,Griffin Park
-147,England,PREMIER LEAGUE,Brighton & Hove Albion,50.861822,-0.083278,American Express Community Stadium
-170,England,EFL CHAMPIONSHIP,Bristol City,51.44,-2.620278,Ashton Gate
-194,England,LEAGUE ONE DE LA EFL,Bristol Rovers,51.48622,-2.583134,Memorial Stadium
-148,England,PREMIER LEAGUE,Burnley,53.789167,-2.230278,Turf Moor
-195,England,LEAGUE ONE DE LA EFL,Burton Albion,52.821906,-1.626958,Pirelli Stadium
-213,England,LEAGUE TWO DE LA EFL,Bury,53.580506,-2.294822,Gigg Lane
-214,England,LEAGUE TWO DE LA EFL,Cambridge United,52.2121,-0.15415,Abbey Stadium
-149,England,PREMIER LEAGUE,Cardiff City,51.472778,-3.203056,Cardiff City Stadium
-215,England,LEAGUE TWO DE LA EFL,Carlisle United,54.89556,-2.91365,Brunton Park
-196,England,LEAGUE ONE DE LA EFL,Charlton Athletic,51.486389,-0.036389,The Valley
-150,England,PREMIER LEAGUE,Chelsea,51.481667,-0.191111,Stamford Bridge
-216,England,LEAGUE TWO DE LA EFL,Cheltenham Town,51.906158,-2.060211,LCI Rail Stadium
-217,England,LEAGUE TWO DE LA EFL,Colchester United,51.923394,-0.897703,Colchester Community Stadium
-197,England,LEAGUE ONE DE LA EFL,Coventry City,52.448056,-1.495556,Ricoh Arena
-218,England,LEAGUE TWO DE LA EFL,Crawley Town,51.099706,-0.194767,Checkatrade.com Stadium
-219,England,LEAGUE TWO DE LA EFL,Crewe Alexandra,53.087419,-2.435747,Gresty Road
-151,England,PREMIER LEAGUE,Crystal Palace,51.398333,-0.085556,Selhurst Park
-171,England,EFL CHAMPIONSHIP,Derby County,52.915,-1.447222,Pride Park Stadium
-198,England,LEAGUE ONE DE LA EFL,Doncaster Rovers,53.509722,-1.113889,Keepmoat Stadium
-152,England,PREMIER LEAGUE,Everton,53.438889,-2.966389,Goodison Park
-220,England,LEAGUE TWO DE LA EFL,Exeter City,50.730714,-3.52115,St James Park
-199,England,LEAGUE ONE DE LA EFL,Fleetwood Town,53.9165,-3.0247,Highbury Stadium
-221,England,LEAGUE TWO DE LA EFL,Forest Green Rovers,51.698975,-2.237892,The New Lawn
-153,England,PREMIER LEAGUE,Fulham,51.475,-0.221667,Craven Cottage
-200,England,LEAGUE ONE DE LA EFL,Gillingham,51.38425,-0.560753,Priestfield Stadium
-222,England,LEAGUE TWO DE LA EFL,Grimsby Town,53.570225,-0.046497,Blundell Park
-154,England,PREMIER LEAGUE,Huddersfield Town,53.654167,-1.768333,John Smith's Stadium
-172,England,EFL CHAMPIONSHIP,Hull City,53.746111,-0.367778,KC Stadium
-173,England,EFL CHAMPIONSHIP,Ipswich Town,52.055061,1.144831,Portman Road
-174,England,EFL CHAMPIONSHIP,Leeds United,53.777778,-1.572222,Elland Road
-155,England,PREMIER LEAGUE,Leicester City,52.620278,-1.142222,King Power Stadium
-223,England,LEAGUE TWO DE LA EFL,Lincoln City,53.218289,-0.540811,Sincil Bank
-156,England,PREMIER LEAGUE,Liverpool,53.430819,-2.960828,Anfield
-201,England,LEAGUE ONE DE LA EFL,Luton Town,51.884167,-0.431667,Kenilworth Road
-224,England,LEAGUE TWO DE LA EFL,Macclesfield Town,53.242781,-2.127136,Moss Rose
-157,England,PREMIER LEAGUE,Manchester City,53.482989,-2.200292,Etihad Stadium
-158,England,PREMIER LEAGUE,Manchester United,53.463056,-2.291389,Old Trafford
-225,England,LEAGUE TWO DE LA EFL,Mansfield Town,53.138056,-1.200556,One Call Stadium
-175,England,EFL CHAMPIONSHIP,Middlesbrough,54.578333,-1.216944,Riverside Stadium
-176,England,EFL CHAMPIONSHIP,Millwall,51.485953,-0.05095,The Den
-226,England,LEAGUE TWO DE LA EFL,Milton Keynes Dons,52.009444,-0.733333,Stadium MK
-227,England,LEAGUE TWO DE LA EFL,Morecambe,54.0615,-2.8672,Globe Arena
-159,England,PREMIER LEAGUE,Newcastle United,54.975556,-1.621667,Sports Direct Arena
-228,England,LEAGUE TWO DE LA EFL,Newport County,51.588333,-2.987778,Rodney Parade
-229,England,LEAGUE TWO DE LA EFL,Northampton Town,52.235197,-0.93345,Sixfields Stadium
-177,England,EFL CHAMPIONSHIP,Norwich City,52.622128,1.308653,Carrow Road
-178,England,EFL CHAMPIONSHIP,Nottingham Forest,52.94,-1.132778,City Ground
-230,England,LEAGUE TWO DE LA EFL,Notts County,52.9425,-1.137222,Meadow Lane
-231,England,LEAGUE TWO DE LA EFL,Oldham Athletic,53.555278,-2.128611,SportsDirect.com Park
-202,England,LEAGUE ONE DE LA EFL,Oxford United,51.716419,-1.208067,Kassam Stadium
-203,England,LEAGUE ONE DE LA EFL,Peterborough United,52.564697,-0.240406,London Road Stadium
-204,England,LEAGUE ONE DE LA EFL,Plymouth Argyle,50.388056,-4.150833,Home Park
-232,England,LEAGUE TWO DE LA EFL,Port Vale,53.049722,-2.1925,Vale Park
-205,England,LEAGUE ONE DE LA EFL,Portsmouth,50.796389,-1.063889,Fratton Park
-179,England,EFL CHAMPIONSHIP,Preston North End,53.772222,-2.688056,Deepdale
-180,England,EFL CHAMPIONSHIP,Queens Park Rangers,51.509167,-0.232222,Loftus Road
-181,England,EFL CHAMPIONSHIP,Reading,51.422222,-0.982778,Madejski Stadium
-206,England,LEAGUE ONE DE LA EFL,Rochdale,53.620833,-2.18,Crown Oil Arena
-182,England,EFL CHAMPIONSHIP,Rotherham United,53.4279,-1.362,AESSEAL New York Stadium
-207,England,LEAGUE ONE DE LA EFL,Scunthorpe United,53.585367,-0.690492,Glanford Park
-183,England,EFL CHAMPIONSHIP,Sheffield United,53.370278,-1.470833,Bramall Lane
-184,England,EFL CHAMPIONSHIP,Sheffield Wednesday,53.411389,-1.500556,Hillsborough Stadium
-208,England,LEAGUE ONE DE LA EFL,Shrewsbury,52.68863,-2.74933,Montgomery Waters Meadow
-160,England,PREMIER LEAGUE,Southampton,50.905833,-1.391111,St Mary's Stadium
-209,England,LEAGUE ONE DE LA EFL,Southend United,51.549017,-0.701558,Roots Hall
-161,England,PREMIER LEAGUE,Tottenham Hotspur,51.603333,-0.065833,White Hart Lane
-233,England,LEAGUE TWO DE LA EFL,Stevenage,51.889839,-0.193608,Lamex Stadium
-185,England,EFL CHAMPIONSHIP,Stoke City,52.988333,-2.175556,Britannia Stadium
-210,England,LEAGUE ONE DE LA EFL,Sunderland,54.9144,-1.3882,Stadium of Light
-186,England,EFL CHAMPIONSHIP,Swansea City,51.6422,-3.9351,Liberty Stadium
-234,England,LEAGUE TWO DE LA EFL,Swindon Town,51.564444,-1.770556,County Ground
-235,England,LEAGUE TWO DE LA EFL,Tranmere Rovers,53.373722,-3.0325,Prenton Park
-211,England,LEAGUE ONE DE LA EFL,Walsall,52.5655,-1.9909,Banks's Stadium
-162,England,PREMIER LEAGUE,Watford,51.649836,-0.401486,Vicarage Road
-187,England,EFL CHAMPIONSHIP,West Bromwich Albion,52.509167,-1.963889,The Hawthorns
-163,England,PREMIER LEAGUE,West Ham United,51.531944,0.039444,Boleyn Ground
-188,England,EFL CHAMPIONSHIP,Wigan Athletic,53.547778,-2.653889,DW Stadium
-164,England,PREMIER LEAGUE,Wolverhampton Wanderers,52.590278,-2.130278,Molineux Stadium
-212,England,LEAGUE ONE DE LA EFL,Wycombe Wanderers,51.630556,-0.800278,Adams Park
-236,England,LEAGUE TWO DE LA EFL,Yeovil Town,50.950261,-2.673844,Huish Park
-257,France,DOMINOS LIGUE 2,AC Ajaccio,41.931081,8.776725,Stade François Coty
-258,France,DOMINOS LIGUE 2,AJ Auxerre,47.786753,3.588664,Stade de l'Abbé-Deschamps
-237,France,LIGUE 1 CONFORAMA,Amiens SC,49.894209,2.263312,Stade de la Licorne
-238,France,LIGUE 1 CONFORAMA,Angers SCO,47.460458,-0.530741,Stade Raymond Kopa
-259,France,DOMINOS LIGUE 2,AS Béziers,43.334714,3.266,Stade de la Méditerranée
-239,France,LIGUE 1 CONFORAMA,AS Monaco,43.727606,7.415614,Stade Louis II
-260,France,DOMINOS LIGUE 2,Chamois Niortais Football Club,46.3169444,-0.489166667,Stade René Gaillard
-261,France,DOMINOS LIGUE 2,Clermont Foot 63,45.8158333,3.121666667,Stade Gabriel Montpied
-241,France,LIGUE 1 CONFORAMA,Dijon FCO,47.324383,5.068342,Stade Gaston Gérard
-242,France,LIGUE 1 CONFORAMA,En Avant de Guingamp,48.566285,-3.164599,Stade du Roudourou
-262,France,DOMINOS LIGUE 2,ESTAC Troyes,48.307561,4.098458,Stade de l'Aube
-263,France,DOMINOS LIGUE 2,FC Lorient,47.748747,-3.369367,Stade du Moustoir
-264,France,DOMINOS LIGUE 2,FC Metz,49.10981,6.159511,Stade Saint-Symphorien
-243,France,LIGUE 1 CONFORAMA,FC Nantes,47.255631,-1.525375,Stade de la Beaujoire
-266,France,DOMINOS LIGUE 2,GFC Ajaccio,41.951389,8.772222,Stade Ange Casanova
-244,France,LIGUE 1 CONFORAMA,FC Girondins de Bordeaux,44.829167,-0.597778,Stade Chaban-Delmas
-267,France,DOMINOS LIGUE 2,Grenoble Foot 38,45.187428,5.740099,Stade des Alpes
-269,France,DOMINOS LIGUE 2,La Berrichonne de Châteauroux,46.8019444,1.721666667,Stade Gaston Petit
-268,France,DOMINOS LIGUE 2,Le Havre AC,49.498889,0.169722,Stade Océane
-272,France,DOMINOS LIGUE 2,Racing Club de Lens,50.432778,2.814722,Stade Bollaert-Delelis
-245,France,LIGUE 1 CONFORAMA,LOSC Lille,50.611883,3.130428,Stade Pierre-Mauroy
-246,France,LIGUE 1 CONFORAMA,Montpellier HSC,43.622222,3.811944,Stade de la Mosson
-270,France,DOMINOS LIGUE 2,AS Nancy Lorraine,48.6955,6.210687,Stade Marcel Picot
-247,France,LIGUE 1 CONFORAMA,Nîmes Olympique,43.815972,4.359278,Stade des Costières
-248,France,LIGUE 1 CONFORAMA,OGC Nice,43.723328,7.258756,Allianz Riviera
-249,France,LIGUE 1 CONFORAMA,Olympique Lyonnais,45.723889,4.832222,Stade de Gerland
-250,France,LIGUE 1 CONFORAMA,Olympique de Marseille,43.269722,5.395833,Stade Velodrome
-251,France,LIGUE 1 CONFORAMA,Paris Saint-Germain,48.841389,2.253056,Parc des Princes
-271,France,DOMINOS LIGUE 2,Paris FC,48.818611,2.346667,Stade Charléty
-252,France,LIGUE 1 CONFORAMA,RC Strasbourg Alsace,48.560064,7.754969,Stade de la Meinau
-273,France,DOMINOS LIGUE 2,Red Star FC,48.905833,2.340833,Stade Bauer
-240,France,LIGUE 1 CONFORAMA,AS Saint-Étienne,45.460833,4.390278,Stade Geoffroy-Guichard
-253,France,LIGUE 1 CONFORAMA,Stade Malherbe Caen,49.179461,-0.396767,Stade Michel d'Ornano
-265,France,DOMINOS LIGUE 2,FC Sochaux-Montbéliard,47.512417,6.8112,Stade Auguste Bonal
-274,France,DOMINOS LIGUE 2,Stade Brestois 29,48.402932,-4.461694,Stade Francis-Le Blé
-254,France,LIGUE 1 CONFORAMA,Stade de Reims,49.246667,4.025,Stade Auguste-Delaune II
-255,France,LIGUE 1 CONFORAMA,Stade Rennais FC,48.107458,-1.712839,Stade de la Route de Lorient
-256,France,LIGUE 1 CONFORAMA,Toulouse Football Club,43.583056,1.434167,Stadium Municipal
-275,France,DOMINOS LIGUE 2,US Orléans Loiret Football,47.8402778,1.941111111,Stade de la Source
-276,France,DOMINOS LIGUE 2,Valenciennes FC,50.348131,3.533027,Stade du Hainaut
-303,Germany,BUNDESLIGA 2,1. FC Heidenheim 1846,48.6685,10.1393,Voith-Arena
-277,Germany,BUNDESLIGA,1. FC Nürnberg,49.426111,11.125833,Grundig-Stadion
-278,Germany,BUNDESLIGA,1. FSV Mainz 05,49.984167,8.224167,Coface Arena
-313,Germany,3. LIGA,TSV 1860 München,48.110833,11.574444,Grünwalder Stadion
-296,Germany,BUNDESLIGA 2,DSC Arminia Bielefeld,52.031389,8.516944,Schüco Arena
-295,Germany,BUNDESLIGA 2,FC Erzgebirge Aue,50.5975,12.711111,Sparkassen-Erzgebirgsstadion
-297,Germany,BUNDESLIGA 2,VfL Bochum 1848,51.489944,7.236489,Vonovia Ruhrstadion
-314,Germany,3. LIGA,Braunschweig,52.29,10.521389,Eintracht-Stadion
-315,Germany,3. LIGA,FC Carl Zeiss Jena,50.915833,11.582778,Ernst-Abbe-Sportfeld
-279,Germany,BUNDESLIGA,Borussia Dortmund,51.492569,7.451842,Signal Iduna Park
-299,Germany,BUNDESLIGA 2,SG Dynamo Dresden,51.040278,13.747778,Stadion Dresden
-300,Germany,BUNDESLIGA 2,MSV Duisburg,51.409028,6.778639,Schauinsland-Reisen-Arena
-316,Germany,3. LIGA,FC Energie Cottbus,51.751389,14.345556,Stadion der Freundschaft
-280,Germany,BUNDESLIGA,Fortuna Düsseldorf,51.261667,6.733056,Esprit Arena
-281,Germany,BUNDESLIGA,FC Augsburg,48.3225,10.882222,SGL arena
-282,Germany,BUNDESLIGA,FC Bayern München,48.218775,11.624753,Allianz Arena
-304,Germany,BUNDESLIGA 2,FC Ingolstadt 04,48.745556,11.485,Audi Sportpark
-290,Germany,BUNDESLIGA,FC Schalke 04,51.554503,7.067589,Veltins-Arena
-317,Germany,3. LIGA,SC Fortuna Köln,50.9175,6.94361,Südstadion
-283,Germany,BUNDESLIGA,Eintracht Braunschweig,52.29,10.521667,Eintracht-Stadion
-318,Germany,3. LIGA,FSV Zwickau,50.728539,12.519325,Stadion Zwickau
-301,Germany,BUNDESLIGA 2,SpVgg Greuther Fürth,49.486944,10.999167,Trolli Arena
-319,Germany,3. LIGA,Hallescher FC,51.465278,11.961944,Erdgas Sportpark
-302,Germany,BUNDESLIGA 2,Hamburger SV,53.587158,9.898617,Imtech Arena
-284,Germany,BUNDESLIGA,Hannover 96,52.360067,9.731197,HDI-Arena
-320,Germany,3. LIGA,FC Hansa Rostock,54.08495,12.095189,Ostseestadion
-285,Germany,BUNDESLIGA,Hertha BSC,52.514722,13.239444,Olympiastadion
-321,Germany,3. LIGA,1. FC Kaiserslautern,49.434722,7.776667,Fritz-Walter-Stadion
-322,Germany,3. LIGA,Karlsruher SC,49.02,8.413056,Wildparkstadion
-323,Germany,3. LIGA,KFC Uerdingen 05,51.339167,6.603611,Grotenburg-Stadion
-305,Germany,BUNDESLIGA 2,Holstein Kiel,54.349167,10.123611,Holstein-Stadion
-306,Germany,BUNDESLIGA 2,1. FC Köln,50.933497,6.874997,RheinEnergieStadion
-286,Germany,BUNDESLIGA,Bayer 04 Leverkusen,51.038256,7.002206,BayArena
-307,Germany,BUNDESLIGA 2,1. FC Magdeburg,52.125556,11.670833,MDCC-Arena
-287,Germany,BUNDESLIGA,Borussia Mönchengladbach,51.174583,6.385464,Borussia-Park
-308,Germany,BUNDESLIGA 2,SC Paderborn 07,51.731389,8.710833,Benteler Arena
-324,Germany,3. LIGA,SC Preußen Münster,51.929722,7.624583,Preußenstadion
-288,Germany,BUNDESLIGA,RB Leipzig,51.345833,12.348056,Red Bull Arena
-325,Germany,3. LIGA,SG Sonnenhof Großaspach,48.9799,9.39413,Comtech Arena
-310,Germany,BUNDESLIGA 2,SV Sandhausen,49.332083,8.647667,Hardtwaldstadion
-289,Germany,BUNDESLIGA,SC Freiburg,47.988889,7.893056,MAGE SOLAR Stadion
-326,Germany,3. LIGA,VfL Sportfreunde Lotte,52.270936,7.920444,ConnectM-Arena
-309,Germany,BUNDESLIGA 2,SSV Jahn Regensburg,48.9909,12.1069,Continental Arena
-311,Germany,BUNDESLIGA 2,FC St. Pauli,53.554444,9.967778,Millerntor-Stadion
-298,Germany,BUNDESLIGA 2,SV Darmstadt 98,49.857778,8.672222,Jonathan-Heimes am Böllenfalltor
-327,Germany,3. LIGA,SV Meppen,52.7081,7.29806,MEP-Arena
-328,Germany,3. LIGA,SV Wehen Wiesbaden,50.071111,8.256694,Brita-Arena
-291,Germany,BUNDESLIGA,TSG 1899 Hoffenheim,49.239008,8.888281,Rhein-Neckar Arena
-312,Germany,BUNDESLIGA 2,1. FC Union Berlin,52.457222,13.568056,Stadion An der Alten Försterei
-329,Germany,3. LIGA,SpVgg Unterhaching,48.073611,11.615556,Generali Sportpark
-292,Germany,BUNDESLIGA,VfB Stuttgart,48.792269,9.232031,Mercedes-Benz Arena
-330,Germany,3. LIGA,VfL Osnabrück,52.280833,8.071111,Osnatel-Arena
-293,Germany,BUNDESLIGA,VfL Wolfsburg,52.431944,10.803889,Volkswagen Arena
-331,Germany,3. LIGA,VfR Aalen,48.840556,10.072222,Scholz-Arena
-294,Germany,BUNDESLIGA,SV Werder Bremen,53.066394,8.837628,Weserstadion
-332,Germany,3. LIGA,FC Würzburger Kickers,49.767194,9.932944,Flyeralarm-Arena
-333,Irland,SSE AIRTRICITY LEAGUE,Bohemian FC,53.361667,-6.275,Dalymount Park
-334,Irland,SSE AIRTRICITY LEAGUE,Bray Wanderers,53.205714,-6.102889,Carlisle Grounds
-335,Irland,SSE AIRTRICITY LEAGUE,Cork City,51.885528,-8.46775,Turners Cross
-336,Irland,SSE AIRTRICITY LEAGUE,Derry City,54.990633,-7.336,Brandywell Stadium
-337,Irland,SSE AIRTRICITY LEAGUE,Dundalk,53.998944,-6.416917,Oriel Park
-338,Irland,SSE AIRTRICITY LEAGUE,Limerick FC,52.6603,-8.6149,Markets Field
-339,Irland,SSE AIRTRICITY LEAGUE,Shamrock Rovers,53.2835,-6.37374,Tallaght Stadium
-340,Irland,SSE AIRTRICITY LEAGUE,Sligo Rovers,54.150444,-6.320606,Showgrounds Stadium
-341,Irland,SSE AIRTRICITY LEAGUE,St. Patricks Athletic,53.340922,-6.316619,Richmond Park
-342,Irland,SSE AIRTRICITY LEAGUE,Waterford FC,52.244722,-7.132778,Regional Sports Centre
-363,Italy,CALCIO B,Ascoli,42.861111,13.594167,Stadio Cino e Lillo Del Duca
-343,Italy,SERIE A TIM,Atalanta,45.708889,9.680833,Atleti Azzurri d'Italia
-364,Italy,CALCIO B,Benevento Calcio,41.116389,14.781111,Stadio Ciro Vigorito
-344,Italy,SERIE A TIM,Bologna,44.492222,11.309722,Renato Dall'Ara
-365,Italy,CALCIO B,Brescia,45.570556,10.236944,Stadio Mario Rigamonti
-345,Italy,SERIE A TIM,Cagliari,39.199889,9.137583,Arena Cerdeña
-366,Italy,CALCIO B,Carpi,44.775556,10.881667,Stadio Sandro Cabassi
-346,Italy,SERIE A TIM,Chievo Verona,45.435356,10.968647,Marcantonio Bentegodi
-367,Italy,CALCIO B,Cittadella,45.642778,11.781111,Stadio Piercesare Tombolato
-368,Italy,CALCIO B,Cosenza,39.31,16.231111,Stadio San Vito-Gigi Marulla
-369,Italy,CALCIO B,US Cremonese,45.140278,10.034722,Stadio Giovanni Zini
-370,Italy,CALCIO B,Crotone,39.079167,17.116667,Stadio Ezio Scida
-347,Italy,SERIE A TIM,Empoli,43.726389,10.955,Stadio Carlo Castellani
-348,Italy,SERIE A TIM,Fiorentina,43.780822,11.282258,Stadio Artemio Franchi
-371,Italy,CALCIO B,Foggia,41.454444,15.5425,Stadio Pino Zaccheria
-349,Italy,SERIE A TIM,Frosinone,41.63426,13.321866,Stadio Benito Stirpe
-350,Italy,SERIE A TIM,Genoa,44.416431,8.952428,Stadio Luigi Ferraris
-372,Italy,CALCIO B,Hellas Verona,45.435356,10.968647,Stadio Marcantonio Bentegodi
-351,Italy,SERIE A TIM,Inter,45.47808,9.124,Stadio Giuseppe Meazza
-352,Italy,SERIE A TIM,Juventus,45.109594,7.641247,Allianz Stadium
-373,Italy,CALCIO B,Spezia,44.102222,9.808611,Stadio Alberto Picco
-353,Italy,SERIE A TIM,Lazio,41.933872,12.454714,Olímpico di Roma
-374,Italy,CALCIO B,Lecce,40.365278,18.208889,Stadio Via del Mare
-375,Italy,CALCIO B,Livorno,43.526667,10.314167,Stadio Armando Picchi
-354,Italy,SERIE A TIM,Milan,45.47808,9.124,Stadio San Siro
-355,Italy,SERIE A TIM,Napoli,40.827967,14.193008,Stadio San Paolo
-376,Italy,CALCIO B,Padova,45.432222,11.858333,Euganeo Stadion
-377,Italy,CALCIO B,Palermo,38.152767,13.342275,Renzo Barbera
-356,Italy,SERIE A TIM,Parma,44.794917,10.338444,Ennio Tardini
-378,Italy,CALCIO B,Perugia,43.106111,12.357222,Stadio Renato Curi
-379,Italy,CALCIO B,Pescara,42.455278,14.229444,Adriatico-Giovanni Cornacchia
-357,Italy,SERIE A TIM,Roma,41.933872,12.454714,Olímpico di Roma
-380,Italy,CALCIO B,US Salernitana 1919,40.645,14.823889,Stadio Arechi
-358,Italy,SERIE A TIM,Sampdoria,44.416431,8.952428,Stadio Luigi Ferraris
-359,Italy,SERIE A TIM,Sassuolo,44.714722,10.649722,MAPEI Stadium - Città del Tricolore
-360,Italy,SERIE A TIM,SPAL,44.839722,11.6075,Stadio Paolo Mazza
-361,Italy,SERIE A TIM,Torino,45.041667,7.65,Olímpico Grande Torino
-362,Italy,SERIE A TIM,Udinese,46.081603,13.200136,Stadio Friuli
-381,Italy,CALCIO B,Venezia FC,45.4277611,12.3637306,Stadio Pierluigi Penzo
-382,Japan,MEIJI YASUDA J1,Cerezo Osaka,34.615339,135.516572,Kincho Stadium
-383,Japan,MEIJI YASUDA J1,FC Tokyo,35.664278,139.527139,Ajinomoto Stadium
-384,Japan,MEIJI YASUDA J1,Gamba Osaka,34.811372,135.54085,Panasonic Suita Stadium
-385,Japan,MEIJI YASUDA J1,Hokkaido Consadole Sapporo,43.015172,141.409767,Sapporo Dome
-386,Japan,MEIJI YASUDA J1,Júbilo Iwata,34.725217,137.875006,Yamaha Stadium
-387,Japan,MEIJI YASUDA J1,Kashima Antlers,35.991744,140.640525,Kashima Soccer Stadium
-388,Japan,MEIJI YASUDA J1,Kashiwa Reysol,35.8485,139.975149,Sankyo Frontier Kashiwa Stadium
-389,Japan,MEIJI YASUDA J1,Kawasaki Frontale,35.585895,139.652731,Kawasaki Todoroki Stadium
-390,Japan,MEIJI YASUDA J1,Nagoya Grampus,35.0845,137.170611,Toyota Stadium
-391,Japan,MEIJI YASUDA J1,Sagan Tosu,33.371944,130.520278,Ekimae Real Estate Stadium
-393,Japan,MEIJI YASUDA J1,Sanfrecce Hiroshima,34.440778,132.39425,EDION Hiroshima Stadium
-392,Japan,MEIJI YASUDA J1,Shimizu S-Pulse,34.984444,138.481111,IAI Nihondaira Stadium
-394,Japan,MEIJI YASUDA J1,Shonan Bellmare,35.343608,139.341263,Shonan BMW Stadium Hiratsuka
-395,Japan,MEIJI YASUDA J1,Urawa Red Diamonds,35.903142,139.717492,Saitama Stadium 2002
-398,Japan,MEIJI YASUDA J1,V-Varen Nagasaki,32.838611,130.039444,Transcosmos Stadium Nagasaki
-396,Japan,MEIJI YASUDA J1,Vegalta Sendai,38.319167,140.881944,Yurtec Stadium Sendai
-397,Japan,MEIJI YASUDA J1,Vissel Kobe,34.656708,135.168964,NOEVIR Stadium Kobe
-399,Japan,MEIJI YASUDA J1,Yokohama F. Marinos,35.510044,139.606247,Nissan Stadium
-400,Korea,K-LEAGUE 1,Daegu FC,35.829739,128.690205,Daegu Stadium
-401,Korea,K-LEAGUE 1,FC Seoul,37.568222,126.897361,Seul Stadium
-402,Korea,K-LEAGUE 1,Gangwon FC,37.77366,128.897503,Gangneung Stadium
-403,Korea,K-LEAGUE 1,Gyeongnam FC,35.23402,128.664753,Changwon Civic Stadium
-404,Korea,K-LEAGUE 1,Incheon United FC,37.466131,126.643035,Sungui Arena Park
-405,Korea,K-LEAGUE 1,Jeju United FC,33.246212,126.509361,Jeju World Cup Stadium
-406,Korea,K-LEAGUE 1,Jeonbuk Hyundai Motors,35.868071,127.06448,Jeonju World Cup Stadium
-407,Korea,K-LEAGUE 1,Jeonnam Dragons,34.93312,127.727478,Dragon Dungeon Stadium
-408,Korea,K-LEAGUE 1,Pohang Steelers,35.997745,129.384412,Steel Yard Stadium
-409,Korea,K-LEAGUE 1,Sangju Sangmu FC,36.432367,128.161655,Sangju Civic Stadium
-410,Korea,K-LEAGUE 1,Suwon Samsung Bluewings,37.286421,127.036855,Suwon World Cup Stadium
-411,Korea,K-LEAGUE 1,Ulsan Hyundai FC,35.535328,129.259512,Munsu Ulsan Stadium
-412,Mexico,LIGA BANCOMER MX,Club América,19.302778,-99.150556,Estadio Azteca
-413,Mexico,LIGA BANCOMER MX,Club Atlas,20.705,-103.328139,Etadio Jalisco
-414,Mexico,LIGA BANCOMER MX,Cruz Azul,19.302778,-99.150556,Estadio Azteca
-415,Mexico,LIGA BANCOMER MX,Guadalajara,20.681667,-103.462778,Estadio Akron
-416,Mexico,LIGA BANCOMER MX,Club León,21.115544,-101.657744,Estadio Nou Camp
-417,Mexico,LIGA BANCOMER MX,Lobos BUAP,18.997222,-98.1975,Olímpico de la B.U.A.P.
-418,Mexico,LIGA BANCOMER MX,Monarcas Morelia,19.718742,-101.233622,Estadio Morelos
-419,Mexico,LIGA BANCOMER MX,Monterrey,25.670172,-100.2437,Estadio BBVA
-420,Mexico,LIGA BANCOMER MX,Club Necaxa,21.880653,-102.275483,Estadio Victoria
-421,Mexico,LIGA BANCOMER MX,Pachuca,20.105144,-98.756114,Estadio Hidalgo
-422,Mexico,LIGA BANCOMER MX,Puebla FC,19.078056,-98.164444,Estadio Cuauhtémoc
-423,Mexico,LIGA BANCOMER MX,Querétaro,20.577642,-100.366539,Estadio Corregidora
-424,Mexico,LIGA BANCOMER MX,Santos Laguna,25.629145,-103.379417,Estadio Corona
-425,Mexico,LIGA BANCOMER MX,Tigres U.A.N.L.,25.722806,-100.312056,Estadio Universitario
-426,Mexico,LIGA BANCOMER MX,Club Tijuana,32.506067,-116.993092,Estadio Caliente
-427,Mexico,LIGA BANCOMER MX,Deportivo Toluca,19.287286,-99.666794,Estadio Nemesio Diez
-428,Mexico,LIGA BANCOMER MX,U.N.A.M.,19.331928,-99.192106,Estadio Olímpico Universitario
-429,Mexico,LIGA BANCOMER MX,Tiburones Rojos de Veracruz,19.164222,-96.125017,Estadio Luis Pirata Fuente
-430,Netherlands,EREDIVISIE,ADO Den Haag,52.062778,4.383056,Cars Jeans Stadion
-431,Netherlands,EREDIVISIE,Ajax,52.314167,4.941944,Johan Cruyff Arena
-432,Netherlands,EREDIVISIE,AZ Alkmaar,52.6125,4.741667,AFAS Stadion
-433,Netherlands,EREDIVISIE,De Graafschap,51.955833,6.309722,De Vijverberg
-434,Netherlands,EREDIVISIE,Excelsior Rotterdam,51.916944,4.520556,Stadion Woudestein
-435,Netherlands,EREDIVISIE,FC Emmen,52.774722,6.945556,De Oude Meerdijk
-436,Netherlands,EREDIVISIE,FC Groningen,53.206111,6.591389,Euroborg
-437,Netherlands,EREDIVISIE,FC Utrecht,52.078333,5.145833,Stadion Galgenwaard
-438,Netherlands,EREDIVISIE,Feyenoord,51.893894,4.523253,Stadion Feijenoord
-439,Netherlands,EREDIVISIE,Fortuna Sittard,50.991944,5.843611,Fortuna Sittard Stadion
-440,Netherlands,EREDIVISIE,Heracles Almelo,52.338611,6.649722,Polman Stadion
-441,Netherlands,EREDIVISIE,NAC Breda,51.595556,4.750278,Rat Verlegh Stadion
-442,Netherlands,EREDIVISIE,PEC Zwolle,52.517292,6.121911,MACPARK Stadion
-443,Netherlands,EREDIVISIE,PSV,51.4417,5.4674,Philips Stadion
-444,Netherlands,EREDIVISIE,SC Heerenveen,52.958611,5.936111,Abe Lenstra Stadion
-445,Netherlands,EREDIVISIE,Vitesse,51.9625,5.893056,Gelredome
-446,Netherlands,EREDIVISIE,VVV-Venlo,51.351944,6.179722,Seacon Stadion
-447,Netherlands,EREDIVISIE,Willem II,51.542778,5.066944,Willem II Stadion
-448,Norway,ELITESERIEN,FK Bodø/Glimt,67.276639,14.384333,Aspmyra stadium
-449,Norway,ELITESERIEN,FK Haugesund,59.413068,5.279379,Haugesund stadion
-450,Norway,ELITESERIEN,IK Start,58.153611,8.028611,Sparebanken Sør Arena
-451,Norway,ELITESERIEN,Kristiansund BK,63.124722,7.718056,Kristiansund stadion
-452,Norway,ELITESERIEN,Lillestrøm SK,59.962752,11.063458,Åråsen Stadion
-453,Norway,ELITESERIEN,Molde FK,62.733889,7.148611,Aker Stadion
-454,Norway,ELITESERIEN,Odds BK,59.211111,9.589722,Skagerak Arena
-455,Norway,ELITESERIEN,Ranheim Fotball,58.954,5.693,DNB Arena
-456,Norway,ELITESERIEN,Rosenborg BK,63.4125,10.405,Lerkendal Stadion
-457,Norway,ELITESERIEN,Sandefjord Fotball,59.13725,10.17969,Komplett.no Arena
-458,Norway,ELITESERIEN,Sarpsborg 08 FF,59.286217,11.097608,Sarpsborg Stadion
-459,Norway,ELITESERIEN,SK Brann,60.366389,5.356944,Brann Stadion
-460,Norway,ELITESERIEN,Stabæk Fotball,59.921111,10.581111,Nadderud Stadion
-461,Norway,ELITESERIEN,Strømsgodset IF,59.734392,10.201333,Marienlyst Stadion
-462,Norway,ELITESERIEN,Tromsø IL,69.648954,18.934582,Alfheim Stadion
-463,Norway,ELITESERIEN,Vålerenga Fotball,59.9183,10.8094,Intility Arena
-464,Poland,EKSTRAKLASA,Arka Gdynia,54.493136,18.531214,Stadion GOSiR
-465,Poland,EKSTRAKLASA,Cracovia,50.058056,19.919722,Józef Pilsudski Stadion
-466,Poland,EKSTRAKLASA,Górnik Zabrze,50.296317,18.768564,Ernest Pohl Stadion
-467,Poland,EKSTRAKLASA,Jagiellonia Białystok,53.105556,23.148889,Bialystok Civil Stadion 
-468,Poland,EKSTRAKLASA,Korona Kielce,50.861389,20.624722,Kielce Civil Stadion
-469,Poland,EKSTRAKLASA,Lech Poznań,52.397222,16.858056,Poznan Civil Stadion
-470,Poland,EKSTRAKLASA,Lechia Gdańsk,54.39,18.640278,PGE Arena Gdansk
-471,Poland,EKSTRAKLASA,Legia Warszawa,52.220461,21.040628,Józef Piłsudski Stadion
-472,Poland,EKSTRAKLASA,Miedź Legnica,51.203667,16.169889,Stadion Orła Białego
-473,Poland,EKSTRAKLASA,Piast Gliwice,50.306583,18.695866,Gilwice Stadion
-474,Poland,EKSTRAKLASA,Pogoń Szczecin,53.436576,14.518658,Florian Krygier Stadion
-475,Poland,EKSTRAKLASA,Śląsk Wrocław,51.141797,16.944094,Wroclaw Stadion
-476,Poland,EKSTRAKLASA,Wisła Kraków,50.063611,19.911944,Henryk Reyman Stadion
-477,Poland,EKSTRAKLASA,Wisła Płock,52.562004,19.684067,Kazimierz Górski Stadion
-478,Poland,EKSTRAKLASA,Zagłębie Sosnowiec,50.277222,19.103611,Stadion Ludowy
-479,Poland,EKSTRAKLASA,Zagłębie Lubin,51.413333,16.1975,Stadion Zagłębia Lubin
-480,Portugal,LIGA NOS,Os Belenenses,38.702778,-9.207778,Restelo Stadium
-481,Portugal,LIGA NOS,Boavista FC,41.162222,-8.642778,Estádio do Bessa XXI
-482,Portugal,LIGA NOS,CD Feirense,40.926689,-8.545814,Estádio Marcolino de Castro
-486,Portugal,LIGA NOS,CD Nacional,32.670625,-16.883525,Estádio da Madeira
-483,Portugal,LIGA NOS,CD Tondela,40.512041,-8.082825,Estádio João Cardoso
-484,Portugal,LIGA NOS,CD Aves,41.378077,-8.35476,Estádio do Clube Desportivo das Aves
-485,Portugal,LIGA NOS,FC Porto,41.161758,-8.583933,Estadio do Dragão
-487,Portugal,LIGA NOS,GD Chaves,41.75064,-7.464985,Estadio Municipal do Chaves
-488,Portugal,LIGA NOS,Clube Sport Marítimo,32.645561,-16.928331,Estádio do Marítimo
-489,Portugal,LIGA NOS,Moreirense FC,41.378089,-8.354761,Estadio Comendador Joaquim de Almeida Freitas
-490,Portugal,LIGA NOS,Portimonense SC,37.135694,-8.539833,Estadio Municipal de Portimão
-491,Portugal,LIGA NOS,Rio Ave FC,41.362756,-8.740186,Estádio do Rio Ave FC
-492,Portugal,LIGA NOS,Santa Clara,37.763708,-25.622589,Estadio de São Miguel
-493,Portugal,LIGA NOS,SC Braga,41.5624,-8.4308,Estádio Municipal de Braga
-494,Portugal,LIGA NOS,SL Benfica,38.752678,-9.184681,Estádio da Luz
-495,Portugal,LIGA NOS,Sporting CP,38.761194,-9.160783,Estadio José Alvalade
-496,Portugal,LIGA NOS,Vitória Guimarães,41.445833,-8.301111,Dom Afonso Henriques
-497,Portugal,LIGA NOS,Vitória de Setúbal,38.531389,-8.891111,Estadio do Bonfim
-498,Greece,Superleague Greece,AEK Athens,38.0369,23.7414,Agia Sofia Stadium
-499,Russia,Russian Liga Premier,PFC CSKA Moscow,55.791389,37.516111,Arena CSKA
-500,Croatia,MAXtv Prva Liga,Dinamo Zagreb,45.818858,16.018078,Maksimir Stadion
-501,Ukraine,Ukrainian Premier League,Dynamo Kyiv,50.433333,30.521667,Olímpico de Kiev
-502,Finland,Veikkausliiga,HJK Helsinki,60.1875,24.9225,Telia 5G -areena
-503,South Africa,Premier Soccer League,Kaizer Chiefs,-26.234806,27.982378,FNB Stadium
-504,Russia,Russian Liga Premier,Lokomotiv Moscow,55.80355,37.741169,RZD Arena
-505,Greece,Superleague Greece,Olympiacos CFP,37.946169,23.664536,Georgios Karaiskakis Stadium
-506,South Africa,Premier Soccer League,Orlando Pirates,-26.231894,27.922892,Orlando Stadium
-507,Greece,Superleague Greece,Panathinaikos FC,38.036111,23.7875,Olimpic Stadium of Athens
-508,Greece,Superleague Greece,PAOK,40.613839,22.972422,Toumba Stadium
-509,Ukraine,Ukrainian Premier League,Shakhtar Donetsk,49.980858,36.261703,Oblasny SportKomplex Metalist
-510,Czech Republic,Fortuna League,SK Slavia Praha,50.066944,14.471389,Stadion Eden
-511,Czech Republic,Fortuna League,Sparta Praha,50.099716,14.416122,Generali Arena
-512,Russia,Russian Liga Premier,Spartak Moscow,55.8175,37.435556,Otkrytie Arena
-513,Czech Republic,Others,Viktoria Plzeň,49.75,13.385556,Doosan Arena
-514,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ahli,22.094444,39.125833,King Abdullah Sports City
-515,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Batin,28.448611,46.075,Al-Batin Club Stadium
-516,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Faisaly,26.3789,43.9478,King Salman Sport City Stadium
-517,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fateh,25.305833,49.612778,Prince Abdullah bin Jalawi Stadium
-518,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fayha,26.3789,43.9478,King Salman Sport City Stadium
-519,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hazem,25.860278,43.502222,Al Hazm Stadium
-520,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hilal,24.788206,46.839236,King Fahd Stadium
-521,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ittihad,22.094444,39.125833,King Abdullah Sports City
-522,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Nassr,24.788206,46.839236,King Fahd Stadium
-523,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Qadisiyah,26.3699,50.2052,Prince Salud bin Jalawi Stadium
-524,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Raed,22.094444,39.125833,King Abdullah Sports City
-525,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Shabab,24.788206,46.839236,King Fahd Stadium
-527,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Taawoun,26.3789,43.9478,King Salman Sport City Stadium
-526,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Wehda,21.4855,39.9737,King Abdul Aziz Stadium
-528,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Ettifaq FC,26.4272,50.1141,Prince Mohamed bin Fahd Stadium
-529,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Ohod Club,21.4855,39.9737,King Abdul Aziz Stadium
-530,Scotland,SCOTTISH PREMIERSHIP,Aberdeen,57.159167,-2.088889,Pittodrie Stadium
-531,Scotland,SCOTTISH PREMIERSHIP,Celtic,55.849711,-4.205589,Celtic Park
-532,Scotland,SCOTTISH PREMIERSHIP,Dundee FC,56.475264,-2.973194,Dens Park
-533,Scotland,SCOTTISH PREMIERSHIP,Hamilton Academical FC,55.782156,-4.058503,New Douglas Park
-534,Scotland,SCOTTISH PREMIERSHIP,Heart of Midlothian,55.939167,-3.232222,Tynecastle Stadium
-535,Scotland,SCOTTISH PREMIERSHIP,Hibernian,55.961667,-3.165556,Easter Road
-536,Scotland,SCOTTISH PREMIERSHIP,Kilmarnock,55.604225,-4.508122,Rugby Park
-537,Scotland,SCOTTISH PREMIERSHIP,Livingston FC,55.886167,-3.522872,Almondvale Stadium
-538,Scotland,SCOTTISH PREMIERSHIP,Motherwell,55.779947,-3.980078,Fir Park
-539,Scotland,SCOTTISH PREMIERSHIP,Rangers FC,55.853206,-4.309258,Ibrox Stadium
-540,Scotland,SCOTTISH PREMIERSHIP,St. Johnstone FC,56.409686,-3.476928,McDiarmid Park
-541,Scotland,SCOTTISH PREMIERSHIP,St. Mirren,55.850556,-4.443889,St. Mirren Park
-562,Spain,LALIGA 1 | 2 | 3,AD Alcorcón,40.338889,-3.840556,Santo Domingo
-563,Spain,LALIGA 1 | 2 | 3,Albacete BP,38.981117,-1.852142,Carlos Belmonte
-542,Spain,LALIGA SANTANDER,Athletic Club de Bilbao,43.264284,-2.950366,San Mamés
-543,Spain,LALIGA SANTANDER,Atlético Madrid,40.401719,-3.720606,Vicente Calderón
-564,Spain,LALIGA 1 | 2 | 3,CA Osasuna,42.796667,-1.636944,El Sadar
-565,Spain,LALIGA 1 | 2 | 3,Cádiz CF,36.502778,-6.273056,Ramón de Carranza
-569,Spain,LALIGA 1 | 2 | 3,CF Rayo Majadahonda,40.4575,-3.86028,Cerro del Espino
-570,Spain,LALIGA 1 | 2 | 3,CF Reus Deportiu,41.16,1.09,Camp Nou Municipal
-544,Spain,LALIGA SANTANDER,CD Leganés,40.3404,-3.7607,Municipal de Butarque
-566,Spain,LALIGA 1 | 2 | 3,CD Lugo,43.003333,-7.570833,Anxo Carro
-567,Spain,LALIGA 1 | 2 | 3,CD Numancia,41.754444,-2.467778,Nuevo Los Pajaritos
-568,Spain,LALIGA 1 | 2 | 3,CD Tenerife,28.463056,-16.260556,Heliodoro Rodríguez López
-571,Spain,LALIGA 1 | 2 | 3,Córdoba CF,37.872294,-4.764642,Nuevo Arcángel
-545,Spain,LALIGA SANTANDER,Deportivo Alavés,42.837111,-2.688044,Mendizorroza
-572,Spain,LALIGA 1 | 2 | 3,Elche CF,38.266944,-0.663333,Martínez Valero
-573,Spain,LALIGA 1 | 2 | 3,Extremadura UD,38.684411,-6.414606,Estadio Francisco de la Hera
-546,Spain,LALIGA SANTANDER,FC Barcelona,41.38087,2.122802,Camp Nou
-547,Spain,LALIGA SANTANDER,Getafe CF,40.325556,-3.714722,Coliseum Alfonso Pérez
-548,Spain,LALIGA SANTANDER,Girona FC,41.961389,2.828611,Municipal de Montilivi
-574,Spain,LALIGA 1 | 2 | 3,Granada CF,37.152967,-3.595736,Nuevo Los Cármenes
-549,Spain,LALIGA SANTANDER,Levante UD,39.494722,-0.364167,Ciutat de València
-575,Spain,LALIGA 1 | 2 | 3,Málaga CF,36.734092,-4.426422,La Rosaleda
-576,Spain,LALIGA 1 | 2 | 3,Nàstic,41.126944,1.272778,Nou Estadi de Tarragona
-551,Spain,LALIGA SANTANDER,Rayo Vallecano,40.391944,-3.658961,Campo de Vallecas
-552,Spain,LALIGA SANTANDER,RC Celta,42.211842,-8.739711,Balaídos
-580,Spain,LALIGA 1 | 2 | 3,Deportivo de La Coruña,43.368714,-8.417516,Riazor
-554,Spain,LALIGA SANTANDER,Real Betis,37.356389,-5.981389,Benito Villamarín
-581,Spain,LALIGA 1 | 2 | 3,RCD Mallorca,39.59,2.63,Iberostar Stadium
-555,Spain,LALIGA SANTANDER,Real Madrid,40.45306,-3.68835,Santiago Bernabéu
-577,Spain,LALIGA 1 | 2 | 3,Real Oviedo,43.360783,-5.870222,Carlos Tartiere
-556,Spain,LALIGA SANTANDER,Real Sociedad,43.301378,-1.973617,Anoeta
-578,Spain,LALIGA 1 | 2 | 3,Real Sporting de Gijón,43.536111,-5.637222,Estadio El Molinón
-550,Spain,LALIGA SANTANDER,Real Valladolid CF,41.644444,-4.761111,Nuevo José Zorrilla
-579,Spain,LALIGA 1 | 2 | 3,Real Zaragoza,41.636592,-0.901822,La Romareda
-553,Spain,LALIGA SANTANDER,RCD Espanyol,41.347861,2.075667,Cornellà-El Prat
-559,Spain,LALIGA SANTANDER,Sevilla FC,37.384,-5.9705,Ramón Sánchez Pizjuán
-557,Spain,LALIGA SANTANDER,SD Eibar,43.181706,-2.475803,Ipurua
-558,Spain,LALIGA SANTANDER,SD Huesca,42.131944,-0.424444,El Alcoraz
-582,Spain,LALIGA 1 | 2 | 3,UD Almería,36.84,-2.435278,Estadio del Mediterráneo
-583,Spain,LALIGA 1 | 2 | 3,UD Las Palmas,28.1,-15.456667,Estadio de Gran Canaria
-560,Spain,LALIGA SANTANDER,Valencia CF,39.474656,-0.358361,Mestalla
-561,Spain,LALIGA SANTANDER,Villarreal CF,39.944167,-0.103611,El Madrigal
-584,Sweden,ALLSVENSKAN,AIK,59.3725,18,Friends Arena
-585,Sweden,ALLSVENSKAN,BK Häcken,57.719167,11.930556,Rambergsvallen
-586,Sweden,ALLSVENSKAN,IF Brommapojkarna,59.362222,17.851667,Grimsta IP Stadion
-587,Sweden,ALLSVENSKAN,Dalkurd FF,60.495,15.434167,Domnarvsvallen
-588,Sweden,ALLSVENSKAN,Djurgårdens IF,59.291389,18.085278,Tele2 Arena
-589,Sweden,ALLSVENSKAN,GIF Sundsvall,58.584167,16.173056,Idrottsparken
-590,Sweden,ALLSVENSKAN,Hammarby IF,59.291389,18.085278,Tele2 Arena
-591,Sweden,ALLSVENSKAN,IF Elfsborg,57.73457,12.934334,Borås Arena
-592,Sweden,ALLSVENSKAN,IFK Göteborg,57.706111,11.980556,Gamla Ullevi
-593,Sweden,ALLSVENSKAN,IFK Norrköping,58.584167,16.173056,Östgötaporten
-594,Sweden,ALLSVENSKAN,IK Sirius,59.84958,17.64532,Studenternas IP
-595,Sweden,ALLSVENSKAN,Kalmar FF,56.69123,16.31493,Guldfågeln Arena
-596,Sweden,ALLSVENSKAN,Malmö FF,55.583611,12.987778,Swedbank Stadion
-597,Sweden,ALLSVENSKAN,Örebro SK,59.266111,15.223056,Behrn Arena
-598,Sweden,ALLSVENSKAN,Östersunds FK,63.194722,14.655833,Jämtkraft Arena
-599,Sweden,ALLSVENSKAN,Trelleborgs FF,59.9183,10.8094,Vångavallen
-600,Switzerland,RAIFFEISEN SUPER LEAGUE,BSC Young Boys,46.962778,7.465,Stade de Suisse
-601,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Basel 1893,47.541389,7.62,St. Jakob Park
-602,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Lugano,46.023611,8.961667,Stadio Comunale di Cornaredo
-603,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Luzern,47.033264,8.305187,Swisspor Arena
-604,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Sion,46.233333,7.376389,Stade de Tourbillon
-605,Switzerland,RAIFFEISEN SUPER LEAGUE,FC St. Gallen,47.408333,9.306389,Kybunpark
-606,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Thun,46.744817,7.606075,Stockhorn Arena
-607,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Zürich,47.382791,8.503801,Letzigrund
-608,Switzerland,RAIFFEISEN SUPER LEAGUE,Grasshopper Club Zürich,47.382791,8.503801,Letzigrund
-609,Switzerland,RAIFFEISEN SUPER LEAGUE,Neuchâtel Xamax,46.9952,6.944,Stade de la Maladière
-610,Turkey,SÜPER LIG,Akhisar Belediyespor,38.921111,27.814722,Akhisar Arena
-611,Turkey,SÜPER LIG,Alanyaspor,36.56261,32.07916,Bahçeşehir Okulları Stadium
-612,Turkey,SÜPER LIG,Antalyaspor,36.888608,30.668772,Antalya Arena
-614,Turkey,SÜPER LIG,BB Erzurumspor,39.911197,41.238114,Stadyumu Kâzım Karabekir 
-615,Turkey,SÜPER LIG,Beşiktaş JK,41.0392,28.9947,Vodafone Park
-616,Turkey,SÜPER LIG,Bursaspor,40.210778,29.009333,Timsah Arena
-617,Turkey,SÜPER LIG,Çaykur Rizespor,41.023056,40.532944,Atatürk Rize Stadyumu
-618,Turkey,SÜPER LIG,Fenerbahçe SK,40.987778,29.036667,Saracoğlu Stadyumu
-619,Turkey,SÜPER LIG,Galatasaray SK,41.102861,28.990417,Türk Telekom Arena
-620,Turkey,SÜPER LIG,Göztepe SK,38.446944,27.262222,Doğanlar Stadyumu
-621,Turkey,SÜPER LIG,Kasimpaşa SK,41.032806,28.972322,Recep Tayyip Erdoğan Stadyumu
-622,Turkey,SÜPER LIG,Kayserispor,38.737289,35.423133,Kadir Has Stadyumu
-623,Turkey,SÜPER LIG,Atiker Konyaspor,37.946328,32.485694,Konya Arena
-613,Turkey,SÜPER LIG,Medipol Başakşehir FK,41.1229,28.8086,Başakşehir Arena
-624,Turkey,SÜPER LIG,MKE Ankaragücü,39.980139,32.613861,Ankara Eryaman Stadyumu
-625,Turkey,SÜPER LIG,Sivasspor,39.728333,36.983889,Sivas Arena
-626,Turkey,SÜPER LIG,Trabzonspor,40.996361,39.64855,Şenol Güneş Stadium
-627,Turkey,SÜPER LIG,Yeni Malatyaspor,38.337222,38.445833,Malatya Arena
-628,USA,MLS,Atlanta United,33.755278,-84.400833,Mercedes-Benz Stadium
-629,USA,MLS,Chicago Fire,41.8625,-87.616667,Soldier Field
-630,USA,MLS,Colorado Rapids,39.805556,-104.891944,DSG Park
-631,USA,MLS,Columbus Crew SC,40.009444,-82.991111,Mapfre Stadium
-632,USA,MLS,DC United,38.868611,-76.998889,Audi Field
-633,USA,MLS,FC Dallas,33.154458,-96.835158,Toyota Stadium
-634,USA,MLS,Houston Dynamo,29.7522,-95.3524,BBVA Stadium
-637,USA,MLS,LA Galaxy,33.864444,-118.261111,Dignity Health Sports Park
-636,USA,MLS,Los Angeles FC,34.013,-118.285,Banc of California Stadium
-638,USA,MLS,Minnesota United FC,44.9528,-93.1651,Allianz Field
-635,USA,MLS,Montreal Impact,45.563056,-73.5525,Saputo Stadium
-639,USA,MLS,New England Revolution,42.090944,-71.264344,Gillette Stadium
-640,USA,MLS,New York City FC,40.829569,-73.926392,Yankee Stadium
-641,USA,MLS,New York Red Bulls,40.736667,-74.150278,Red Bull Arena
-642,USA,MLS,Orlando City SC,28.541065,-81.389035,Exploria Stadium
-643,USA,MLS,Philadelphia Union,39.832222,-75.378889,PPL Park
-644,USA,MLS,Portland Timbers,45.521389,-122.691667,Providence Park
-645,USA,MLS,Real Salt Lake,40.5829,-111.893,Rio Tinto Stadium
-646,USA,MLS,Seattle Sounders FC,47.595278,-122.331667,CenturyLink Field
-647,USA,MLS,San Jose Earthquakes,37.351389,-121.925,Avaya Stadium
-648,USA,MLS,Sporting Kansas City,39.1218,-94.8237,Children's Mercy Park
-649,USA,MLS,Toronto FC,43.632778,-79.418611,BMO Field
-650,USA,MLS,Vancouver Whitecaps FC,49.276667,-123.111944,BC Place
+﻿Index,Continent,Nationality,Div,Team,Latitude,Longitude,Stadium
+0,America,Argentina,SAF,Club Atlético Aldosivi,-38.017944,-57.582333,José María Minella
+1,America,Argentina,SAF,Argentinos Juniors,-34.606028,-58.472583,Autocrédito Diego Armando Maradona
+2,America,Argentina,SAF,San Martin de Tucumán,-26.836281,-65.229606,La Ciudadela
+3,America,Argentina,SAF,Club Atlético Banfield,-34.750847,-58.387544,Florencio Sola
+4,America,Argentina,SAF,Belgrano de Córdoba,-31.4035,-64.206272,"Estadio Julio César Villagra ""El Gigante de Alberdi"""
+5,America,Argentina,SAF,Boca Juniors,-34.635556,-58.364722,"Alberto J. Armando ""La Bombonera"""
+6,America,Argentina,SAF,Club Atlético Colón,-31.662595,-60.725431,"Brigadier General Estanislao López ""El Cementerio de los Elefantes"""
+7,America,Argentina,SAF,Defensa y Justicia,-34.821753,-58.286511,"Norberto ""Tito"" Tomaghello"
+8,America,Argentina,SAF,Estudiantes de La Plata,-34.911925,-57.938794,Estadio Jorge Luis Hirschi
+9,America,Argentina,SAF,Gimnasia y Esgrima La Plata,-34.910975,-57.932592,Juan Carmelo Zerillo
+10,America,Argentina,SAF,Godoy Cruz,-32.920278,-68.839444,Feliciano Gambarte
+11,America,Argentina,SAF,Club Atlético Huracán,-34.643494,-58.396511,Tomás Adolfo Ducó
+12,America,Argentina,SAF,Independiente,-34.670267,-58.370969,Libertadores de América
+13,America,Argentina,SAF,Club Atlético Lanús,-34.717667,-58.383806,Estadio Ciudad de Lanús-Néstor Díaz Pérez
+14,America,Argentina,SAF,Newells Old Boys,-32.956056,-60.661444,Marcelo Bielsa
+15,America,Argentina,SAF,Patronato,-31.743031,-60.507597,Estadio Presbítero Bartolomé Grella
+16,America,Argentina,SAF,Racing Club,-34.666603,-58.368556,Estadio Presidente Perón
+17,America,Argentina,SAF,River Plate,-34.545278,-58.449444,"Antonio Vespucio Liberti ""El Monumental"""
+18,America,Argentina,SAF,Rosario Central,-32.913997,-60.674567,Gigante de Arroyito
+19,America,Argentina,SAF,San Lorenzo de Almagro,-34.652064,-58.440119,Estadio Pedro Bidegain
+20,America,Argentina,SAF,San Martín de San Juan,-31.519847,-68.530289,Estadio Ingeniero Hilario Sánchez
+21,America,Argentina,SAF,SM Tucumán,-26.836281,-65.229606,La Ciudadela
+22,America,Argentina,SAF,Club Atlético Talleres,-31.449167,-64.175278,Boutique de Barrio Jardín
+23,America,Argentina,SAF,Club Atlético Tigre,-34.449333,-58.542219,Estadio José Dellagiovanna
+24,America,Argentina,SAF,Unión de Santa Fe,-31.631853,-60.715867,Estadio 15 de Abril
+25,America,Argentina,SAF,Vélez Sarsfield,-34.635375,-58.520711,José Amalfitani
+26,Oceania,Australia,HYUNDAI A-LEAGUE,Adelaide United,-34.9075,138.568889,Hindmarsh Stadium
+27,Oceania,Australia,HYUNDAI A-LEAGUE,Brisbane Roar,-27.464722,153.009444,Lang Park
+28,Oceania,Australia,HYUNDAI A-LEAGUE,Central Coast Mariners,-33.428333,151.338056,Central Coast Stadium
+30,Oceania,Australia,HYUNDAI A-LEAGUE,Melbourne City FC,-37.825278,144.983889,Melbourne Rectangular Stadium
+29,Oceania,Australia,HYUNDAI A-LEAGUE,Melbourne Victory,-37.825278,144.983889,Melbourne Rectangular Stadium
+31,Oceania,Australia,HYUNDAI A-LEAGUE,Newcastle Jets,-32.918889,151.726667,McDonald Jones Stadium
+32,Oceania,Australia,HYUNDAI A-LEAGUE,Perth Glory,-31.945955,115.870131,NIB Stadium
+33,Oceania,Australia,HYUNDAI A-LEAGUE,Sydney FC,-33.889167,151.225278,Allianz Stadium
+35,Oceania,Australia,HYUNDAI A-LEAGUE,Western Sydney Wanderers,-33.843056,151.067778,Sydney Showground Stadium
+34,Oceania,Australia,HYUNDAI A-LEAGUE,Wellington Phoenix,-41.273056,174.785833,Westpac Stadium
+36,Europe,Austria,Ö. BUNDESLIGA,FC Admira Wacker Mödling,48.0976,16.3109,BSFZ-Arena
+37,Europe,Austria,Ö. BUNDESLIGA,FK Austria Wien,48.162306,16.386694,Generali Arena
+38,Europe,Austria,Ö. BUNDESLIGA,FC Wacker Innsbruck,47.255972,11.410789,Tivoli Neu
+39,Europe,Austria,Ö. BUNDESLIGA,LASK Linz,48.235556,14.226667,Waldstadion
+40,Europe,Austria,Ö. BUNDESLIGA,FC Red Bull Salzburg,47.81625,12.998222,Red Bull Arena
+41,Europe,Austria,Ö. BUNDESLIGA,SCR Altach,47.3536,9.6372,Cashpoint Arena
+42,Europe,Austria,Ö. BUNDESLIGA,SK Rapid Wien,48.1981,16.2653,Allianz Stadion
+43,Europe,Austria,Ö. BUNDESLIGA,SK Sturm Graz,47.046111,15.454444,Stadion Graz-Liebenau
+44,Europe,Austria,Ö. BUNDESLIGA,SKN St. Pölten,48.2209,15.6531,NV Arena
+45,Europe,Austria,Ö. BUNDESLIGA,SV Mattersburg,47.7394,16.4064,Pappelstadion
+46,Europe,Austria,Ö. BUNDESLIGA,TSV Hartberg,47.281,15.9772,Stadion Hartberg
+47,Europe,Austria,Ö. BUNDESLIGA,Wolfsberger AC,46.8253,14.8514,Lavanttal-Arena
+48,Europe,Belgium,PRO LEAGUE,KSV Cercle Brugge,51.193269,3.181311,Jan Breydel Stadium
+49,Europe,Belgium,PRO LEAGUE,Club Brugge KV,51.193269,3.181311,Jan Breydel Stadium
+50,Europe,Belgium,PRO LEAGUE,Royal Excel Mouscron,50.733953,3.211082,Stade Le Canonnier
+51,Europe,Belgium,PRO LEAGUE,KAA Gent,51.016111,3.734167,Ghelamco Arena
+52,Europe,Belgium,PRO LEAGUE,KAS Eupen,50.626389,6.045833,Kehrweg Stadion
+53,Europe,Belgium,PRO LEAGUE,KRC Genk,51.005,5.533333,Luminus Arena
+54,Europe,Belgium,PRO LEAGUE,KV Kortrijk,50.830278,3.248889,Guldensporen Stadion
+55,Europe,Belgium,PRO LEAGUE,KV Oostende,51.216667,2.886389,Albertparkstadion
+56,Europe,Belgium,PRO LEAGUE,Royal Antwerp FC,51.232222,4.471667,Bosuilstadion
+57,Europe,Belgium,PRO LEAGUE,RSC Anderlecht,50.834167,4.298333,Constant Vanden Stock
+58,Europe,Belgium,PRO LEAGUE,Sint-Truidense VV,50.813611,5.165278,Stayen Stadion
+59,Europe,Belgium,PRO LEAGUE,Sporting de Charleroi,50.414609,4.453787,Stade du Pays de Charleroi
+60,Europe,Belgium,PRO LEAGUE,Sporting Lokeren,51.116389,3.987222,Daknamstadion
+61,Europe,Belgium,PRO LEAGUE,Standard de Liège,50.609908,5.543344,Maurice Dufrasne
+62,Europe,Belgium,PRO LEAGUE,Waasland-Beveren,51.214139,4.243931,Freethiel Stadion
+63,Europe,Belgium,PRO LEAGUE,SV Zulte-Waregem,50.883056,3.428889,Regenboogstadion
+64,America,Brazil,LIGA DO BRASIL,América FC (Minas Gerais),-19.908333,-43.917778,Estadio Raimundo Sampaio
+66,America,Brazil,LIGA DO BRASIL,Atlético Mineiro,-19.908333,-43.917778,Estadio Raimundo Sampaio
+65,America,Brazil,LIGA DO BRASIL,Atlético Paranaense,-25.448333,-49.276944,Arena da Baixada
+67,America,Brazil,LIGA DO BRASIL,Esporte Club Bahia,-12.978819,-38.504253,Arena Fonte Nova
+68,America,Brazil,LIGA DO BRASIL,Botafogo,-22.893172,-43.292269,Estadio Nilton Santos
+69,America,Brazil,LIGA DO BRASIL,Ceará Sporting Club,-3.807267,-38.522481,Estadio Castelão
+70,America,Brazil,LIGA DO BRASIL,Chapecoense,-27.1041,-52.607,Arena Condá
+71,America,Brazil,LIGA DO BRASIL,Cruzeiro,-19.865833,-43.970833,Mineirão
+72,America,Brazil,LIGA DO BRASIL,Fluminense,-22.912167,-43.230164,Maracaná
+73,America,Brazil,LIGA DO BRASIL,Grêmio,-29.973444,-51.194403,Arena do Grêmio
+74,America,Brazil,LIGA DO BRASIL,Internacional,-30.065614,-51.236086,Beira-Rio
+75,America,Brazil,LIGA DO BRASIL,Paraná Clube,-25.439444,-49.255833,Estadio Durival de Britto e Silva
+76,America,Brazil,LIGA DO BRASIL,Santos Futebol Clube,-23.951111,-46.338889,Estadio Vila Belmiro
+77,America,Brazil,LIGA DO BRASIL,Sport Club do Recife,-8.062953,-34.902981,Estadio Ilha do Retiro
+78,America,Brazil,LIGA DO BRASIL,Esporte Clube Vitória,-12.919,-38.427,Barradão
+79,America,Chile,CAMP. SCOTIABANK,Audax Italiano,-33.540833,-70.578333,Bicentenario de La Florida
+80,America,Chile,CAMP. SCOTIABANK,CD Antofagasta,-23.670139,-70.404583,Regional Calvo y Bascuñán
+81,America,Chile,CAMP. SCOTIABANK,CD Huachipato,-36.755556,-73.107222,Huachipato - CAP Acero
+82,America,Chile,CAMP. SCOTIABANK,CD O'higgins,-34.177764,-70.737719,El Teniente
+83,America,Chile,CAMP. SCOTIABANK,CD Palestino,-33.520833,-70.672778,Municipal de La Cisterna
+84,America,Chile,CAMP. SCOTIABANK,Colo-Colo,-33.506611,-70.605944,Monumental
+85,America,Chile,CAMP. SCOTIABANK,Curicó Unido,-34.974356,-71.230707,La Granja
+86,America,Chile,CAMP. SCOTIABANK,Deportes Iquique,-20.235111,-70.145611,Municipal de Cavancha
+87,America,Chile,CAMP. SCOTIABANK,Club Deportes Temuco,-38.742778,-72.619722,Germán Becker
+88,America,Chile,CAMP. SCOTIABANK,CD Everton de Viña del Mar,-33.014397,-71.535233,Sausalito
+89,America,Chile,CAMP. SCOTIABANK,San Luis de Quillota,-32.8876,-71.252,Municipal Lucio Fariña Fernández
+93,America,Chile,CAMP. SCOTIABANK,Unión Española,-33.404553,-70.659017,Santa Laura
+94,America,Chile,CAMP. SCOTIABANK,Unión La Calera,-32.784167,-71.199444,Nicolás Chahuán Nazar
+90,America,Chile,CAMP. SCOTIABANK,Universidad Católica,-33.395944,-70.500656,San Carlos de Apoquindo
+91,America,Chile,CAMP. SCOTIABANK,CD Universidad de Concepción,-36.815278,-73.023333,Ester Roa Rebolledo
+92,America,Chile,CAMP. SCOTIABANK,Universidad de Chile,-33.464522,-70.610586,Estadio Nacional de Chile
+95,Asia,China,CSL,Beijing Sinobo Guoan FC,39.929528,116.441139,Workers Stadium
+96,Asia,China,CSL,Beijing Renhe FC,39.865694,116.272625,Beijing Fengtai Stadium
+97,Asia,China,CSL,Changchun Yatai FC,43.864144,125.336861,Changchun Stadium
+98,Asia,China,CSL,Chongqing Dangdai Lifan FC SWM Team,29.528723,106.502109,Chongqing Olympic Sports Center
+99,Asia,China,CSL,Dalian YiFang FC,38.906939,121.604147,Sportcenter of Dalian
+100,Asia,China,CSL,Guangzhou Evergrande Taobao FC,23.138031,113.324661,Tianhe Stadium
+101,Asia,China,CSL,Guangzhou R&F FC,23.139216,113.260739,Yuexiushan Stadium
+102,Asia,China,CSL,Guizhou Hengfeng FC,26.620721,106.605749,Guiyang Olympic Sports Center
+103,Asia,China,CSL,Hebei China Fortune FC,39.907325,119.547708,Qinhuangdao Arena
+104,Asia,China,CSL,Henan Jianye FC,34.7167,113.725,Zhengzhou Hanghai Stadium
+105,Asia,China,CSL,Jiangsu Suning FC,32.010642,118.7197,Nanjing Olympic Sports Center
+106,Asia,China,CSL,Shandong Luneng TaiShan FC,36.656646,117.110052,Jinan Olympic Sports Center Stadium
+107,Asia,China,CSL,Shanghai Greenland Shenhua FC,31.2733,121.4762,Hongkou Stadium
+108,Asia,China,CSL,Shanghai SIPG FC,31.191291,121.489391,Shanghai Arena
+109,Asia,China,CSL,Tianjin Quanjian FC,39.006941,117.351801,Haihe Educational Football Stadium
+110,Asia,China,CSL,Tianjin TEDA FC,39.073444,117.169389,Tianjin Olimpic Stadium
+111,America,Colombia,LIGA DIMAYOR,Alianza Petrolera,7.23639,-73.8642,Daniel Villa Zapata
+112,America,Colombia,LIGA DIMAYOR,América de Cali,3.429889,-76.541083,Olímpico Pascual Guerrero
+113,America,Colombia,LIGA DIMAYOR,Atlético Bucaramanga,7.136589,-73.116589,Estadio Alfonso López
+115,America,Colombia,LIGA DIMAYOR,Atlético Huila,2.936698,-75.274286,Guillermo Plazas Alcid
+114,America,Colombia,LIGA DIMAYOR,Atlético Nacional,6.2568,-75.590172,Atanasio Girardot
+116,America,Colombia,LIGA DIMAYOR,Boyacá Chicó FC,5.542233,-73.353131,La Independencia
+117,America,Colombia,LIGA DIMAYOR,Deportes Tolima,4.429509,-75.218325,Manuel Murillo Toro
+118,America,Colombia,LIGA DIMAYOR,Deportivo Cali,3.521642,-76.417036,Deportivo Cali
+119,America,Colombia,LIGA DIMAYOR,Deportivo Pasto,0.828889,-77.640556,Estadio Municipal De Ipiales
+120,America,Colombia,LIGA DIMAYOR,Envigado FC,6.164108,-75.59967,Polideportivo Sur
+122,America,Colombia,LIGA DIMAYOR,Independiente Medellín,6.2568,-75.590172,Atanasio Girardot
+121,America,Colombia,LIGA DIMAYOR,Independiente Santa Fe,4.645889,-74.0775,Nemesio Camacho El Campin
+123,America,Colombia,LIGA DIMAYOR,Jaguares de Córdoba,8.711778,-75.827639,Estadio Jaraguay
+124,America,Colombia,LIGA DIMAYOR,Junior FC,10.926861,-74.800722,Metropolitano Roberto Meléndez
+125,America,Colombia,LIGA DIMAYOR,La Equidad,4.623545,-74.135611,Metropolitano de Techo
+126,America,Colombia,LIGA DIMAYOR,Itagüí Leones FC,6.169072,-75.626826,Metropolitano Ciudad de Itagüí
+127,America,Colombia,LIGA DIMAYOR,Millonarios FC,4.645889,-74.0775,Nemesio Camacho El Campin
+128,America,Colombia,LIGA DIMAYOR,Once Caldas,5.056233,-75.489807,Palogrande
+129,America,Colombia,LIGA DIMAYOR,Patriotas Boyacá FC,5.542233,-73.353131,La Independencia
+130,America,Colombia,LIGA DIMAYOR,Rionegro Águilas,6.146678,-75.372754,Estadio Alberto Grisales
+131,Europe,Denmark,SUPERLIGA,Aalborg BK,57.0515,9.8991,Nordjyske Arena
+132,Europe,Denmark,SUPERLIGA,Aarhus GF,56.131944,10.196389,Aarhus Idrætspark
+133,Europe,Denmark,SUPERLIGA,AC Horsens,55.871667,9.857222,CASA Arena Horsens
+134,Europe,Denmark,SUPERLIGA,Brøndby IF,55.648853,12.418358,Brøndby Stadium
+135,Europe,Denmark,SUPERLIGA,Esbjerg fB,55.481944,8.439444,Blue Water Arena
+136,Europe,Denmark,SUPERLIGA,FC København,55.702469,12.572203,Parken Stadion
+137,Europe,Denmark,SUPERLIGA,FC Midtjylland,56.116667,8.951667,MCH Arena
+138,Europe,Denmark,SUPERLIGA,FC Nordsjælland,55.815847,12.353289,Farum Park
+139,Europe,Denmark,SUPERLIGA,Hobro IK,56.635,9.82,DS Arena
+140,Europe,Denmark,SUPERLIGA,Odense Boldklub,55.397771,10.350055,Odense Stadion
+141,Europe,Denmark,SUPERLIGA,Randers FC,56.465833,10.010278,AutoC Park
+142,Europe,Denmark,SUPERLIGA,SønderjyskE,55.261359,9.487791,Sydbank Park
+143,Europe,Denmark,SUPERLIGA,Vejle Boldklub,55.71372,9.5562,Vejle Stadion
+144,Europe,Denmark,SUPERLIGA,Vendsyssel FF,57.457661,9.998506,Nord Energi Arena
+189,Europe,England,LEAGUE ONE DE LA EFL,Accrington Stanley,53.765356,-2.370911,Wham Stadium
+190,Europe,England,LEAGUE ONE DE LA EFL,AFC Wimbledon,51.405083,-0.281944,Cherry Red Records Stadium
+145,Europe,England,PREMIER LEAGUE,Arsenal,51.555,-0.108611,Emirates Stadium
+165,Europe,England,EFL CHAMPIONSHIP,Aston Villa,52.509167,-1.884722,Villa Park
+191,Europe,England,LEAGUE ONE DE LA EFL,Barnsley,53.552222,-1.4675,Oakwell
+166,Europe,England,EFL CHAMPIONSHIP,Birmingham City,52.475703,-1.868189,St Andrew's Stadium
+167,Europe,England,EFL CHAMPIONSHIP,Blackburn Rovers,53.728611,-2.489167,Ewood Park
+192,Europe,England,LEAGUE ONE DE LA EFL,Blackpool,53.804722,-3.048056,Bloomfield Road
+168,Europe,England,EFL CHAMPIONSHIP,Bolton Wanderers,53.580556,-2.535556,Reebok Stadium
+146,Europe,England,PREMIER LEAGUE,Bournemouth,50.735278,-1.838333,Vitality Stadium
+193,Europe,England,LEAGUE ONE DE LA EFL,Bradford City,53.804222,-1.759022,Northern Commercials Stadium
+169,Europe,England,EFL CHAMPIONSHIP,Brentford,51.488167,-0.302639,Griffin Park
+147,Europe,England,PREMIER LEAGUE,Brighton & Hove Albion,50.861822,-0.083278,American Express Community Stadium
+170,Europe,England,EFL CHAMPIONSHIP,Bristol City,51.44,-2.620278,Ashton Gate
+194,Europe,England,LEAGUE ONE DE LA EFL,Bristol Rovers,51.48622,-2.583134,Memorial Stadium
+148,Europe,England,PREMIER LEAGUE,Burnley,53.789167,-2.230278,Turf Moor
+195,Europe,England,LEAGUE ONE DE LA EFL,Burton Albion,52.821906,-1.626958,Pirelli Stadium
+213,Europe,England,LEAGUE TWO DE LA EFL,Bury,53.580506,-2.294822,Gigg Lane
+214,Europe,England,LEAGUE TWO DE LA EFL,Cambridge United,52.2121,-0.15415,Abbey Stadium
+149,Europe,England,PREMIER LEAGUE,Cardiff City,51.472778,-3.203056,Cardiff City Stadium
+215,Europe,England,LEAGUE TWO DE LA EFL,Carlisle United,54.89556,-2.91365,Brunton Park
+196,Europe,England,LEAGUE ONE DE LA EFL,Charlton Athletic,51.486389,-0.036389,The Valley
+150,Europe,England,PREMIER LEAGUE,Chelsea,51.481667,-0.191111,Stamford Bridge
+216,Europe,England,LEAGUE TWO DE LA EFL,Cheltenham Town,51.906158,-2.060211,LCI Rail Stadium
+217,Europe,England,LEAGUE TWO DE LA EFL,Colchester United,51.923394,-0.897703,Colchester Community Stadium
+197,Europe,England,LEAGUE ONE DE LA EFL,Coventry City,52.448056,-1.495556,Ricoh Arena
+218,Europe,England,LEAGUE TWO DE LA EFL,Crawley Town,51.099706,-0.194767,Checkatrade.com Stadium
+219,Europe,England,LEAGUE TWO DE LA EFL,Crewe Alexandra,53.087419,-2.435747,Gresty Road
+151,Europe,England,PREMIER LEAGUE,Crystal Palace,51.398333,-0.085556,Selhurst Park
+171,Europe,England,EFL CHAMPIONSHIP,Derby County,52.915,-1.447222,Pride Park Stadium
+198,Europe,England,LEAGUE ONE DE LA EFL,Doncaster Rovers,53.509722,-1.113889,Keepmoat Stadium
+152,Europe,England,PREMIER LEAGUE,Everton,53.438889,-2.966389,Goodison Park
+220,Europe,England,LEAGUE TWO DE LA EFL,Exeter City,50.730714,-3.52115,St James Park
+199,Europe,England,LEAGUE ONE DE LA EFL,Fleetwood Town,53.9165,-3.0247,Highbury Stadium
+221,Europe,England,LEAGUE TWO DE LA EFL,Forest Green Rovers,51.698975,-2.237892,The New Lawn
+153,Europe,England,PREMIER LEAGUE,Fulham,51.475,-0.221667,Craven Cottage
+200,Europe,England,LEAGUE ONE DE LA EFL,Gillingham,51.38425,-0.560753,Priestfield Stadium
+222,Europe,England,LEAGUE TWO DE LA EFL,Grimsby Town,53.570225,-0.046497,Blundell Park
+154,Europe,England,PREMIER LEAGUE,Huddersfield Town,53.654167,-1.768333,John Smith's Stadium
+172,Europe,England,EFL CHAMPIONSHIP,Hull City,53.746111,-0.367778,KC Stadium
+173,Europe,England,EFL CHAMPIONSHIP,Ipswich Town,52.055061,1.144831,Portman Road
+174,Europe,England,EFL CHAMPIONSHIP,Leeds United,53.777778,-1.572222,Elland Road
+155,Europe,England,PREMIER LEAGUE,Leicester City,52.620278,-1.142222,King Power Stadium
+223,Europe,England,LEAGUE TWO DE LA EFL,Lincoln City,53.218289,-0.540811,Sincil Bank
+156,Europe,England,PREMIER LEAGUE,Liverpool,53.430819,-2.960828,Anfield
+201,Europe,England,LEAGUE ONE DE LA EFL,Luton Town,51.884167,-0.431667,Kenilworth Road
+224,Europe,England,LEAGUE TWO DE LA EFL,Macclesfield Town,53.242781,-2.127136,Moss Rose
+157,Europe,England,PREMIER LEAGUE,Manchester City,53.482989,-2.200292,Etihad Stadium
+158,Europe,England,PREMIER LEAGUE,Manchester United,53.463056,-2.291389,Old Trafford
+225,Europe,England,LEAGUE TWO DE LA EFL,Mansfield Town,53.138056,-1.200556,One Call Stadium
+175,Europe,England,EFL CHAMPIONSHIP,Middlesbrough,54.578333,-1.216944,Riverside Stadium
+176,Europe,England,EFL CHAMPIONSHIP,Millwall,51.485953,-0.05095,The Den
+226,Europe,England,LEAGUE TWO DE LA EFL,Milton Keynes Dons,52.009444,-0.733333,Stadium MK
+227,Europe,England,LEAGUE TWO DE LA EFL,Morecambe,54.0615,-2.8672,Globe Arena
+159,Europe,England,PREMIER LEAGUE,Newcastle United,54.975556,-1.621667,Sports Direct Arena
+228,Europe,England,LEAGUE TWO DE LA EFL,Newport County,51.588333,-2.987778,Rodney Parade
+229,Europe,England,LEAGUE TWO DE LA EFL,Northampton Town,52.235197,-0.93345,Sixfields Stadium
+177,Europe,England,EFL CHAMPIONSHIP,Norwich City,52.622128,1.308653,Carrow Road
+178,Europe,England,EFL CHAMPIONSHIP,Nottingham Forest,52.94,-1.132778,City Ground
+230,Europe,England,LEAGUE TWO DE LA EFL,Notts County,52.9425,-1.137222,Meadow Lane
+231,Europe,England,LEAGUE TWO DE LA EFL,Oldham Athletic,53.555278,-2.128611,SportsDirect.com Park
+202,Europe,England,LEAGUE ONE DE LA EFL,Oxford United,51.716419,-1.208067,Kassam Stadium
+203,Europe,England,LEAGUE ONE DE LA EFL,Peterborough United,52.564697,-0.240406,London Road Stadium
+204,Europe,England,LEAGUE ONE DE LA EFL,Plymouth Argyle,50.388056,-4.150833,Home Park
+232,Europe,England,LEAGUE TWO DE LA EFL,Port Vale,53.049722,-2.1925,Vale Park
+205,Europe,England,LEAGUE ONE DE LA EFL,Portsmouth,50.796389,-1.063889,Fratton Park
+179,Europe,England,EFL CHAMPIONSHIP,Preston North End,53.772222,-2.688056,Deepdale
+180,Europe,England,EFL CHAMPIONSHIP,Queens Park Rangers,51.509167,-0.232222,Loftus Road
+181,Europe,England,EFL CHAMPIONSHIP,Reading,51.422222,-0.982778,Madejski Stadium
+206,Europe,England,LEAGUE ONE DE LA EFL,Rochdale,53.620833,-2.18,Crown Oil Arena
+182,Europe,England,EFL CHAMPIONSHIP,Rotherham United,53.4279,-1.362,AESSEAL New York Stadium
+207,Europe,England,LEAGUE ONE DE LA EFL,Scunthorpe United,53.585367,-0.690492,Glanford Park
+183,Europe,England,EFL CHAMPIONSHIP,Sheffield United,53.370278,-1.470833,Bramall Lane
+184,Europe,England,EFL CHAMPIONSHIP,Sheffield Wednesday,53.411389,-1.500556,Hillsborough Stadium
+208,Europe,England,LEAGUE ONE DE LA EFL,Shrewsbury,52.68863,-2.74933,Montgomery Waters Meadow
+160,Europe,England,PREMIER LEAGUE,Southampton,50.905833,-1.391111,St Mary's Stadium
+209,Europe,England,LEAGUE ONE DE LA EFL,Southend United,51.549017,-0.701558,Roots Hall
+161,Europe,England,PREMIER LEAGUE,Tottenham Hotspur,51.603333,-0.065833,White Hart Lane
+233,Europe,England,LEAGUE TWO DE LA EFL,Stevenage,51.889839,-0.193608,Lamex Stadium
+185,Europe,England,EFL CHAMPIONSHIP,Stoke City,52.988333,-2.175556,Britannia Stadium
+210,Europe,England,LEAGUE ONE DE LA EFL,Sunderland,54.9144,-1.3882,Stadium of Light
+186,Europe,England,EFL CHAMPIONSHIP,Swansea City,51.6422,-3.9351,Liberty Stadium
+234,Europe,England,LEAGUE TWO DE LA EFL,Swindon Town,51.564444,-1.770556,County Ground
+235,Europe,England,LEAGUE TWO DE LA EFL,Tranmere Rovers,53.373722,-3.0325,Prenton Park
+211,Europe,England,LEAGUE ONE DE LA EFL,Walsall,52.5655,-1.9909,Banks's Stadium
+162,Europe,England,PREMIER LEAGUE,Watford,51.649836,-0.401486,Vicarage Road
+187,Europe,England,EFL CHAMPIONSHIP,West Bromwich Albion,52.509167,-1.963889,The Hawthorns
+163,Europe,England,PREMIER LEAGUE,West Ham United,51.531944,0.039444,Boleyn Ground
+188,Europe,England,EFL CHAMPIONSHIP,Wigan Athletic,53.547778,-2.653889,DW Stadium
+164,Europe,England,PREMIER LEAGUE,Wolverhampton Wanderers,52.590278,-2.130278,Molineux Stadium
+212,Europe,England,LEAGUE ONE DE LA EFL,Wycombe Wanderers,51.630556,-0.800278,Adams Park
+236,Europe,England,LEAGUE TWO DE LA EFL,Yeovil Town,50.950261,-2.673844,Huish Park
+257,Europe,France,DOMINOS LIGUE 2,AC Ajaccio,41.931081,8.776725,Stade François Coty
+258,Europe,France,DOMINOS LIGUE 2,AJ Auxerre,47.786753,3.588664,Stade de l'Abbé-Deschamps
+237,Europe,France,LIGUE 1 CONFORAMA,Amiens SC,49.894209,2.263312,Stade de la Licorne
+238,Europe,France,LIGUE 1 CONFORAMA,Angers SCO,47.460458,-0.530741,Stade Raymond Kopa
+259,Europe,France,DOMINOS LIGUE 2,AS Béziers,43.334714,3.266,Stade de la Méditerranée
+239,Europe,France,LIGUE 1 CONFORAMA,AS Monaco,43.727606,7.415614,Stade Louis II
+260,Europe,France,DOMINOS LIGUE 2,Chamois Niortais Football Club,46.3169444,-0.489166667,Stade René Gaillard
+261,Europe,France,DOMINOS LIGUE 2,Clermont Foot 63,45.8158333,3.121666667,Stade Gabriel Montpied
+241,Europe,France,LIGUE 1 CONFORAMA,Dijon FCO,47.324383,5.068342,Stade Gaston Gérard
+242,Europe,France,LIGUE 1 CONFORAMA,En Avant de Guingamp,48.566285,-3.164599,Stade du Roudourou
+262,Europe,France,DOMINOS LIGUE 2,ESTAC Troyes,48.307561,4.098458,Stade de l'Aube
+263,Europe,France,DOMINOS LIGUE 2,FC Lorient,47.748747,-3.369367,Stade du Moustoir
+264,Europe,France,DOMINOS LIGUE 2,FC Metz,49.10981,6.159511,Stade Saint-Symphorien
+243,Europe,France,LIGUE 1 CONFORAMA,FC Nantes,47.255631,-1.525375,Stade de la Beaujoire
+266,Europe,France,DOMINOS LIGUE 2,GFC Ajaccio,41.951389,8.772222,Stade Ange Casanova
+244,Europe,France,LIGUE 1 CONFORAMA,FC Girondins de Bordeaux,44.829167,-0.597778,Stade Chaban-Delmas
+267,Europe,France,DOMINOS LIGUE 2,Grenoble Foot 38,45.187428,5.740099,Stade des Alpes
+269,Europe,France,DOMINOS LIGUE 2,La Berrichonne de Châteauroux,46.8019444,1.721666667,Stade Gaston Petit
+268,Europe,France,DOMINOS LIGUE 2,Le Havre AC,49.498889,0.169722,Stade Océane
+272,Europe,France,DOMINOS LIGUE 2,Racing Club de Lens,50.432778,2.814722,Stade Bollaert-Delelis
+245,Europe,France,LIGUE 1 CONFORAMA,LOSC Lille,50.611883,3.130428,Stade Pierre-Mauroy
+246,Europe,France,LIGUE 1 CONFORAMA,Montpellier HSC,43.622222,3.811944,Stade de la Mosson
+270,Europe,France,DOMINOS LIGUE 2,AS Nancy Lorraine,48.6955,6.210687,Stade Marcel Picot
+247,Europe,France,LIGUE 1 CONFORAMA,Nîmes Olympique,43.815972,4.359278,Stade des Costières
+248,Europe,France,LIGUE 1 CONFORAMA,OGC Nice,43.723328,7.258756,Allianz Riviera
+249,Europe,France,LIGUE 1 CONFORAMA,Olympique Lyonnais,45.723889,4.832222,Stade de Gerland
+250,Europe,France,LIGUE 1 CONFORAMA,Olympique de Marseille,43.269722,5.395833,Stade Velodrome
+251,Europe,France,LIGUE 1 CONFORAMA,Paris Saint-Germain,48.841389,2.253056,Parc des Princes
+271,Europe,France,DOMINOS LIGUE 2,Paris FC,48.818611,2.346667,Stade Charléty
+252,Europe,France,LIGUE 1 CONFORAMA,RC Strasbourg Alsace,48.560064,7.754969,Stade de la Meinau
+273,Europe,France,DOMINOS LIGUE 2,Red Star FC,48.905833,2.340833,Stade Bauer
+240,Europe,France,LIGUE 1 CONFORAMA,AS Saint-Étienne,45.460833,4.390278,Stade Geoffroy-Guichard
+253,Europe,France,LIGUE 1 CONFORAMA,Stade Malherbe Caen,49.179461,-0.396767,Stade Michel d'Ornano
+265,Europe,France,DOMINOS LIGUE 2,FC Sochaux-Montbéliard,47.512417,6.8112,Stade Auguste Bonal
+274,Europe,France,DOMINOS LIGUE 2,Stade Brestois 29,48.402932,-4.461694,Stade Francis-Le Blé
+254,Europe,France,LIGUE 1 CONFORAMA,Stade de Reims,49.246667,4.025,Stade Auguste-Delaune II
+255,Europe,France,LIGUE 1 CONFORAMA,Stade Rennais FC,48.107458,-1.712839,Stade de la Route de Lorient
+256,Europe,France,LIGUE 1 CONFORAMA,Toulouse Football Club,43.583056,1.434167,Stadium Municipal
+275,Europe,France,DOMINOS LIGUE 2,US Orléans Loiret Football,47.8402778,1.941111111,Stade de la Source
+276,Europe,France,DOMINOS LIGUE 2,Valenciennes FC,50.348131,3.533027,Stade du Hainaut
+303,Europe,Germany,BUNDESLIGA 2,1. FC Heidenheim 1846,48.6685,10.1393,Voith-Arena
+277,Europe,Germany,BUNDESLIGA,1. FC Nürnberg,49.426111,11.125833,Grundig-Stadion
+278,Europe,Germany,BUNDESLIGA,1. FSV Mainz 05,49.984167,8.224167,Coface Arena
+313,Europe,Germany,3. LIGA,TSV 1860 München,48.110833,11.574444,Grünwalder Stadion
+296,Europe,Germany,BUNDESLIGA 2,DSC Arminia Bielefeld,52.031389,8.516944,Schüco Arena
+295,Europe,Germany,BUNDESLIGA 2,FC Erzgebirge Aue,50.5975,12.711111,Sparkassen-Erzgebirgsstadion
+297,Europe,Germany,BUNDESLIGA 2,VfL Bochum 1848,51.489944,7.236489,Vonovia Ruhrstadion
+314,Europe,Germany,3. LIGA,Braunschweig,52.29,10.521389,Eintracht-Stadion
+315,Europe,Germany,3. LIGA,FC Carl Zeiss Jena,50.915833,11.582778,Ernst-Abbe-Sportfeld
+279,Europe,Germany,BUNDESLIGA,Borussia Dortmund,51.492569,7.451842,Signal Iduna Park
+299,Europe,Germany,BUNDESLIGA 2,SG Dynamo Dresden,51.040278,13.747778,Stadion Dresden
+300,Europe,Germany,BUNDESLIGA 2,MSV Duisburg,51.409028,6.778639,Schauinsland-Reisen-Arena
+316,Europe,Germany,3. LIGA,FC Energie Cottbus,51.751389,14.345556,Stadion der Freundschaft
+280,Europe,Germany,BUNDESLIGA,Fortuna Düsseldorf,51.261667,6.733056,Esprit Arena
+281,Europe,Germany,BUNDESLIGA,FC Augsburg,48.3225,10.882222,SGL arena
+282,Europe,Germany,BUNDESLIGA,FC Bayern München,48.218775,11.624753,Allianz Arena
+304,Europe,Germany,BUNDESLIGA 2,FC Ingolstadt 04,48.745556,11.485,Audi Sportpark
+290,Europe,Germany,BUNDESLIGA,FC Schalke 04,51.554503,7.067589,Veltins-Arena
+317,Europe,Germany,3. LIGA,SC Fortuna Köln,50.9175,6.94361,Südstadion
+283,Europe,Germany,BUNDESLIGA,Eintracht Braunschweig,52.29,10.521667,Eintracht-Stadion
+318,Europe,Germany,3. LIGA,FSV Zwickau,50.728539,12.519325,Stadion Zwickau
+301,Europe,Germany,BUNDESLIGA 2,SpVgg Greuther Fürth,49.486944,10.999167,Trolli Arena
+319,Europe,Germany,3. LIGA,Hallescher FC,51.465278,11.961944,Erdgas Sportpark
+302,Europe,Germany,BUNDESLIGA 2,Hamburger SV,53.587158,9.898617,Imtech Arena
+284,Europe,Germany,BUNDESLIGA,Hannover 96,52.360067,9.731197,HDI-Arena
+320,Europe,Germany,3. LIGA,FC Hansa Rostock,54.08495,12.095189,Ostseestadion
+285,Europe,Germany,BUNDESLIGA,Hertha BSC,52.514722,13.239444,Olympiastadion
+321,Europe,Germany,3. LIGA,1. FC Kaiserslautern,49.434722,7.776667,Fritz-Walter-Stadion
+322,Europe,Germany,3. LIGA,Karlsruher SC,49.02,8.413056,Wildparkstadion
+323,Europe,Germany,3. LIGA,KFC Uerdingen 05,51.339167,6.603611,Grotenburg-Stadion
+305,Europe,Germany,BUNDESLIGA 2,Holstein Kiel,54.349167,10.123611,Holstein-Stadion
+306,Europe,Germany,BUNDESLIGA 2,1. FC Köln,50.933497,6.874997,RheinEnergieStadion
+286,Europe,Germany,BUNDESLIGA,Bayer 04 Leverkusen,51.038256,7.002206,BayArena
+307,Europe,Germany,BUNDESLIGA 2,1. FC Magdeburg,52.125556,11.670833,MDCC-Arena
+287,Europe,Germany,BUNDESLIGA,Borussia Mönchengladbach,51.174583,6.385464,Borussia-Park
+308,Europe,Germany,BUNDESLIGA 2,SC Paderborn 07,51.731389,8.710833,Benteler Arena
+324,Europe,Germany,3. LIGA,SC Preußen Münster,51.929722,7.624583,Preußenstadion
+288,Europe,Germany,BUNDESLIGA,RB Leipzig,51.345833,12.348056,Red Bull Arena
+325,Europe,Germany,3. LIGA,SG Sonnenhof Großaspach,48.9799,9.39413,Comtech Arena
+310,Europe,Germany,BUNDESLIGA 2,SV Sandhausen,49.332083,8.647667,Hardtwaldstadion
+289,Europe,Germany,BUNDESLIGA,SC Freiburg,47.988889,7.893056,MAGE SOLAR Stadion
+326,Europe,Germany,3. LIGA,VfL Sportfreunde Lotte,52.270936,7.920444,ConnectM-Arena
+309,Europe,Germany,BUNDESLIGA 2,SSV Jahn Regensburg,48.9909,12.1069,Continental Arena
+311,Europe,Germany,BUNDESLIGA 2,FC St. Pauli,53.554444,9.967778,Millerntor-Stadion
+298,Europe,Germany,BUNDESLIGA 2,SV Darmstadt 98,49.857778,8.672222,Jonathan-Heimes am Böllenfalltor
+327,Europe,Germany,3. LIGA,SV Meppen,52.7081,7.29806,MEP-Arena
+328,Europe,Germany,3. LIGA,SV Wehen Wiesbaden,50.071111,8.256694,Brita-Arena
+291,Europe,Germany,BUNDESLIGA,TSG 1899 Hoffenheim,49.239008,8.888281,Rhein-Neckar Arena
+312,Europe,Germany,BUNDESLIGA 2,1. FC Union Berlin,52.457222,13.568056,Stadion An der Alten Försterei
+329,Europe,Germany,3. LIGA,SpVgg Unterhaching,48.073611,11.615556,Generali Sportpark
+292,Europe,Germany,BUNDESLIGA,VfB Stuttgart,48.792269,9.232031,Mercedes-Benz Arena
+330,Europe,Germany,3. LIGA,VfL Osnabrück,52.280833,8.071111,Osnatel-Arena
+293,Europe,Germany,BUNDESLIGA,VfL Wolfsburg,52.431944,10.803889,Volkswagen Arena
+331,Europe,Germany,3. LIGA,VfR Aalen,48.840556,10.072222,Scholz-Arena
+294,Europe,Germany,BUNDESLIGA,SV Werder Bremen,53.066394,8.837628,Weserstadion
+332,Europe,Germany,3. LIGA,FC Würzburger Kickers,49.767194,9.932944,Flyeralarm-Arena
+333,Europe,Irland,SSE AIRTRICITY LEAGUE,Bohemian FC,53.361667,-6.275,Dalymount Park
+334,Europe,Irland,SSE AIRTRICITY LEAGUE,Bray Wanderers,53.205714,-6.102889,Carlisle Grounds
+335,Europe,Irland,SSE AIRTRICITY LEAGUE,Cork City,51.885528,-8.46775,Turners Cross
+336,Europe,Irland,SSE AIRTRICITY LEAGUE,Derry City,54.990633,-7.336,Brandywell Stadium
+337,Europe,Irland,SSE AIRTRICITY LEAGUE,Dundalk,53.998944,-6.416917,Oriel Park
+338,Europe,Irland,SSE AIRTRICITY LEAGUE,Limerick FC,52.6603,-8.6149,Markets Field
+339,Europe,Irland,SSE AIRTRICITY LEAGUE,Shamrock Rovers,53.2835,-6.37374,Tallaght Stadium
+340,Europe,Irland,SSE AIRTRICITY LEAGUE,Sligo Rovers,54.150444,-6.320606,Showgrounds Stadium
+341,Europe,Irland,SSE AIRTRICITY LEAGUE,St. Patricks Athletic,53.340922,-6.316619,Richmond Park
+342,Europe,Irland,SSE AIRTRICITY LEAGUE,Waterford FC,52.244722,-7.132778,Regional Sports Centre
+363,Europe,Italy,CALCIO B,Ascoli,42.861111,13.594167,Stadio Cino e Lillo Del Duca
+343,Europe,Italy,SERIE A TIM,Atalanta,45.708889,9.680833,Atleti Azzurri d'Italia
+364,Europe,Italy,CALCIO B,Benevento Calcio,41.116389,14.781111,Stadio Ciro Vigorito
+344,Europe,Italy,SERIE A TIM,Bologna,44.492222,11.309722,Renato Dall'Ara
+365,Europe,Italy,CALCIO B,Brescia,45.570556,10.236944,Stadio Mario Rigamonti
+345,Europe,Italy,SERIE A TIM,Cagliari,39.199889,9.137583,Arena Cerdeña
+366,Europe,Italy,CALCIO B,Carpi,44.775556,10.881667,Stadio Sandro Cabassi
+346,Europe,Italy,SERIE A TIM,Chievo Verona,45.435356,10.968647,Marcantonio Bentegodi
+367,Europe,Italy,CALCIO B,Cittadella,45.642778,11.781111,Stadio Piercesare Tombolato
+368,Europe,Italy,CALCIO B,Cosenza,39.31,16.231111,Stadio San Vito-Gigi Marulla
+369,Europe,Italy,CALCIO B,US Cremonese,45.140278,10.034722,Stadio Giovanni Zini
+370,Europe,Italy,CALCIO B,Crotone,39.079167,17.116667,Stadio Ezio Scida
+347,Europe,Italy,SERIE A TIM,Empoli,43.726389,10.955,Stadio Carlo Castellani
+348,Europe,Italy,SERIE A TIM,Fiorentina,43.780822,11.282258,Stadio Artemio Franchi
+371,Europe,Italy,CALCIO B,Foggia,41.454444,15.5425,Stadio Pino Zaccheria
+349,Europe,Italy,SERIE A TIM,Frosinone,41.63426,13.321866,Stadio Benito Stirpe
+350,Europe,Italy,SERIE A TIM,Genoa,44.416431,8.952428,Stadio Luigi Ferraris
+372,Europe,Italy,CALCIO B,Hellas Verona,45.435356,10.968647,Stadio Marcantonio Bentegodi
+351,Europe,Italy,SERIE A TIM,Inter,45.47808,9.124,Stadio Giuseppe Meazza
+352,Europe,Italy,SERIE A TIM,Juventus,45.109594,7.641247,Allianz Stadium
+373,Europe,Italy,CALCIO B,Spezia,44.102222,9.808611,Stadio Alberto Picco
+353,Europe,Italy,SERIE A TIM,Lazio,41.933872,12.454714,Olímpico di Roma
+374,Europe,Italy,CALCIO B,Lecce,40.365278,18.208889,Stadio Via del Mare
+375,Europe,Italy,CALCIO B,Livorno,43.526667,10.314167,Stadio Armando Picchi
+354,Europe,Italy,SERIE A TIM,Milan,45.47808,9.124,Stadio San Siro
+355,Europe,Italy,SERIE A TIM,Napoli,40.827967,14.193008,Stadio San Paolo
+376,Europe,Italy,CALCIO B,Padova,45.432222,11.858333,Euganeo Stadion
+377,Europe,Italy,CALCIO B,Palermo,38.152767,13.342275,Renzo Barbera
+356,Europe,Italy,SERIE A TIM,Parma,44.794917,10.338444,Ennio Tardini
+378,Europe,Italy,CALCIO B,Perugia,43.106111,12.357222,Stadio Renato Curi
+379,Europe,Italy,CALCIO B,Pescara,42.455278,14.229444,Adriatico-Giovanni Cornacchia
+357,Europe,Italy,SERIE A TIM,Roma,41.933872,12.454714,Olímpico di Roma
+380,Europe,Italy,CALCIO B,US Salernitana 1919,40.645,14.823889,Stadio Arechi
+358,Europe,Italy,SERIE A TIM,Sampdoria,44.416431,8.952428,Stadio Luigi Ferraris
+359,Europe,Italy,SERIE A TIM,Sassuolo,44.714722,10.649722,MAPEI Stadium - Città del Tricolore
+360,Europe,Italy,SERIE A TIM,SPAL,44.839722,11.6075,Stadio Paolo Mazza
+361,Europe,Italy,SERIE A TIM,Torino,45.041667,7.65,Olímpico Grande Torino
+362,Europe,Italy,SERIE A TIM,Udinese,46.081603,13.200136,Stadio Friuli
+381,Europe,Italy,CALCIO B,Venezia FC,45.4277611,12.3637306,Stadio Pierluigi Penzo
+382,Asia,Japan,MEIJI YASUDA J1,Cerezo Osaka,34.615339,135.516572,Kincho Stadium
+383,Asia,Japan,MEIJI YASUDA J1,FC Tokyo,35.664278,139.527139,Ajinomoto Stadium
+384,Asia,Japan,MEIJI YASUDA J1,Gamba Osaka,34.811372,135.54085,Panasonic Suita Stadium
+385,Asia,Japan,MEIJI YASUDA J1,Hokkaido Consadole Sapporo,43.015172,141.409767,Sapporo Dome
+386,Asia,Japan,MEIJI YASUDA J1,Júbilo Iwata,34.725217,137.875006,Yamaha Stadium
+387,Asia,Japan,MEIJI YASUDA J1,Kashima Antlers,35.991744,140.640525,Kashima Soccer Stadium
+388,Asia,Japan,MEIJI YASUDA J1,Kashiwa Reysol,35.8485,139.975149,Sankyo Frontier Kashiwa Stadium
+389,Asia,Japan,MEIJI YASUDA J1,Kawasaki Frontale,35.585895,139.652731,Kawasaki Todoroki Stadium
+390,Asia,Japan,MEIJI YASUDA J1,Nagoya Grampus,35.0845,137.170611,Toyota Stadium
+391,Asia,Japan,MEIJI YASUDA J1,Sagan Tosu,33.371944,130.520278,Ekimae Real Estate Stadium
+393,Asia,Japan,MEIJI YASUDA J1,Sanfrecce Hiroshima,34.440778,132.39425,EDION Hiroshima Stadium
+392,Asia,Japan,MEIJI YASUDA J1,Shimizu S-Pulse,34.984444,138.481111,IAI Nihondaira Stadium
+394,Asia,Japan,MEIJI YASUDA J1,Shonan Bellmare,35.343608,139.341263,Shonan BMW Stadium Hiratsuka
+395,Asia,Japan,MEIJI YASUDA J1,Urawa Red Diamonds,35.903142,139.717492,Saitama Stadium 2002
+398,Asia,Japan,MEIJI YASUDA J1,V-Varen Nagasaki,32.838611,130.039444,Transcosmos Stadium Nagasaki
+396,Asia,Japan,MEIJI YASUDA J1,Vegalta Sendai,38.319167,140.881944,Yurtec Stadium Sendai
+397,Asia,Japan,MEIJI YASUDA J1,Vissel Kobe,34.656708,135.168964,NOEVIR Stadium Kobe
+399,Asia,Japan,MEIJI YASUDA J1,Yokohama F. Marinos,35.510044,139.606247,Nissan Stadium
+400,Asia,Korea,K-LEAGUE 1,Daegu FC,35.829739,128.690205,Daegu Stadium
+401,Asia,Korea,K-LEAGUE 1,FC Seoul,37.568222,126.897361,Seul Stadium
+402,Asia,Korea,K-LEAGUE 1,Gangwon FC,37.77366,128.897503,Gangneung Stadium
+403,Asia,Korea,K-LEAGUE 1,Gyeongnam FC,35.23402,128.664753,Changwon Civic Stadium
+404,Asia,Korea,K-LEAGUE 1,Incheon United FC,37.466131,126.643035,Sungui Arena Park
+405,Asia,Korea,K-LEAGUE 1,Jeju United FC,33.246212,126.509361,Jeju World Cup Stadium
+406,Asia,Korea,K-LEAGUE 1,Jeonbuk Hyundai Motors,35.868071,127.06448,Jeonju World Cup Stadium
+407,Asia,Korea,K-LEAGUE 1,Jeonnam Dragons,34.93312,127.727478,Dragon Dungeon Stadium
+408,Asia,Korea,K-LEAGUE 1,Pohang Steelers,35.997745,129.384412,Steel Yard Stadium
+409,Asia,Korea,K-LEAGUE 1,Sangju Sangmu FC,36.432367,128.161655,Sangju Civic Stadium
+410,Asia,Korea,K-LEAGUE 1,Suwon Samsung Bluewings,37.286421,127.036855,Suwon World Cup Stadium
+411,Asia,Korea,K-LEAGUE 1,Ulsan Hyundai FC,35.535328,129.259512,Munsu Ulsan Stadium
+412,America,Mexico,LIGA BANCOMER MX,Club América,19.302778,-99.150556,Estadio Azteca
+413,America,Mexico,LIGA BANCOMER MX,Club Atlas,20.705,-103.328139,Etadio Jalisco
+414,America,Mexico,LIGA BANCOMER MX,Cruz Azul,19.302778,-99.150556,Estadio Azteca
+415,America,Mexico,LIGA BANCOMER MX,Guadalajara,20.681667,-103.462778,Estadio Akron
+416,America,Mexico,LIGA BANCOMER MX,Club León,21.115544,-101.657744,Estadio Nou Camp
+417,America,Mexico,LIGA BANCOMER MX,Lobos BUAP,18.997222,-98.1975,Olímpico de la B.U.A.P.
+418,America,Mexico,LIGA BANCOMER MX,Monarcas Morelia,19.718742,-101.233622,Estadio Morelos
+419,America,Mexico,LIGA BANCOMER MX,Monterrey,25.670172,-100.2437,Estadio BBVA
+420,America,Mexico,LIGA BANCOMER MX,Club Necaxa,21.880653,-102.275483,Estadio Victoria
+421,America,Mexico,LIGA BANCOMER MX,Pachuca,20.105144,-98.756114,Estadio Hidalgo
+422,America,Mexico,LIGA BANCOMER MX,Puebla FC,19.078056,-98.164444,Estadio Cuauhtémoc
+423,America,Mexico,LIGA BANCOMER MX,Querétaro,20.577642,-100.366539,Estadio Corregidora
+424,America,Mexico,LIGA BANCOMER MX,Santos Laguna,25.629145,-103.379417,Estadio Corona
+425,America,Mexico,LIGA BANCOMER MX,Tigres U.A.N.L.,25.722806,-100.312056,Estadio Universitario
+426,America,Mexico,LIGA BANCOMER MX,Club Tijuana,32.506067,-116.993092,Estadio Caliente
+427,America,Mexico,LIGA BANCOMER MX,Deportivo Toluca,19.287286,-99.666794,Estadio Nemesio Diez
+428,America,Mexico,LIGA BANCOMER MX,U.N.A.M.,19.331928,-99.192106,Estadio Olímpico Universitario
+429,America,Mexico,LIGA BANCOMER MX,Tiburones Rojos de Veracruz,19.164222,-96.125017,Estadio Luis Pirata Fuente
+430,Europe,Netherlands,EREDIVISIE,ADO Den Haag,52.062778,4.383056,Cars Jeans Stadion
+431,Europe,Netherlands,EREDIVISIE,Ajax,52.314167,4.941944,Johan Cruyff Arena
+432,Europe,Netherlands,EREDIVISIE,AZ Alkmaar,52.6125,4.741667,AFAS Stadion
+433,Europe,Netherlands,EREDIVISIE,De Graafschap,51.955833,6.309722,De Vijverberg
+434,Europe,Netherlands,EREDIVISIE,Excelsior Rotterdam,51.916944,4.520556,Stadion Woudestein
+435,Europe,Netherlands,EREDIVISIE,FC Emmen,52.774722,6.945556,De Oude Meerdijk
+436,Europe,Netherlands,EREDIVISIE,FC Groningen,53.206111,6.591389,Euroborg
+437,Europe,Netherlands,EREDIVISIE,FC Utrecht,52.078333,5.145833,Stadion Galgenwaard
+438,Europe,Netherlands,EREDIVISIE,Feyenoord,51.893894,4.523253,Stadion Feijenoord
+439,Europe,Netherlands,EREDIVISIE,Fortuna Sittard,50.991944,5.843611,Fortuna Sittard Stadion
+440,Europe,Netherlands,EREDIVISIE,Heracles Almelo,52.338611,6.649722,Polman Stadion
+441,Europe,Netherlands,EREDIVISIE,NAC Breda,51.595556,4.750278,Rat Verlegh Stadion
+442,Europe,Netherlands,EREDIVISIE,PEC Zwolle,52.517292,6.121911,MACPARK Stadion
+443,Europe,Netherlands,EREDIVISIE,PSV,51.4417,5.4674,Philips Stadion
+444,Europe,Netherlands,EREDIVISIE,SC Heerenveen,52.958611,5.936111,Abe Lenstra Stadion
+445,Europe,Netherlands,EREDIVISIE,Vitesse,51.9625,5.893056,Gelredome
+446,Europe,Netherlands,EREDIVISIE,VVV-Venlo,51.351944,6.179722,Seacon Stadion
+447,Europe,Netherlands,EREDIVISIE,Willem II,51.542778,5.066944,Willem II Stadion
+448,Europe,Norway,ELITESERIEN,FK Bodø/Glimt,67.276639,14.384333,Aspmyra stadium
+449,Europe,Norway,ELITESERIEN,FK Haugesund,59.413068,5.279379,Haugesund stadion
+450,Europe,Norway,ELITESERIEN,IK Start,58.153611,8.028611,Sparebanken Sør Arena
+451,Europe,Norway,ELITESERIEN,Kristiansund BK,63.124722,7.718056,Kristiansund stadion
+452,Europe,Norway,ELITESERIEN,Lillestrøm SK,59.962752,11.063458,Åråsen Stadion
+453,Europe,Norway,ELITESERIEN,Molde FK,62.733889,7.148611,Aker Stadion
+454,Europe,Norway,ELITESERIEN,Odds BK,59.211111,9.589722,Skagerak Arena
+455,Europe,Norway,ELITESERIEN,Ranheim Fotball,58.954,5.693,DNB Arena
+456,Europe,Norway,ELITESERIEN,Rosenborg BK,63.4125,10.405,Lerkendal Stadion
+457,Europe,Norway,ELITESERIEN,Sandefjord Fotball,59.13725,10.17969,Komplett.no Arena
+458,Europe,Norway,ELITESERIEN,Sarpsborg 08 FF,59.286217,11.097608,Sarpsborg Stadion
+459,Europe,Norway,ELITESERIEN,SK Brann,60.366389,5.356944,Brann Stadion
+460,Europe,Norway,ELITESERIEN,Stabæk Fotball,59.921111,10.581111,Nadderud Stadion
+461,Europe,Norway,ELITESERIEN,Strømsgodset IF,59.734392,10.201333,Marienlyst Stadion
+462,Europe,Norway,ELITESERIEN,Tromsø IL,69.648954,18.934582,Alfheim Stadion
+463,Europe,Norway,ELITESERIEN,Vålerenga Fotball,59.9183,10.8094,Intility Arena
+464,Europe,Poland,EKSTRAKLASA,Arka Gdynia,54.493136,18.531214,Stadion GOSiR
+465,Europe,Poland,EKSTRAKLASA,Cracovia,50.058056,19.919722,Józef Pilsudski Stadion
+466,Europe,Poland,EKSTRAKLASA,Górnik Zabrze,50.296317,18.768564,Ernest Pohl Stadion
+467,Europe,Poland,EKSTRAKLASA,Jagiellonia Białystok,53.105556,23.148889,Bialystok Civil Stadion 
+468,Europe,Poland,EKSTRAKLASA,Korona Kielce,50.861389,20.624722,Kielce Civil Stadion
+469,Europe,Poland,EKSTRAKLASA,Lech Poznań,52.397222,16.858056,Poznan Civil Stadion
+470,Europe,Poland,EKSTRAKLASA,Lechia Gdańsk,54.39,18.640278,PGE Arena Gdansk
+471,Europe,Poland,EKSTRAKLASA,Legia Warszawa,52.220461,21.040628,Józef Piłsudski Stadion
+472,Europe,Poland,EKSTRAKLASA,Miedź Legnica,51.203667,16.169889,Stadion Orła Białego
+473,Europe,Poland,EKSTRAKLASA,Piast Gliwice,50.306583,18.695866,Gilwice Stadion
+474,Europe,Poland,EKSTRAKLASA,Pogoń Szczecin,53.436576,14.518658,Florian Krygier Stadion
+475,Europe,Poland,EKSTRAKLASA,Śląsk Wrocław,51.141797,16.944094,Wroclaw Stadion
+476,Europe,Poland,EKSTRAKLASA,Wisła Kraków,50.063611,19.911944,Henryk Reyman Stadion
+477,Europe,Poland,EKSTRAKLASA,Wisła Płock,52.562004,19.684067,Kazimierz Górski Stadion
+478,Europe,Poland,EKSTRAKLASA,Zagłębie Sosnowiec,50.277222,19.103611,Stadion Ludowy
+479,Europe,Poland,EKSTRAKLASA,Zagłębie Lubin,51.413333,16.1975,Stadion Zagłębia Lubin
+480,Europe,Portugal,LIGA NOS,Os Belenenses,38.702778,-9.207778,Restelo Stadium
+481,Europe,Portugal,LIGA NOS,Boavista FC,41.162222,-8.642778,Estádio do Bessa XXI
+482,Europe,Portugal,LIGA NOS,CD Feirense,40.926689,-8.545814,Estádio Marcolino de Castro
+486,Europe,Portugal,LIGA NOS,CD Nacional,32.670625,-16.883525,Estádio da Madeira
+483,Europe,Portugal,LIGA NOS,CD Tondela,40.512041,-8.082825,Estádio João Cardoso
+484,Europe,Portugal,LIGA NOS,CD Aves,41.378077,-8.35476,Estádio do Clube Desportivo das Aves
+485,Europe,Portugal,LIGA NOS,FC Porto,41.161758,-8.583933,Estadio do Dragão
+487,Europe,Portugal,LIGA NOS,GD Chaves,41.75064,-7.464985,Estadio Municipal do Chaves
+488,Europe,Portugal,LIGA NOS,Clube Sport Marítimo,32.645561,-16.928331,Estádio do Marítimo
+489,Europe,Portugal,LIGA NOS,Moreirense FC,41.378089,-8.354761,Estadio Comendador Joaquim de Almeida Freitas
+490,Europe,Portugal,LIGA NOS,Portimonense SC,37.135694,-8.539833,Estadio Municipal de Portimão
+491,Europe,Portugal,LIGA NOS,Rio Ave FC,41.362756,-8.740186,Estádio do Rio Ave FC
+492,Europe,Portugal,LIGA NOS,Santa Clara,37.763708,-25.622589,Estadio de São Miguel
+493,Europe,Portugal,LIGA NOS,SC Braga,41.5624,-8.4308,Estádio Municipal de Braga
+494,Europe,Portugal,LIGA NOS,SL Benfica,38.752678,-9.184681,Estádio da Luz
+495,Europe,Portugal,LIGA NOS,Sporting CP,38.761194,-9.160783,Estadio José Alvalade
+496,Europe,Portugal,LIGA NOS,Vitória Guimarães,41.445833,-8.301111,Dom Afonso Henriques
+497,Europe,Portugal,LIGA NOS,Vitória de Setúbal,38.531389,-8.891111,Estadio do Bonfim
+498,Europe,Greece,Superleague Greece,AEK Athens,38.0369,23.7414,Agia Sofia Stadium
+499,Asia,Russia,Russian Liga Premier,PFC CSKA Moscow,55.791389,37.516111,Arena CSKA
+500,Europe,Croatia,MAXtv Prva Liga,Dinamo Zagreb,45.818858,16.018078,Maksimir Stadion
+501,Europe,Ukraine,Ukrainian Premier League,Dynamo Kyiv,50.433333,30.521667,Olímpico de Kiev
+502,Europe,Finland,Veikkausliiga,HJK Helsinki,60.1875,24.9225,Telia 5G -areena
+503,Africa,South Africa,Premier Soccer League,Kaizer Chiefs,-26.234806,27.982378,FNB Stadium
+504,Asia,Russia,Russian Liga Premier,Lokomotiv Moscow,55.80355,37.741169,RZD Arena
+505,Europe,Greece,Superleague Greece,Olympiacos CFP,37.946169,23.664536,Georgios Karaiskakis Stadium
+506,Africa,South Africa,Premier Soccer League,Orlando Pirates,-26.231894,27.922892,Orlando Stadium
+507,Europe,Greece,Superleague Greece,Panathinaikos FC,38.036111,23.7875,Olimpic Stadium of Athens
+508,Europe,Greece,Superleague Greece,PAOK,40.613839,22.972422,Toumba Stadium
+509,Europe,Ukraine,Ukrainian Premier League,Shakhtar Donetsk,49.980858,36.261703,Oblasny SportKomplex Metalist
+510,Europe,Czech Republic,Fortuna League,SK Slavia Praha,50.066944,14.471389,Stadion Eden
+511,Europe,Czech Republic,Fortuna League,Sparta Praha,50.099716,14.416122,Generali Arena
+512,Asia,Russia,Russian Liga Premier,Spartak Moscow,55.8175,37.435556,Otkrytie Arena
+513,Europe,Czech Republic,Others,Viktoria Plzeň,49.75,13.385556,Doosan Arena
+514,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ahli,22.094444,39.125833,King Abdullah Sports City
+515,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Batin,28.448611,46.075,Al-Batin Club Stadium
+516,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Faisaly,26.3789,43.9478,King Salman Sport City Stadium
+517,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fateh,25.305833,49.612778,Prince Abdullah bin Jalawi Stadium
+518,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Fayha,26.3789,43.9478,King Salman Sport City Stadium
+519,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hazem,25.860278,43.502222,Al Hazm Stadium
+520,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Hilal,24.788206,46.839236,King Fahd Stadium
+521,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Ittihad,22.094444,39.125833,King Abdullah Sports City
+522,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Nassr,24.788206,46.839236,King Fahd Stadium
+523,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Qadisiyah,26.3699,50.2052,Prince Salud bin Jalawi Stadium
+524,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Raed,22.094444,39.125833,King Abdullah Sports City
+525,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Shabab,24.788206,46.839236,King Fahd Stadium
+527,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Taawoun,26.3789,43.9478,King Salman Sport City Stadium
+526,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Al Wehda,21.4855,39.9737,King Abdul Aziz Stadium
+528,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Ettifaq FC,26.4272,50.1141,Prince Mohamed bin Fahd Stadium
+529,Asia,Saudi Arabia,LIGA PROFESIONAL SAUDÍ,Ohod Club,21.4855,39.9737,King Abdul Aziz Stadium
+530,Europe,Scotland,SCOTTISH PREMIERSHIP,Aberdeen,57.159167,-2.088889,Pittodrie Stadium
+531,Europe,Scotland,SCOTTISH PREMIERSHIP,Celtic,55.849711,-4.205589,Celtic Park
+532,Europe,Scotland,SCOTTISH PREMIERSHIP,Dundee FC,56.475264,-2.973194,Dens Park
+533,Europe,Scotland,SCOTTISH PREMIERSHIP,Hamilton Academical FC,55.782156,-4.058503,New Douglas Park
+534,Europe,Scotland,SCOTTISH PREMIERSHIP,Heart of Midlothian,55.939167,-3.232222,Tynecastle Stadium
+535,Europe,Scotland,SCOTTISH PREMIERSHIP,Hibernian,55.961667,-3.165556,Easter Road
+536,Europe,Scotland,SCOTTISH PREMIERSHIP,Kilmarnock,55.604225,-4.508122,Rugby Park
+537,Europe,Scotland,SCOTTISH PREMIERSHIP,Livingston FC,55.886167,-3.522872,Almondvale Stadium
+538,Europe,Scotland,SCOTTISH PREMIERSHIP,Motherwell,55.779947,-3.980078,Fir Park
+539,Europe,Scotland,SCOTTISH PREMIERSHIP,Rangers FC,55.853206,-4.309258,Ibrox Stadium
+540,Europe,Scotland,SCOTTISH PREMIERSHIP,St. Johnstone FC,56.409686,-3.476928,McDiarmid Park
+541,Europe,Scotland,SCOTTISH PREMIERSHIP,St. Mirren,55.850556,-4.443889,St. Mirren Park
+562,Europe,Spain,LALIGA 1 | 2 | 3,AD Alcorcón,40.338889,-3.840556,Santo Domingo
+563,Europe,Spain,LALIGA 1 | 2 | 3,Albacete BP,38.981117,-1.852142,Carlos Belmonte
+542,Europe,Spain,LALIGA SANTANDER,Athletic Club de Bilbao,43.264284,-2.950366,San Mamés
+543,Europe,Spain,LALIGA SANTANDER,Atlético Madrid,40.401719,-3.720606,Vicente Calderón
+564,Europe,Spain,LALIGA 1 | 2 | 3,CA Osasuna,42.796667,-1.636944,El Sadar
+565,Europe,Spain,LALIGA 1 | 2 | 3,Cádiz CF,36.502778,-6.273056,Ramón de Carranza
+569,Europe,Spain,LALIGA 1 | 2 | 3,CF Rayo Majadahonda,40.4575,-3.86028,Cerro del Espino
+570,Europe,Spain,LALIGA 1 | 2 | 3,CF Reus Deportiu,41.16,1.09,Camp Nou Municipal
+544,Europe,Spain,LALIGA SANTANDER,CD Leganés,40.3404,-3.7607,Municipal de Butarque
+566,Europe,Spain,LALIGA 1 | 2 | 3,CD Lugo,43.003333,-7.570833,Anxo Carro
+567,Europe,Spain,LALIGA 1 | 2 | 3,CD Numancia,41.754444,-2.467778,Nuevo Los Pajaritos
+568,Europe,Spain,LALIGA 1 | 2 | 3,CD Tenerife,28.463056,-16.260556,Heliodoro Rodríguez López
+571,Europe,Spain,LALIGA 1 | 2 | 3,Córdoba CF,37.872294,-4.764642,Nuevo Arcángel
+545,Europe,Spain,LALIGA SANTANDER,Deportivo Alavés,42.837111,-2.688044,Mendizorroza
+572,Europe,Spain,LALIGA 1 | 2 | 3,Elche CF,38.266944,-0.663333,Martínez Valero
+573,Europe,Spain,LALIGA 1 | 2 | 3,Extremadura UD,38.684411,-6.414606,Estadio Francisco de la Hera
+546,Europe,Spain,LALIGA SANTANDER,FC Barcelona,41.38087,2.122802,Camp Nou
+547,Europe,Spain,LALIGA SANTANDER,Getafe CF,40.325556,-3.714722,Coliseum Alfonso Pérez
+548,Europe,Spain,LALIGA SANTANDER,Girona FC,41.961389,2.828611,Municipal de Montilivi
+574,Europe,Spain,LALIGA 1 | 2 | 3,Granada CF,37.152967,-3.595736,Nuevo Los Cármenes
+549,Europe,Spain,LALIGA SANTANDER,Levante UD,39.494722,-0.364167,Ciutat de València
+575,Europe,Spain,LALIGA 1 | 2 | 3,Málaga CF,36.734092,-4.426422,La Rosaleda
+576,Europe,Spain,LALIGA 1 | 2 | 3,Nàstic,41.126944,1.272778,Nou Estadi de Tarragona
+551,Europe,Spain,LALIGA SANTANDER,Rayo Vallecano,40.391944,-3.658961,Campo de Vallecas
+552,Europe,Spain,LALIGA SANTANDER,RC Celta,42.211842,-8.739711,Balaídos
+580,Europe,Spain,LALIGA 1 | 2 | 3,Deportivo de La Coruña,43.368714,-8.417516,Riazor
+554,Europe,Spain,LALIGA SANTANDER,Real Betis,37.356389,-5.981389,Benito Villamarín
+581,Europe,Spain,LALIGA 1 | 2 | 3,RCD Mallorca,39.59,2.63,Iberostar Stadium
+555,Europe,Spain,LALIGA SANTANDER,Real Madrid,40.45306,-3.68835,Santiago Bernabéu
+577,Europe,Spain,LALIGA 1 | 2 | 3,Real Oviedo,43.360783,-5.870222,Carlos Tartiere
+556,Europe,Spain,LALIGA SANTANDER,Real Sociedad,43.301378,-1.973617,Anoeta
+578,Europe,Spain,LALIGA 1 | 2 | 3,Real Sporting de Gijón,43.536111,-5.637222,Estadio El Molinón
+550,Europe,Spain,LALIGA SANTANDER,Real Valladolid CF,41.644444,-4.761111,Nuevo José Zorrilla
+579,Europe,Spain,LALIGA 1 | 2 | 3,Real Zaragoza,41.636592,-0.901822,La Romareda
+553,Europe,Spain,LALIGA SANTANDER,RCD Espanyol,41.347861,2.075667,Cornellà-El Prat
+559,Europe,Spain,LALIGA SANTANDER,Sevilla FC,37.384,-5.9705,Ramón Sánchez Pizjuán
+557,Europe,Spain,LALIGA SANTANDER,SD Eibar,43.181706,-2.475803,Ipurua
+558,Europe,Spain,LALIGA SANTANDER,SD Huesca,42.131944,-0.424444,El Alcoraz
+582,Europe,Spain,LALIGA 1 | 2 | 3,UD Almería,36.84,-2.435278,Estadio del Mediterráneo
+583,Europe,Spain,LALIGA 1 | 2 | 3,UD Las Palmas,28.1,-15.456667,Estadio de Gran Canaria
+560,Europe,Spain,LALIGA SANTANDER,Valencia CF,39.474656,-0.358361,Mestalla
+561,Europe,Spain,LALIGA SANTANDER,Villarreal CF,39.944167,-0.103611,El Madrigal
+584,Europe,Sweden,ALLSVENSKAN,AIK,59.3725,18,Friends Arena
+585,Europe,Sweden,ALLSVENSKAN,BK Häcken,57.719167,11.930556,Rambergsvallen
+586,Europe,Sweden,ALLSVENSKAN,IF Brommapojkarna,59.362222,17.851667,Grimsta IP Stadion
+587,Europe,Sweden,ALLSVENSKAN,Dalkurd FF,60.495,15.434167,Domnarvsvallen
+588,Europe,Sweden,ALLSVENSKAN,Djurgårdens IF,59.291389,18.085278,Tele2 Arena
+589,Europe,Sweden,ALLSVENSKAN,GIF Sundsvall,58.584167,16.173056,Idrottsparken
+590,Europe,Sweden,ALLSVENSKAN,Hammarby IF,59.291389,18.085278,Tele2 Arena
+591,Europe,Sweden,ALLSVENSKAN,IF Elfsborg,57.73457,12.934334,Borås Arena
+592,Europe,Sweden,ALLSVENSKAN,IFK Göteborg,57.706111,11.980556,Gamla Ullevi
+593,Europe,Sweden,ALLSVENSKAN,IFK Norrköping,58.584167,16.173056,Östgötaporten
+594,Europe,Sweden,ALLSVENSKAN,IK Sirius,59.84958,17.64532,Studenternas IP
+595,Europe,Sweden,ALLSVENSKAN,Kalmar FF,56.69123,16.31493,Guldfågeln Arena
+596,Europe,Sweden,ALLSVENSKAN,Malmö FF,55.583611,12.987778,Swedbank Stadion
+597,Europe,Sweden,ALLSVENSKAN,Örebro SK,59.266111,15.223056,Behrn Arena
+598,Europe,Sweden,ALLSVENSKAN,Östersunds FK,63.194722,14.655833,Jämtkraft Arena
+599,Europe,Sweden,ALLSVENSKAN,Trelleborgs FF,59.9183,10.8094,Vångavallen
+600,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,BSC Young Boys,46.962778,7.465,Stade de Suisse
+601,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Basel 1893,47.541389,7.62,St. Jakob Park
+602,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Lugano,46.023611,8.961667,Stadio Comunale di Cornaredo
+603,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Luzern,47.033264,8.305187,Swisspor Arena
+604,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Sion,46.233333,7.376389,Stade de Tourbillon
+605,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC St. Gallen,47.408333,9.306389,Kybunpark
+606,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Thun,46.744817,7.606075,Stockhorn Arena
+607,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,FC Zürich,47.382791,8.503801,Letzigrund
+608,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,Grasshopper Club Zürich,47.382791,8.503801,Letzigrund
+609,Europe,Switzerland,RAIFFEISEN SUPER LEAGUE,Neuchâtel Xamax,46.9952,6.944,Stade de la Maladière
+610,Europe,Turkey,SÜPER LIG,Akhisar Belediyespor,38.921111,27.814722,Akhisar Arena
+611,Europe,Turkey,SÜPER LIG,Alanyaspor,36.56261,32.07916,Bahçeşehir Okulları Stadium
+612,Europe,Turkey,SÜPER LIG,Antalyaspor,36.888608,30.668772,Antalya Arena
+614,Europe,Turkey,SÜPER LIG,BB Erzurumspor,39.911197,41.238114,Stadyumu Kâzım Karabekir 
+615,Europe,Turkey,SÜPER LIG,Beşiktaş JK,41.0392,28.9947,Vodafone Park
+616,Europe,Turkey,SÜPER LIG,Bursaspor,40.210778,29.009333,Timsah Arena
+617,Europe,Turkey,SÜPER LIG,Çaykur Rizespor,41.023056,40.532944,Atatürk Rize Stadyumu
+618,Europe,Turkey,SÜPER LIG,Fenerbahçe SK,40.987778,29.036667,Saracoğlu Stadyumu
+619,Europe,Turkey,SÜPER LIG,Galatasaray SK,41.102861,28.990417,Türk Telekom Arena
+620,Europe,Turkey,SÜPER LIG,Göztepe SK,38.446944,27.262222,Doğanlar Stadyumu
+621,Europe,Turkey,SÜPER LIG,Kasimpaşa SK,41.032806,28.972322,Recep Tayyip Erdoğan Stadyumu
+622,Europe,Turkey,SÜPER LIG,Kayserispor,38.737289,35.423133,Kadir Has Stadyumu
+623,Europe,Turkey,SÜPER LIG,Atiker Konyaspor,37.946328,32.485694,Konya Arena
+613,Europe,Turkey,SÜPER LIG,Medipol Başakşehir FK,41.1229,28.8086,Başakşehir Arena
+624,Europe,Turkey,SÜPER LIG,MKE Ankaragücü,39.980139,32.613861,Ankara Eryaman Stadyumu
+625,Europe,Turkey,SÜPER LIG,Sivasspor,39.728333,36.983889,Sivas Arena
+626,Europe,Turkey,SÜPER LIG,Trabzonspor,40.996361,39.64855,Şenol Güneş Stadium
+627,Europe,Turkey,SÜPER LIG,Yeni Malatyaspor,38.337222,38.445833,Malatya Arena
+628,America,USA,MLS,Atlanta United,33.755278,-84.400833,Mercedes-Benz Stadium
+629,America,USA,MLS,Chicago Fire,41.8625,-87.616667,Soldier Field
+630,America,USA,MLS,Colorado Rapids,39.805556,-104.891944,DSG Park
+631,America,USA,MLS,Columbus Crew SC,40.009444,-82.991111,Mapfre Stadium
+632,America,USA,MLS,DC United,38.868611,-76.998889,Audi Field
+633,America,USA,MLS,FC Dallas,33.154458,-96.835158,Toyota Stadium
+634,America,USA,MLS,Houston Dynamo,29.7522,-95.3524,BBVA Stadium
+637,America,USA,MLS,LA Galaxy,33.864444,-118.261111,Dignity Health Sports Park
+636,America,USA,MLS,Los Angeles FC,34.013,-118.285,Banc of California Stadium
+638,America,USA,MLS,Minnesota United FC,44.9528,-93.1651,Allianz Field
+635,America,USA,MLS,Montreal Impact,45.563056,-73.5525,Saputo Stadium
+639,America,USA,MLS,New England Revolution,42.090944,-71.264344,Gillette Stadium
+640,America,USA,MLS,New York City FC,40.829569,-73.926392,Yankee Stadium
+641,America,USA,MLS,New York Red Bulls,40.736667,-74.150278,Red Bull Arena
+642,America,USA,MLS,Orlando City SC,28.541065,-81.389035,Exploria Stadium
+643,America,USA,MLS,Philadelphia Union,39.832222,-75.378889,PPL Park
+644,America,USA,MLS,Portland Timbers,45.521389,-122.691667,Providence Park
+645,America,USA,MLS,Real Salt Lake,40.5829,-111.893,Rio Tinto Stadium
+646,America,USA,MLS,Seattle Sounders FC,47.595278,-122.331667,CenturyLink Field
+647,America,USA,MLS,San Jose Earthquakes,37.351389,-121.925,Avaya Stadium
+648,America,USA,MLS,Sporting Kansas City,39.1218,-94.8237,Children's Mercy Park
+649,America,USA,MLS,Toronto FC,43.632778,-79.418611,BMO Field
+650,America,USA,MLS,Vancouver Whitecaps FC,49.276667,-123.111944,BC Place

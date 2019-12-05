@@ -1,0 +1,194 @@
+body {
+    padding-top: 56px;
+    text-align: justify;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
+
+footer {
+    font-size: 12px;
+    padding: 10px 10px;
+}
+
+.btn-primary {
+    background-color: #00D2B3;
+    border-color: white;
+}
+
+.bg-dark {
+    background-color: #7ad0d6!important;
+}
+
+.bg-light {
+    background-color: #7ad0d6!important;
+}
+
+.container {
+    padding-top: 2px;
+}
+
+.pb-5 .py5 {
+    padding-bottom: 1rem!important
+}
+
+.h2,
+h2 {
+    font-size: 1rem;
+}
+
+.card-footer {
+    border-top: 1px solid #7ad0d6;
+    background-color: transparent;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 16px;
+}
+
+a {
+    color: #black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.mb-4,
+.my-4 {
+    margin-bottom: 1rem!important;
+}
+
+.paragraph {
+    color: white;
+}
+
+.element.style {
+    position: absolute;
+    width: 0%;
+    height: 0%;
+}
+
+.textoimagen {
+    position: relative;
+    bottom: 740px;
+    font-size: 28px;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.tarjetas {
+    margin-top: 30px;
+}
+
+footer {
+    background-color: #7ad0d6;
+}
+
+h6 {
+    color: white;
+    text-align: inherit;
+}
+
+.summary {
+    text-align: center;
+}
+
+footer .container {
+    padding-top: 0px;
+}
+
+.fas fa-home mr-3 {
+    color: white;
+    font-size: 12px;
+}
+
+p {
+    text-align: justify;
+}
+
+.mb-4,
+.my-4 {
+    margin-bottom: 0rem!important;
+}
+
+h5 {
+    color: white;
+    text-align: center;
+}
+
+.descrip {
+    color: black;
+}
+
+.gender {
+    color: black;
+}
+
+.dark-grey-text {
+    color: white;
+}
+
+.text-black-50 {
+    color: white!important;
+}
+
+.img-fluid {
+    width: 250px;
+    height: 200px;
+}
+
+.card-title {
+    margin-top: 20px;
+}
+
+.logo {
+    position: absolute;
+    text-align: center;
+    color: #orange;
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive;
+    bottom: 20px;
+    right: 50px
+}
+
+.fab {
+    color: white;
+    font-size: 18px;
+}
+
+.fa-genderless {
+    color: #7ad0d6;
+}
+
+.fa-mars {
+    color: #7ad0d6;
+}
+
+.fa-neuter {
+    color: #7ad0d6;
+}
+
+.fa-venus {
+    color: #7ad0d6;
+}
+
+.page-footer {
+    background-color: #99d4d8;
+}
+
+.teal {
+    width: 60px;
+}
