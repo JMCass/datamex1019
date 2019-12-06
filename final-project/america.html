@@ -1,0 +1,2305 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43b3e3409f2347698e6fa94b7572511e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_43b3e3409f2347698e6fa94b7572511e" ></div>
+        
+</body>
+<script>    
+    
+            var map_43b3e3409f2347698e6fa94b7572511e = L.map(
+                "map_43b3e3409f2347698e6fa94b7572511e",
+                {
+                    center: [19.302778, -99.150556],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fd7c552e7b4a42ed8c0bf0d2680b2de4 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+            var circle_marker_adf09051b5e6489e9f36ef897c48fa9c = L.circleMarker(
+                [-38.017944, -57.582333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_4d8f4476653e43b7937360d58023d79d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a8d6bf7813904d7cae58e7fc07566212 = $(`<div id="html_a8d6bf7813904d7cae58e7fc07566212" style="width: 100.0%; height: 100.0%;">Name: José María Minella<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_4d8f4476653e43b7937360d58023d79d.setContent(html_a8d6bf7813904d7cae58e7fc07566212);
+        
+
+        circle_marker_adf09051b5e6489e9f36ef897c48fa9c.bindPopup(popup_4d8f4476653e43b7937360d58023d79d)
+        ;
+
+        
+    
+    
+            var circle_marker_995749006012494397961bd35ea0ad59 = L.circleMarker(
+                [-34.606028, -58.47258299999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_0fa26bb0a6054b45ab47b2a6573266e7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ba55485963bb4329a416370c9b879a61 = $(`<div id="html_ba55485963bb4329a416370c9b879a61" style="width: 100.0%; height: 100.0%;">Name: Autocrédito Diego Armando Maradona<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_0fa26bb0a6054b45ab47b2a6573266e7.setContent(html_ba55485963bb4329a416370c9b879a61);
+        
+
+        circle_marker_995749006012494397961bd35ea0ad59.bindPopup(popup_0fa26bb0a6054b45ab47b2a6573266e7)
+        ;
+
+        
+    
+    
+            var circle_marker_e4a35d6e20bb44309d46e96514dcd367 = L.circleMarker(
+                [-26.836281, -65.229606],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_6c5d1f9fd2084361b68da8cf00df7f9b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3408f80011504af2aef9600141f97bcc = $(`<div id="html_3408f80011504af2aef9600141f97bcc" style="width: 100.0%; height: 100.0%;">Name: La Ciudadela<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_6c5d1f9fd2084361b68da8cf00df7f9b.setContent(html_3408f80011504af2aef9600141f97bcc);
+        
+
+        circle_marker_e4a35d6e20bb44309d46e96514dcd367.bindPopup(popup_6c5d1f9fd2084361b68da8cf00df7f9b)
+        ;
+
+        
+    
+    
+            var circle_marker_b47dc20c987b4c99b9e5a3eba4b0ab22 = L.circleMarker(
+                [-34.750847, -58.38754399999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e85d2f1b9f3f4f1a9ae4dc336bdc731f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_230aaeaaa17a4d7eab68d2df28d6be31 = $(`<div id="html_230aaeaaa17a4d7eab68d2df28d6be31" style="width: 100.0%; height: 100.0%;">Name: Florencio Sola<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_e85d2f1b9f3f4f1a9ae4dc336bdc731f.setContent(html_230aaeaaa17a4d7eab68d2df28d6be31);
+        
+
+        circle_marker_b47dc20c987b4c99b9e5a3eba4b0ab22.bindPopup(popup_e85d2f1b9f3f4f1a9ae4dc336bdc731f)
+        ;
+
+        
+    
+    
+            var circle_marker_e41001b98ff84480ba76563c2eab2e6c = L.circleMarker(
+                [-31.4035, -64.206272],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_efc6c81b040040c8a488b18cf591e9bb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ae7203d6837f44bb8343b060d56eb623 = $(`<div id="html_ae7203d6837f44bb8343b060d56eb623" style="width: 100.0%; height: 100.0%;">Name: Estadio Julio César Villagra "El Gigante de Alberdi"<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_efc6c81b040040c8a488b18cf591e9bb.setContent(html_ae7203d6837f44bb8343b060d56eb623);
+        
+
+        circle_marker_e41001b98ff84480ba76563c2eab2e6c.bindPopup(popup_efc6c81b040040c8a488b18cf591e9bb)
+        ;
+
+        
+    
+    
+            var circle_marker_616732393988446bb6be69c88f4ce9af = L.circleMarker(
+                [-34.635556, -58.364722],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_969b5a8c715d478dba93eb6ad3ac3d7e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_66389d2262474d1cbb63fe42cd589d0d = $(`<div id="html_66389d2262474d1cbb63fe42cd589d0d" style="width: 100.0%; height: 100.0%;">Name: Alberto J. Armando "La Bombonera"<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_969b5a8c715d478dba93eb6ad3ac3d7e.setContent(html_66389d2262474d1cbb63fe42cd589d0d);
+        
+
+        circle_marker_616732393988446bb6be69c88f4ce9af.bindPopup(popup_969b5a8c715d478dba93eb6ad3ac3d7e)
+        ;
+
+        
+    
+    
+            var circle_marker_cbf18bcc8687492f974032466eed35be = L.circleMarker(
+                [-31.662595, -60.72543100000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_2058a348582a4ce8b659713f75c1a9ef = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5af2f59451a34027bf1dc28d269992d7 = $(`<div id="html_5af2f59451a34027bf1dc28d269992d7" style="width: 100.0%; height: 100.0%;">Name: Brigadier General Estanislao López "El Cementerio de los Elefantes"<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_2058a348582a4ce8b659713f75c1a9ef.setContent(html_5af2f59451a34027bf1dc28d269992d7);
+        
+
+        circle_marker_cbf18bcc8687492f974032466eed35be.bindPopup(popup_2058a348582a4ce8b659713f75c1a9ef)
+        ;
+
+        
+    
+    
+            var circle_marker_16e02d07857544f9ae0994add71cc271 = L.circleMarker(
+                [-34.821753, -58.286511],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_f13767a8519142fe92b79c267854544d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c6e0677048c1474fadca94236f9d0833 = $(`<div id="html_c6e0677048c1474fadca94236f9d0833" style="width: 100.0%; height: 100.0%;">Name: Norberto "Tito" Tomaghello<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_f13767a8519142fe92b79c267854544d.setContent(html_c6e0677048c1474fadca94236f9d0833);
+        
+
+        circle_marker_16e02d07857544f9ae0994add71cc271.bindPopup(popup_f13767a8519142fe92b79c267854544d)
+        ;
+
+        
+    
+    
+            var circle_marker_dc73d1b8f7af4cf2bb50a200b8f26ab6 = L.circleMarker(
+                [-34.911925, -57.938793999999994],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_cf703f11df184886a7e94b778375416c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_83f07dc7d77d485eb687738f0e6942d4 = $(`<div id="html_83f07dc7d77d485eb687738f0e6942d4" style="width: 100.0%; height: 100.0%;">Name: Estadio Jorge Luis Hirschi<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_cf703f11df184886a7e94b778375416c.setContent(html_83f07dc7d77d485eb687738f0e6942d4);
+        
+
+        circle_marker_dc73d1b8f7af4cf2bb50a200b8f26ab6.bindPopup(popup_cf703f11df184886a7e94b778375416c)
+        ;
+
+        
+    
+    
+            var circle_marker_f1681d972fcd4f358f53f9d219b2bcc1 = L.circleMarker(
+                [-34.910975, -57.93259200000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_d7926bfd5c834797b5a059615e76fbb6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_225059ee140e4bf0b3d000fc80753e18 = $(`<div id="html_225059ee140e4bf0b3d000fc80753e18" style="width: 100.0%; height: 100.0%;">Name: Juan Carmelo Zerillo<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_d7926bfd5c834797b5a059615e76fbb6.setContent(html_225059ee140e4bf0b3d000fc80753e18);
+        
+
+        circle_marker_f1681d972fcd4f358f53f9d219b2bcc1.bindPopup(popup_d7926bfd5c834797b5a059615e76fbb6)
+        ;
+
+        
+    
+    
+            var circle_marker_8a17793135194a4c8f8a643de9da7f52 = L.circleMarker(
+                [-32.920278, -68.839444],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_027d7b8bb51940348f561b28897d8edc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b4dfe3b91348428c82812a3d3cac35fc = $(`<div id="html_b4dfe3b91348428c82812a3d3cac35fc" style="width: 100.0%; height: 100.0%;">Name: Feliciano Gambarte<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_027d7b8bb51940348f561b28897d8edc.setContent(html_b4dfe3b91348428c82812a3d3cac35fc);
+        
+
+        circle_marker_8a17793135194a4c8f8a643de9da7f52.bindPopup(popup_027d7b8bb51940348f561b28897d8edc)
+        ;
+
+        
+    
+    
+            var circle_marker_919d6bb391c44645ac5b4fd43b71c28c = L.circleMarker(
+                [-34.643494, -58.396511],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_19afbd3d8cd340eb8c1952da00506d88 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_df98ad75eaf643c5839494ad244230dd = $(`<div id="html_df98ad75eaf643c5839494ad244230dd" style="width: 100.0%; height: 100.0%;">Name: Tomás Adolfo Ducó<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_19afbd3d8cd340eb8c1952da00506d88.setContent(html_df98ad75eaf643c5839494ad244230dd);
+        
+
+        circle_marker_919d6bb391c44645ac5b4fd43b71c28c.bindPopup(popup_19afbd3d8cd340eb8c1952da00506d88)
+        ;
+
+        
+    
+    
+            var circle_marker_591349469b7448538cfff7fa0ee1ffeb = L.circleMarker(
+                [-34.670266999999996, -58.370968999999995],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_35b9a40722bc44249473b4080b89c0ae = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a8e70d4feb97464096d88f463fe44c8d = $(`<div id="html_a8e70d4feb97464096d88f463fe44c8d" style="width: 100.0%; height: 100.0%;">Name: Libertadores de América<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_35b9a40722bc44249473b4080b89c0ae.setContent(html_a8e70d4feb97464096d88f463fe44c8d);
+        
+
+        circle_marker_591349469b7448538cfff7fa0ee1ffeb.bindPopup(popup_35b9a40722bc44249473b4080b89c0ae)
+        ;
+
+        
+    
+    
+            var circle_marker_e8412d576a32445cbf8265e629032476 = L.circleMarker(
+                [-34.717667, -58.38380600000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_42a119c1bfcc41908fdf1c1d94280127 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bc7c66b420924db4a9810f18c7bd5db0 = $(`<div id="html_bc7c66b420924db4a9810f18c7bd5db0" style="width: 100.0%; height: 100.0%;">Name: Estadio Ciudad de Lanús-Néstor Díaz Pérez<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_42a119c1bfcc41908fdf1c1d94280127.setContent(html_bc7c66b420924db4a9810f18c7bd5db0);
+        
+
+        circle_marker_e8412d576a32445cbf8265e629032476.bindPopup(popup_42a119c1bfcc41908fdf1c1d94280127)
+        ;
+
+        
+    
+    
+            var circle_marker_6d03135447a4456bb2a77053c327f7af = L.circleMarker(
+                [-32.956056, -60.661443999999996],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_80eb3903ff5d4e38ac83cce36a052da0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e35ff1008dd64df993e2746e91ca3dff = $(`<div id="html_e35ff1008dd64df993e2746e91ca3dff" style="width: 100.0%; height: 100.0%;">Name: Marcelo Bielsa<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_80eb3903ff5d4e38ac83cce36a052da0.setContent(html_e35ff1008dd64df993e2746e91ca3dff);
+        
+
+        circle_marker_6d03135447a4456bb2a77053c327f7af.bindPopup(popup_80eb3903ff5d4e38ac83cce36a052da0)
+        ;
+
+        
+    
+    
+            var circle_marker_ab8ed52f6e0f43b09f20834d4f8de3b7 = L.circleMarker(
+                [-31.743031, -60.507597],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_976813267e604c68a87d21fd4e41835e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ccf11892523f421fa7008e127a4e12af = $(`<div id="html_ccf11892523f421fa7008e127a4e12af" style="width: 100.0%; height: 100.0%;">Name: Estadio Presbítero Bartolomé Grella<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_976813267e604c68a87d21fd4e41835e.setContent(html_ccf11892523f421fa7008e127a4e12af);
+        
+
+        circle_marker_ab8ed52f6e0f43b09f20834d4f8de3b7.bindPopup(popup_976813267e604c68a87d21fd4e41835e)
+        ;
+
+        
+    
+    
+            var circle_marker_77f61cbec8704596b9617d25708bda6d = L.circleMarker(
+                [-34.666603, -58.368556000000005],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_734bb9f474444b39a6685abf08a3f847 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8505b577fb194f08ac420e566231184b = $(`<div id="html_8505b577fb194f08ac420e566231184b" style="width: 100.0%; height: 100.0%;">Name: Estadio Presidente Perón<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_734bb9f474444b39a6685abf08a3f847.setContent(html_8505b577fb194f08ac420e566231184b);
+        
+
+        circle_marker_77f61cbec8704596b9617d25708bda6d.bindPopup(popup_734bb9f474444b39a6685abf08a3f847)
+        ;
+
+        
+    
+    
+            var circle_marker_4ced2c4f647c47108b861d2a67d148ad = L.circleMarker(
+                [-34.545278, -58.44944399999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_57873ea236af42baa6ff1bc8353a0766 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a49dc8f8c582438cacaa1533f094e302 = $(`<div id="html_a49dc8f8c582438cacaa1533f094e302" style="width: 100.0%; height: 100.0%;">Name: Antonio Vespucio Liberti "El Monumental"<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_57873ea236af42baa6ff1bc8353a0766.setContent(html_a49dc8f8c582438cacaa1533f094e302);
+        
+
+        circle_marker_4ced2c4f647c47108b861d2a67d148ad.bindPopup(popup_57873ea236af42baa6ff1bc8353a0766)
+        ;
+
+        
+    
+    
+            var circle_marker_69dae197464a40d2881ea9c587dcbed0 = L.circleMarker(
+                [-32.913996999999995, -60.674567],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_192bef26b2054feda872dbd69ab8a6c9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_04643191bbab4c4a862ce78c50bcc2a2 = $(`<div id="html_04643191bbab4c4a862ce78c50bcc2a2" style="width: 100.0%; height: 100.0%;">Name: Gigante de Arroyito<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_192bef26b2054feda872dbd69ab8a6c9.setContent(html_04643191bbab4c4a862ce78c50bcc2a2);
+        
+
+        circle_marker_69dae197464a40d2881ea9c587dcbed0.bindPopup(popup_192bef26b2054feda872dbd69ab8a6c9)
+        ;
+
+        
+    
+    
+            var circle_marker_8f37cdf6a1b846d4b874415033d4827b = L.circleMarker(
+                [-34.652064, -58.440118999999996],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_b5fc4f16b31b483c8e760f4377888f2b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fc048eead5454f29a95c81b20dddd9a5 = $(`<div id="html_fc048eead5454f29a95c81b20dddd9a5" style="width: 100.0%; height: 100.0%;">Name: Estadio Pedro Bidegain<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_b5fc4f16b31b483c8e760f4377888f2b.setContent(html_fc048eead5454f29a95c81b20dddd9a5);
+        
+
+        circle_marker_8f37cdf6a1b846d4b874415033d4827b.bindPopup(popup_b5fc4f16b31b483c8e760f4377888f2b)
+        ;
+
+        
+    
+    
+            var circle_marker_cf6e4b7f0b5640ff90fe011944088ef0 = L.circleMarker(
+                [-31.519847, -68.530289],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_9c30f1324cb94b74880271004eddad34 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_207c9754e0f64684baa00ccb034ab4f8 = $(`<div id="html_207c9754e0f64684baa00ccb034ab4f8" style="width: 100.0%; height: 100.0%;">Name: Estadio Ingeniero Hilario Sánchez<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_9c30f1324cb94b74880271004eddad34.setContent(html_207c9754e0f64684baa00ccb034ab4f8);
+        
+
+        circle_marker_cf6e4b7f0b5640ff90fe011944088ef0.bindPopup(popup_9c30f1324cb94b74880271004eddad34)
+        ;
+
+        
+    
+    
+            var circle_marker_ef1c7e523b6a474c90a8ed0576e0bc9d = L.circleMarker(
+                [-26.836281, -65.229606],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_10f320a559f642f1b5265091bd125dc9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8f50708c880f4410a40bbe21af1b3204 = $(`<div id="html_8f50708c880f4410a40bbe21af1b3204" style="width: 100.0%; height: 100.0%;">Name: La Ciudadela<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_10f320a559f642f1b5265091bd125dc9.setContent(html_8f50708c880f4410a40bbe21af1b3204);
+        
+
+        circle_marker_ef1c7e523b6a474c90a8ed0576e0bc9d.bindPopup(popup_10f320a559f642f1b5265091bd125dc9)
+        ;
+
+        
+    
+    
+            var circle_marker_3eb1eecbb8e24a59b07eafeb457502e4 = L.circleMarker(
+                [-31.449167, -64.175278],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_cfec11b7f51b4c5f94145bb15b78eaf4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_efe6e65fa29d4807bd47e24c3be05bca = $(`<div id="html_efe6e65fa29d4807bd47e24c3be05bca" style="width: 100.0%; height: 100.0%;">Name: Boutique de Barrio Jardín<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_cfec11b7f51b4c5f94145bb15b78eaf4.setContent(html_efe6e65fa29d4807bd47e24c3be05bca);
+        
+
+        circle_marker_3eb1eecbb8e24a59b07eafeb457502e4.bindPopup(popup_cfec11b7f51b4c5f94145bb15b78eaf4)
+        ;
+
+        
+    
+    
+            var circle_marker_ae9a9aa15e504722b2c8ccd5fbc3b782 = L.circleMarker(
+                [-34.449333, -58.542218999999996],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_6bd8a61eb2604b80a58e6da6a377d67d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9d450d68e5e5474a9f43b635a85d51b2 = $(`<div id="html_9d450d68e5e5474a9f43b635a85d51b2" style="width: 100.0%; height: 100.0%;">Name: Estadio José Dellagiovanna<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_6bd8a61eb2604b80a58e6da6a377d67d.setContent(html_9d450d68e5e5474a9f43b635a85d51b2);
+        
+
+        circle_marker_ae9a9aa15e504722b2c8ccd5fbc3b782.bindPopup(popup_6bd8a61eb2604b80a58e6da6a377d67d)
+        ;
+
+        
+    
+    
+            var circle_marker_6d7e2ec8532741e6938e9eca72beb540 = L.circleMarker(
+                [-31.631853000000003, -60.715867],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e172fb8cd85a43a7bc461cfbf0efc90e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b5510622593c462bb51e85c32adc3b80 = $(`<div id="html_b5510622593c462bb51e85c32adc3b80" style="width: 100.0%; height: 100.0%;">Name: Estadio 15 de Abril<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_e172fb8cd85a43a7bc461cfbf0efc90e.setContent(html_b5510622593c462bb51e85c32adc3b80);
+        
+
+        circle_marker_6d7e2ec8532741e6938e9eca72beb540.bindPopup(popup_e172fb8cd85a43a7bc461cfbf0efc90e)
+        ;
+
+        
+    
+    
+            var circle_marker_38a5f1ccfc2c4dd7a11b414613d734e5 = L.circleMarker(
+                [-34.635375, -58.520711],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_5199c64a3c8b465284a9863e6d2b66cf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cef273615e81413ea6de0a0645082483 = $(`<div id="html_cef273615e81413ea6de0a0645082483" style="width: 100.0%; height: 100.0%;">Name: José Amalfitani<br>Country: Argentina<br>Division: SAF</div>`)[0];
+            popup_5199c64a3c8b465284a9863e6d2b66cf.setContent(html_cef273615e81413ea6de0a0645082483);
+        
+
+        circle_marker_38a5f1ccfc2c4dd7a11b414613d734e5.bindPopup(popup_5199c64a3c8b465284a9863e6d2b66cf)
+        ;
+
+        
+    
+    
+            var circle_marker_fb1a903839ba4aa595245476cfe627d3 = L.circleMarker(
+                [-19.908333, -43.917778000000006],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_30e7afecc5964fad8c3947506181ff25 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6d314e1c6e8d42d2b30929cd1fc56013 = $(`<div id="html_6d314e1c6e8d42d2b30929cd1fc56013" style="width: 100.0%; height: 100.0%;">Name: Estadio Raimundo Sampaio<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_30e7afecc5964fad8c3947506181ff25.setContent(html_6d314e1c6e8d42d2b30929cd1fc56013);
+        
+
+        circle_marker_fb1a903839ba4aa595245476cfe627d3.bindPopup(popup_30e7afecc5964fad8c3947506181ff25)
+        ;
+
+        
+    
+    
+            var circle_marker_c77d6b61a3934421af684e6137bdcdfd = L.circleMarker(
+                [-19.908333, -43.917778000000006],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_a5fec10e3da74082ba78086cff650eac = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b06f63367b5745a5b69bbc38471336d1 = $(`<div id="html_b06f63367b5745a5b69bbc38471336d1" style="width: 100.0%; height: 100.0%;">Name: Estadio Raimundo Sampaio<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_a5fec10e3da74082ba78086cff650eac.setContent(html_b06f63367b5745a5b69bbc38471336d1);
+        
+
+        circle_marker_c77d6b61a3934421af684e6137bdcdfd.bindPopup(popup_a5fec10e3da74082ba78086cff650eac)
+        ;
+
+        
+    
+    
+            var circle_marker_77ef66de3ecb44ceafe3352ffef1b44a = L.circleMarker(
+                [-25.448332999999998, -49.276944],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_3311c016bef54481b0f58a5a09757c83 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_94d4482f23564edeb30d84996159a96d = $(`<div id="html_94d4482f23564edeb30d84996159a96d" style="width: 100.0%; height: 100.0%;">Name: Arena da Baixada<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_3311c016bef54481b0f58a5a09757c83.setContent(html_94d4482f23564edeb30d84996159a96d);
+        
+
+        circle_marker_77ef66de3ecb44ceafe3352ffef1b44a.bindPopup(popup_3311c016bef54481b0f58a5a09757c83)
+        ;
+
+        
+    
+    
+            var circle_marker_f8a221840dd14a5f94bd38d3b1338bdd = L.circleMarker(
+                [-12.978819, -38.504253000000006],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_692274483b8f41608a15cdb5b2930faa = L.popup({"maxWidth": "100%"});
+
+        
+            var html_35b19222072f47c7a24ed2d64e8ed40a = $(`<div id="html_35b19222072f47c7a24ed2d64e8ed40a" style="width: 100.0%; height: 100.0%;">Name: Arena Fonte Nova<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_692274483b8f41608a15cdb5b2930faa.setContent(html_35b19222072f47c7a24ed2d64e8ed40a);
+        
+
+        circle_marker_f8a221840dd14a5f94bd38d3b1338bdd.bindPopup(popup_692274483b8f41608a15cdb5b2930faa)
+        ;
+
+        
+    
+    
+            var circle_marker_bf0bc70599644a2b9e4a5391ff0a0600 = L.circleMarker(
+                [-22.893172, -43.292269],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_bac6a81eed9b47ae8bd1a8a23b0e2fa9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8cda658382934832ba5a2e85408adf05 = $(`<div id="html_8cda658382934832ba5a2e85408adf05" style="width: 100.0%; height: 100.0%;">Name: Estadio Nilton Santos<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_bac6a81eed9b47ae8bd1a8a23b0e2fa9.setContent(html_8cda658382934832ba5a2e85408adf05);
+        
+
+        circle_marker_bf0bc70599644a2b9e4a5391ff0a0600.bindPopup(popup_bac6a81eed9b47ae8bd1a8a23b0e2fa9)
+        ;
+
+        
+    
+    
+            var circle_marker_01f2e49020f64b3eb7693a5b2ff31c0c = L.circleMarker(
+                [-3.807267, -38.522481],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_91565fc510614e139a1be2f8997b02bd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f4a59162abea4cd1a138aacb75ad29ef = $(`<div id="html_f4a59162abea4cd1a138aacb75ad29ef" style="width: 100.0%; height: 100.0%;">Name: Estadio Castelão<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_91565fc510614e139a1be2f8997b02bd.setContent(html_f4a59162abea4cd1a138aacb75ad29ef);
+        
+
+        circle_marker_01f2e49020f64b3eb7693a5b2ff31c0c.bindPopup(popup_91565fc510614e139a1be2f8997b02bd)
+        ;
+
+        
+    
+    
+            var circle_marker_38129fd2885c48d48475aa7e483d0f78 = L.circleMarker(
+                [-27.1041, -52.607],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_313f8d5f0a1a475f98fd3be8946b4939 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ce5d0a91002c4d0096d0f9c4a33f784e = $(`<div id="html_ce5d0a91002c4d0096d0f9c4a33f784e" style="width: 100.0%; height: 100.0%;">Name: Arena Condá<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_313f8d5f0a1a475f98fd3be8946b4939.setContent(html_ce5d0a91002c4d0096d0f9c4a33f784e);
+        
+
+        circle_marker_38129fd2885c48d48475aa7e483d0f78.bindPopup(popup_313f8d5f0a1a475f98fd3be8946b4939)
+        ;
+
+        
+    
+    
+            var circle_marker_2f16d03e87b44bd192f0fbf9040c7ae8 = L.circleMarker(
+                [-19.865833, -43.970833],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_9bee6a7cdbc14c5fa0df9d027c44e48c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_457652b7731d4c83a3ecae5cbb0f853f = $(`<div id="html_457652b7731d4c83a3ecae5cbb0f853f" style="width: 100.0%; height: 100.0%;">Name: Mineirão<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_9bee6a7cdbc14c5fa0df9d027c44e48c.setContent(html_457652b7731d4c83a3ecae5cbb0f853f);
+        
+
+        circle_marker_2f16d03e87b44bd192f0fbf9040c7ae8.bindPopup(popup_9bee6a7cdbc14c5fa0df9d027c44e48c)
+        ;
+
+        
+    
+    
+            var circle_marker_6de6847f67d2497fbe57839ce1840e3f = L.circleMarker(
+                [-22.912167, -43.230164],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_ff108d7f06c6479088fcbe36a1a9e63a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4f47d71dd2804a33ab66fbf42358af39 = $(`<div id="html_4f47d71dd2804a33ab66fbf42358af39" style="width: 100.0%; height: 100.0%;">Name: Maracaná<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_ff108d7f06c6479088fcbe36a1a9e63a.setContent(html_4f47d71dd2804a33ab66fbf42358af39);
+        
+
+        circle_marker_6de6847f67d2497fbe57839ce1840e3f.bindPopup(popup_ff108d7f06c6479088fcbe36a1a9e63a)
+        ;
+
+        
+    
+    
+            var circle_marker_edf6580dcd4248bd95ac28eea8a0f09d = L.circleMarker(
+                [-29.973444, -51.194403],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e8d477d4781f484694ec89071e415823 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dae605f99aef4f359a47e8a06cf5a7b1 = $(`<div id="html_dae605f99aef4f359a47e8a06cf5a7b1" style="width: 100.0%; height: 100.0%;">Name: Arena do Grêmio<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_e8d477d4781f484694ec89071e415823.setContent(html_dae605f99aef4f359a47e8a06cf5a7b1);
+        
+
+        circle_marker_edf6580dcd4248bd95ac28eea8a0f09d.bindPopup(popup_e8d477d4781f484694ec89071e415823)
+        ;
+
+        
+    
+    
+            var circle_marker_54c2c1c8dfc246439fdaa273385d01f4 = L.circleMarker(
+                [-30.065614, -51.236086],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_1b31bf1030ea4a47a63696ab12a8cb8f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a5a0de61538541b88acc03ea8b488013 = $(`<div id="html_a5a0de61538541b88acc03ea8b488013" style="width: 100.0%; height: 100.0%;">Name: Beira-Rio<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_1b31bf1030ea4a47a63696ab12a8cb8f.setContent(html_a5a0de61538541b88acc03ea8b488013);
+        
+
+        circle_marker_54c2c1c8dfc246439fdaa273385d01f4.bindPopup(popup_1b31bf1030ea4a47a63696ab12a8cb8f)
+        ;
+
+        
+    
+    
+            var circle_marker_50140a31354f4284980d8c4c7973bd7d = L.circleMarker(
+                [-25.439444, -49.255833],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_71e7571e4ad8470981277796688638b0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_10b53282346b4590a52b1b9ef54a2037 = $(`<div id="html_10b53282346b4590a52b1b9ef54a2037" style="width: 100.0%; height: 100.0%;">Name: Estadio Durival de Britto e Silva<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_71e7571e4ad8470981277796688638b0.setContent(html_10b53282346b4590a52b1b9ef54a2037);
+        
+
+        circle_marker_50140a31354f4284980d8c4c7973bd7d.bindPopup(popup_71e7571e4ad8470981277796688638b0)
+        ;
+
+        
+    
+    
+            var circle_marker_7b2e7b51021a401590d053a2f4bfb262 = L.circleMarker(
+                [-23.951110999999997, -46.338889],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_bb60e732f18e4921a4c10808b98a0b2e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_13e813a58f38491ca15f95e774d57257 = $(`<div id="html_13e813a58f38491ca15f95e774d57257" style="width: 100.0%; height: 100.0%;">Name: Estadio Vila Belmiro<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_bb60e732f18e4921a4c10808b98a0b2e.setContent(html_13e813a58f38491ca15f95e774d57257);
+        
+
+        circle_marker_7b2e7b51021a401590d053a2f4bfb262.bindPopup(popup_bb60e732f18e4921a4c10808b98a0b2e)
+        ;
+
+        
+    
+    
+            var circle_marker_ca78a92cef6b4c7195ce20817f00f966 = L.circleMarker(
+                [-8.062953, -34.902981],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_45dc581334e447d59c78c9cbd385e3a8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f5af984d4a7a4e02913743b7c4df873a = $(`<div id="html_f5af984d4a7a4e02913743b7c4df873a" style="width: 100.0%; height: 100.0%;">Name: Estadio Ilha do Retiro<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_45dc581334e447d59c78c9cbd385e3a8.setContent(html_f5af984d4a7a4e02913743b7c4df873a);
+        
+
+        circle_marker_ca78a92cef6b4c7195ce20817f00f966.bindPopup(popup_45dc581334e447d59c78c9cbd385e3a8)
+        ;
+
+        
+    
+    
+            var circle_marker_0d775a7406a541cfbf9eab41a95f9084 = L.circleMarker(
+                [-12.919, -38.427],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_4508da94e62444c38158c65e8136733e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3b3cee52792547bba256fe28204e0586 = $(`<div id="html_3b3cee52792547bba256fe28204e0586" style="width: 100.0%; height: 100.0%;">Name: Barradão<br>Country: Brazil<br>Division: LIGA DO BRASIL</div>`)[0];
+            popup_4508da94e62444c38158c65e8136733e.setContent(html_3b3cee52792547bba256fe28204e0586);
+        
+
+        circle_marker_0d775a7406a541cfbf9eab41a95f9084.bindPopup(popup_4508da94e62444c38158c65e8136733e)
+        ;
+
+        
+    
+    
+            var circle_marker_d3a1533aea494fe49926624543169d54 = L.circleMarker(
+                [-33.540833, -70.578333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_62d2decde7c94a4bbd33db3966f17013 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dcd45ccddc354026940d62de4ac85072 = $(`<div id="html_dcd45ccddc354026940d62de4ac85072" style="width: 100.0%; height: 100.0%;">Name: Bicentenario de La Florida<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_62d2decde7c94a4bbd33db3966f17013.setContent(html_dcd45ccddc354026940d62de4ac85072);
+        
+
+        circle_marker_d3a1533aea494fe49926624543169d54.bindPopup(popup_62d2decde7c94a4bbd33db3966f17013)
+        ;
+
+        
+    
+    
+            var circle_marker_701e089d99574e0d8585171ec6192d45 = L.circleMarker(
+                [-23.670139000000002, -70.404583],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_d65c5f89e59a40a6b7f9fee1ed2d215d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c17a9577c7cd464aa7e9968921630587 = $(`<div id="html_c17a9577c7cd464aa7e9968921630587" style="width: 100.0%; height: 100.0%;">Name: Regional Calvo y Bascuñán<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_d65c5f89e59a40a6b7f9fee1ed2d215d.setContent(html_c17a9577c7cd464aa7e9968921630587);
+        
+
+        circle_marker_701e089d99574e0d8585171ec6192d45.bindPopup(popup_d65c5f89e59a40a6b7f9fee1ed2d215d)
+        ;
+
+        
+    
+    
+            var circle_marker_92fa0bbd798c49f69d9884899d14f6ff = L.circleMarker(
+                [-36.755556, -73.107222],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e199153434cb48db912dcd8c8267f1ac = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b379f68c1e2f4be99e040f508978ad7e = $(`<div id="html_b379f68c1e2f4be99e040f508978ad7e" style="width: 100.0%; height: 100.0%;">Name: Huachipato - CAP Acero<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_e199153434cb48db912dcd8c8267f1ac.setContent(html_b379f68c1e2f4be99e040f508978ad7e);
+        
+
+        circle_marker_92fa0bbd798c49f69d9884899d14f6ff.bindPopup(popup_e199153434cb48db912dcd8c8267f1ac)
+        ;
+
+        
+    
+    
+            var circle_marker_341deec5816049ca96c3f2354beba8c5 = L.circleMarker(
+                [-34.177764, -70.737719],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_d048b738c08a4695b8fc36a8c6f0b51d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d9702d79a0b74f168dd5f3ddccd4aeae = $(`<div id="html_d9702d79a0b74f168dd5f3ddccd4aeae" style="width: 100.0%; height: 100.0%;">Name: El Teniente<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_d048b738c08a4695b8fc36a8c6f0b51d.setContent(html_d9702d79a0b74f168dd5f3ddccd4aeae);
+        
+
+        circle_marker_341deec5816049ca96c3f2354beba8c5.bindPopup(popup_d048b738c08a4695b8fc36a8c6f0b51d)
+        ;
+
+        
+    
+    
+            var circle_marker_9ee63db713484b72992ae8de84fc9b40 = L.circleMarker(
+                [-33.520833, -70.67277800000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_8f2e84877aa24bb99f5f70c1c661172e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_52077a3019f94b9a9d59fc0e9b24a3fd = $(`<div id="html_52077a3019f94b9a9d59fc0e9b24a3fd" style="width: 100.0%; height: 100.0%;">Name: Municipal de La Cisterna<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_8f2e84877aa24bb99f5f70c1c661172e.setContent(html_52077a3019f94b9a9d59fc0e9b24a3fd);
+        
+
+        circle_marker_9ee63db713484b72992ae8de84fc9b40.bindPopup(popup_8f2e84877aa24bb99f5f70c1c661172e)
+        ;
+
+        
+    
+    
+            var circle_marker_cd1b23a726f24bfbaa2fa868b53d6e3a = L.circleMarker(
+                [-33.506611, -70.605944],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_8ecf6da1c76e4317bfd7906fd552b393 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a635845f4d8844649d6040ced65d085b = $(`<div id="html_a635845f4d8844649d6040ced65d085b" style="width: 100.0%; height: 100.0%;">Name: Monumental<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_8ecf6da1c76e4317bfd7906fd552b393.setContent(html_a635845f4d8844649d6040ced65d085b);
+        
+
+        circle_marker_cd1b23a726f24bfbaa2fa868b53d6e3a.bindPopup(popup_8ecf6da1c76e4317bfd7906fd552b393)
+        ;
+
+        
+    
+    
+            var circle_marker_5bf7358edace421f977f6e52a2223add = L.circleMarker(
+                [-34.974356, -71.230707],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_0a2a872f36b7494c970ae6d5bb000016 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a0c89db2cac547b69880b585494642c0 = $(`<div id="html_a0c89db2cac547b69880b585494642c0" style="width: 100.0%; height: 100.0%;">Name: La Granja<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_0a2a872f36b7494c970ae6d5bb000016.setContent(html_a0c89db2cac547b69880b585494642c0);
+        
+
+        circle_marker_5bf7358edace421f977f6e52a2223add.bindPopup(popup_0a2a872f36b7494c970ae6d5bb000016)
+        ;
+
+        
+    
+    
+            var circle_marker_40798eff3cd1406aa19cdaba558db13b = L.circleMarker(
+                [-20.235111, -70.145611],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_a0de87155c0c451d863699c410316d2d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_208c8e588fcb4d9682a471060cb4a859 = $(`<div id="html_208c8e588fcb4d9682a471060cb4a859" style="width: 100.0%; height: 100.0%;">Name: Municipal de Cavancha<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_a0de87155c0c451d863699c410316d2d.setContent(html_208c8e588fcb4d9682a471060cb4a859);
+        
+
+        circle_marker_40798eff3cd1406aa19cdaba558db13b.bindPopup(popup_a0de87155c0c451d863699c410316d2d)
+        ;
+
+        
+    
+    
+            var circle_marker_cd200bd37c054fca960346917c0b8844 = L.circleMarker(
+                [-38.742778, -72.619722],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_0f93c1fb6e564097ad180642b90a8eed = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4aa501d66bb045408f2ee14381efa1e7 = $(`<div id="html_4aa501d66bb045408f2ee14381efa1e7" style="width: 100.0%; height: 100.0%;">Name: Germán Becker<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_0f93c1fb6e564097ad180642b90a8eed.setContent(html_4aa501d66bb045408f2ee14381efa1e7);
+        
+
+        circle_marker_cd200bd37c054fca960346917c0b8844.bindPopup(popup_0f93c1fb6e564097ad180642b90a8eed)
+        ;
+
+        
+    
+    
+            var circle_marker_c3a3cf6a377e42488e819c979b25770c = L.circleMarker(
+                [-33.014396999999995, -71.53523299999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_632329bf311c43e8a4280b751bb52e61 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_52b729d46f0a43919861a12c6b5930e9 = $(`<div id="html_52b729d46f0a43919861a12c6b5930e9" style="width: 100.0%; height: 100.0%;">Name: Sausalito<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_632329bf311c43e8a4280b751bb52e61.setContent(html_52b729d46f0a43919861a12c6b5930e9);
+        
+
+        circle_marker_c3a3cf6a377e42488e819c979b25770c.bindPopup(popup_632329bf311c43e8a4280b751bb52e61)
+        ;
+
+        
+    
+    
+            var circle_marker_99b5233759d346919159b0ba5e7415e1 = L.circleMarker(
+                [-32.8876, -71.252],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_cf97de3ea6ce402d87a9698e7770df9f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_229270d8a5584411bca50251f3dee3d6 = $(`<div id="html_229270d8a5584411bca50251f3dee3d6" style="width: 100.0%; height: 100.0%;">Name: Municipal Lucio Fariña Fernández<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_cf97de3ea6ce402d87a9698e7770df9f.setContent(html_229270d8a5584411bca50251f3dee3d6);
+        
+
+        circle_marker_99b5233759d346919159b0ba5e7415e1.bindPopup(popup_cf97de3ea6ce402d87a9698e7770df9f)
+        ;
+
+        
+    
+    
+            var circle_marker_6d91a981405a41959064b6101303e19a = L.circleMarker(
+                [-33.404553, -70.659017],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_3039a1c3d7e342f89c4e4c9bfa1656f0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f507a9005c204d39bf69f0e4a759d663 = $(`<div id="html_f507a9005c204d39bf69f0e4a759d663" style="width: 100.0%; height: 100.0%;">Name: Santa Laura<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_3039a1c3d7e342f89c4e4c9bfa1656f0.setContent(html_f507a9005c204d39bf69f0e4a759d663);
+        
+
+        circle_marker_6d91a981405a41959064b6101303e19a.bindPopup(popup_3039a1c3d7e342f89c4e4c9bfa1656f0)
+        ;
+
+        
+    
+    
+            var circle_marker_fdc6cf25d8774f47955cd96dc4103537 = L.circleMarker(
+                [-32.784167, -71.199444],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_ded89d420b3a40768d228907d1dcdef3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cf0535ba866c44f09d35298a6dd77b33 = $(`<div id="html_cf0535ba866c44f09d35298a6dd77b33" style="width: 100.0%; height: 100.0%;">Name: Nicolás Chahuán Nazar<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_ded89d420b3a40768d228907d1dcdef3.setContent(html_cf0535ba866c44f09d35298a6dd77b33);
+        
+
+        circle_marker_fdc6cf25d8774f47955cd96dc4103537.bindPopup(popup_ded89d420b3a40768d228907d1dcdef3)
+        ;
+
+        
+    
+    
+            var circle_marker_1474f6f6956447fdb1bea1b9b178f957 = L.circleMarker(
+                [-33.395944, -70.500656],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_58060f4d4e154f24abaee3553e7657af = L.popup({"maxWidth": "100%"});
+
+        
+            var html_410864ef68ad4e7b9b82f1e90d566551 = $(`<div id="html_410864ef68ad4e7b9b82f1e90d566551" style="width: 100.0%; height: 100.0%;">Name: San Carlos de Apoquindo<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_58060f4d4e154f24abaee3553e7657af.setContent(html_410864ef68ad4e7b9b82f1e90d566551);
+        
+
+        circle_marker_1474f6f6956447fdb1bea1b9b178f957.bindPopup(popup_58060f4d4e154f24abaee3553e7657af)
+        ;
+
+        
+    
+    
+            var circle_marker_990da234872f43f9a77d7ad28fba430b = L.circleMarker(
+                [-36.815278, -73.023333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_f4c78701628046398fb07b29ea65e9da = L.popup({"maxWidth": "100%"});
+
+        
+            var html_99c24b13131c4c54a3e4296095b58a4b = $(`<div id="html_99c24b13131c4c54a3e4296095b58a4b" style="width: 100.0%; height: 100.0%;">Name: Ester Roa Rebolledo<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_f4c78701628046398fb07b29ea65e9da.setContent(html_99c24b13131c4c54a3e4296095b58a4b);
+        
+
+        circle_marker_990da234872f43f9a77d7ad28fba430b.bindPopup(popup_f4c78701628046398fb07b29ea65e9da)
+        ;
+
+        
+    
+    
+            var circle_marker_094d202df2494aa591794dd9d4204bf9 = L.circleMarker(
+                [-33.464521999999995, -70.610586],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_f029e95f11154fe3b89e45ec1d6791a7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_37508c4df4754e8cbfb0e108890d5f98 = $(`<div id="html_37508c4df4754e8cbfb0e108890d5f98" style="width: 100.0%; height: 100.0%;">Name: Estadio Nacional de Chile<br>Country: Chile<br>Division: CAMP. SCOTIABANK</div>`)[0];
+            popup_f029e95f11154fe3b89e45ec1d6791a7.setContent(html_37508c4df4754e8cbfb0e108890d5f98);
+        
+
+        circle_marker_094d202df2494aa591794dd9d4204bf9.bindPopup(popup_f029e95f11154fe3b89e45ec1d6791a7)
+        ;
+
+        
+    
+    
+            var circle_marker_6e7bf2991965434d91fa245d762e2ff5 = L.circleMarker(
+                [7.236389999999999, -73.8642],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_507b13476f51453d98e3029057448b2b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_25ad900f6716429bb7b6f0a71567946f = $(`<div id="html_25ad900f6716429bb7b6f0a71567946f" style="width: 100.0%; height: 100.0%;">Name: Daniel Villa Zapata<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_507b13476f51453d98e3029057448b2b.setContent(html_25ad900f6716429bb7b6f0a71567946f);
+        
+
+        circle_marker_6e7bf2991965434d91fa245d762e2ff5.bindPopup(popup_507b13476f51453d98e3029057448b2b)
+        ;
+
+        
+    
+    
+            var circle_marker_668959029c0c42c8bf780d47ff34aaab = L.circleMarker(
+                [3.4298889999999997, -76.541083],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_61cc05cac3094316b93fa4d02660e0a4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c2c2bf62aee54e658a3a04fec786ed5d = $(`<div id="html_c2c2bf62aee54e658a3a04fec786ed5d" style="width: 100.0%; height: 100.0%;">Name: Olímpico Pascual Guerrero<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_61cc05cac3094316b93fa4d02660e0a4.setContent(html_c2c2bf62aee54e658a3a04fec786ed5d);
+        
+
+        circle_marker_668959029c0c42c8bf780d47ff34aaab.bindPopup(popup_61cc05cac3094316b93fa4d02660e0a4)
+        ;
+
+        
+    
+    
+            var circle_marker_3bc3fc9c42a74f3e834d273badfbfcae = L.circleMarker(
+                [7.136589, -73.116589],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_b6204c472e714e0986335331342876d7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a587c815ff3f46149d9339243e0965ec = $(`<div id="html_a587c815ff3f46149d9339243e0965ec" style="width: 100.0%; height: 100.0%;">Name: Estadio Alfonso López<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_b6204c472e714e0986335331342876d7.setContent(html_a587c815ff3f46149d9339243e0965ec);
+        
+
+        circle_marker_3bc3fc9c42a74f3e834d273badfbfcae.bindPopup(popup_b6204c472e714e0986335331342876d7)
+        ;
+
+        
+    
+    
+            var circle_marker_53178ac84d4946eb941364d315a3abb3 = L.circleMarker(
+                [2.936698, -75.274286],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_b5e7e072b8064c01a3382006d31763a4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2b30e4b46e7b4f699517c6cd361702ee = $(`<div id="html_2b30e4b46e7b4f699517c6cd361702ee" style="width: 100.0%; height: 100.0%;">Name: Guillermo Plazas Alcid<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_b5e7e072b8064c01a3382006d31763a4.setContent(html_2b30e4b46e7b4f699517c6cd361702ee);
+        
+
+        circle_marker_53178ac84d4946eb941364d315a3abb3.bindPopup(popup_b5e7e072b8064c01a3382006d31763a4)
+        ;
+
+        
+    
+    
+            var circle_marker_5b1fb390ded44b598b72da29f120aec7 = L.circleMarker(
+                [6.2568, -75.590172],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_f0d87d5374514f2ab207ada94e1ab816 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dfc4ee64bcc0492287e7891348731d5e = $(`<div id="html_dfc4ee64bcc0492287e7891348731d5e" style="width: 100.0%; height: 100.0%;">Name: Atanasio Girardot<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_f0d87d5374514f2ab207ada94e1ab816.setContent(html_dfc4ee64bcc0492287e7891348731d5e);
+        
+
+        circle_marker_5b1fb390ded44b598b72da29f120aec7.bindPopup(popup_f0d87d5374514f2ab207ada94e1ab816)
+        ;
+
+        
+    
+    
+            var circle_marker_3c4b2388675e4fcb975a238c1fc77067 = L.circleMarker(
+                [5.542233, -73.353131],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e9dbb27f687446f18e78ac99170747ab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cb45f9d68f00465c9ed2d0a4ccaaf53f = $(`<div id="html_cb45f9d68f00465c9ed2d0a4ccaaf53f" style="width: 100.0%; height: 100.0%;">Name: La Independencia<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_e9dbb27f687446f18e78ac99170747ab.setContent(html_cb45f9d68f00465c9ed2d0a4ccaaf53f);
+        
+
+        circle_marker_3c4b2388675e4fcb975a238c1fc77067.bindPopup(popup_e9dbb27f687446f18e78ac99170747ab)
+        ;
+
+        
+    
+    
+            var circle_marker_d0af14e4b278430882c2a141d7b882f2 = L.circleMarker(
+                [4.4295089999999995, -75.218325],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_79c63271a7f94682b23931c7b2aaf344 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_03f14e6c384f41e0bc20e415f80b67f7 = $(`<div id="html_03f14e6c384f41e0bc20e415f80b67f7" style="width: 100.0%; height: 100.0%;">Name: Manuel Murillo Toro<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_79c63271a7f94682b23931c7b2aaf344.setContent(html_03f14e6c384f41e0bc20e415f80b67f7);
+        
+
+        circle_marker_d0af14e4b278430882c2a141d7b882f2.bindPopup(popup_79c63271a7f94682b23931c7b2aaf344)
+        ;
+
+        
+    
+    
+            var circle_marker_2626bee3ba724acab38ccb34ad1e859f = L.circleMarker(
+                [3.521642, -76.417036],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_bb6b43958d7a4826a369ade72a155ecc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_86cc9d25ab8940d9b666b7330530d0f8 = $(`<div id="html_86cc9d25ab8940d9b666b7330530d0f8" style="width: 100.0%; height: 100.0%;">Name: Deportivo Cali<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_bb6b43958d7a4826a369ade72a155ecc.setContent(html_86cc9d25ab8940d9b666b7330530d0f8);
+        
+
+        circle_marker_2626bee3ba724acab38ccb34ad1e859f.bindPopup(popup_bb6b43958d7a4826a369ade72a155ecc)
+        ;
+
+        
+    
+    
+            var circle_marker_a27123894db34ffd8975650d487c2c0f = L.circleMarker(
+                [0.828889, -77.640556],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_73ac76858ad748d7837fc483942e549e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7063fdac827e4428bab185037bfb9342 = $(`<div id="html_7063fdac827e4428bab185037bfb9342" style="width: 100.0%; height: 100.0%;">Name: Estadio Municipal De Ipiales<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_73ac76858ad748d7837fc483942e549e.setContent(html_7063fdac827e4428bab185037bfb9342);
+        
+
+        circle_marker_a27123894db34ffd8975650d487c2c0f.bindPopup(popup_73ac76858ad748d7837fc483942e549e)
+        ;
+
+        
+    
+    
+            var circle_marker_32a2c5c29f8b4fd79a17edeb50178bbd = L.circleMarker(
+                [6.164108000000001, -75.59966999999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_7c4877604ccc4d608c14fefec4ae9fe8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f9ebab9ff8074b0380f05cf5dab8d282 = $(`<div id="html_f9ebab9ff8074b0380f05cf5dab8d282" style="width: 100.0%; height: 100.0%;">Name: Polideportivo Sur<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_7c4877604ccc4d608c14fefec4ae9fe8.setContent(html_f9ebab9ff8074b0380f05cf5dab8d282);
+        
+
+        circle_marker_32a2c5c29f8b4fd79a17edeb50178bbd.bindPopup(popup_7c4877604ccc4d608c14fefec4ae9fe8)
+        ;
+
+        
+    
+    
+            var circle_marker_7efccbabd7624612b3191799b258ad37 = L.circleMarker(
+                [6.2568, -75.590172],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_8395daaad56e4d6a980cef2cc75b9f88 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6ed2da3149ea4905b9703ee4e0b0e23b = $(`<div id="html_6ed2da3149ea4905b9703ee4e0b0e23b" style="width: 100.0%; height: 100.0%;">Name: Atanasio Girardot<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_8395daaad56e4d6a980cef2cc75b9f88.setContent(html_6ed2da3149ea4905b9703ee4e0b0e23b);
+        
+
+        circle_marker_7efccbabd7624612b3191799b258ad37.bindPopup(popup_8395daaad56e4d6a980cef2cc75b9f88)
+        ;
+
+        
+    
+    
+            var circle_marker_51d9463b9b964da8bbaffa7dd6fb3564 = L.circleMarker(
+                [4.645889, -74.0775],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_44bca98ba1624655a3b6bc24197c6c00 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_86f14f47d697462ab1c472c7faeceaf2 = $(`<div id="html_86f14f47d697462ab1c472c7faeceaf2" style="width: 100.0%; height: 100.0%;">Name: Nemesio Camacho El Campin<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_44bca98ba1624655a3b6bc24197c6c00.setContent(html_86f14f47d697462ab1c472c7faeceaf2);
+        
+
+        circle_marker_51d9463b9b964da8bbaffa7dd6fb3564.bindPopup(popup_44bca98ba1624655a3b6bc24197c6c00)
+        ;
+
+        
+    
+    
+            var circle_marker_646c90ed1a52458d97985d6818fcd2fe = L.circleMarker(
+                [8.711778, -75.827639],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_afff104fd00b4a88995ca7748b3710be = L.popup({"maxWidth": "100%"});
+
+        
+            var html_42f4197554784a019a61d0444852e03c = $(`<div id="html_42f4197554784a019a61d0444852e03c" style="width: 100.0%; height: 100.0%;">Name: Estadio Jaraguay<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_afff104fd00b4a88995ca7748b3710be.setContent(html_42f4197554784a019a61d0444852e03c);
+        
+
+        circle_marker_646c90ed1a52458d97985d6818fcd2fe.bindPopup(popup_afff104fd00b4a88995ca7748b3710be)
+        ;
+
+        
+    
+    
+            var circle_marker_70df5fe714e74431ae10bd47f2bc7528 = L.circleMarker(
+                [10.926861, -74.800722],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_a5f2c1781b5949db825db1dd696bc05f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_129e01793ebc48859ad2866fa473d0d6 = $(`<div id="html_129e01793ebc48859ad2866fa473d0d6" style="width: 100.0%; height: 100.0%;">Name: Metropolitano Roberto Meléndez<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_a5f2c1781b5949db825db1dd696bc05f.setContent(html_129e01793ebc48859ad2866fa473d0d6);
+        
+
+        circle_marker_70df5fe714e74431ae10bd47f2bc7528.bindPopup(popup_a5f2c1781b5949db825db1dd696bc05f)
+        ;
+
+        
+    
+    
+            var circle_marker_e6dd1859d2ff46f78dbcdcf702ea98ea = L.circleMarker(
+                [4.623545, -74.135611],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_4f150645a91a406fa2b109dbd5ef2eb5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_aad5d21c25a546b28bd060ea31e466cc = $(`<div id="html_aad5d21c25a546b28bd060ea31e466cc" style="width: 100.0%; height: 100.0%;">Name: Metropolitano de Techo<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_4f150645a91a406fa2b109dbd5ef2eb5.setContent(html_aad5d21c25a546b28bd060ea31e466cc);
+        
+
+        circle_marker_e6dd1859d2ff46f78dbcdcf702ea98ea.bindPopup(popup_4f150645a91a406fa2b109dbd5ef2eb5)
+        ;
+
+        
+    
+    
+            var circle_marker_8a437e2415834eef8e6aa35ec3fadae4 = L.circleMarker(
+                [6.169072, -75.626826],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_81ec2bc991cc4c9b81c3d51fd67dd3d9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e83c1adf766548b5bf0fd47b64ce6d81 = $(`<div id="html_e83c1adf766548b5bf0fd47b64ce6d81" style="width: 100.0%; height: 100.0%;">Name: Metropolitano Ciudad de Itagüí<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_81ec2bc991cc4c9b81c3d51fd67dd3d9.setContent(html_e83c1adf766548b5bf0fd47b64ce6d81);
+        
+
+        circle_marker_8a437e2415834eef8e6aa35ec3fadae4.bindPopup(popup_81ec2bc991cc4c9b81c3d51fd67dd3d9)
+        ;
+
+        
+    
+    
+            var circle_marker_9caeb50c6ed542908eb581d965f385d9 = L.circleMarker(
+                [4.645889, -74.0775],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e1f2009e09c2491db370985596078e5a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_52ae0e90bd2647b7887b8aee0c9ce519 = $(`<div id="html_52ae0e90bd2647b7887b8aee0c9ce519" style="width: 100.0%; height: 100.0%;">Name: Nemesio Camacho El Campin<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_e1f2009e09c2491db370985596078e5a.setContent(html_52ae0e90bd2647b7887b8aee0c9ce519);
+        
+
+        circle_marker_9caeb50c6ed542908eb581d965f385d9.bindPopup(popup_e1f2009e09c2491db370985596078e5a)
+        ;
+
+        
+    
+    
+            var circle_marker_ce7c6988a4334b8ab8b0692c72bc20b2 = L.circleMarker(
+                [5.056233, -75.489807],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_d8074644399246dcb5d292a320744ef3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_df8456923dda4688a05264a2f6da4849 = $(`<div id="html_df8456923dda4688a05264a2f6da4849" style="width: 100.0%; height: 100.0%;">Name: Palogrande<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_d8074644399246dcb5d292a320744ef3.setContent(html_df8456923dda4688a05264a2f6da4849);
+        
+
+        circle_marker_ce7c6988a4334b8ab8b0692c72bc20b2.bindPopup(popup_d8074644399246dcb5d292a320744ef3)
+        ;
+
+        
+    
+    
+            var circle_marker_ad3166fb8f9345a9ac2a391a9e8f7579 = L.circleMarker(
+                [5.542233, -73.353131],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_1e93f05b47484035a747ff33529c782c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e67ecfcd68b44483bd08961c0abbd279 = $(`<div id="html_e67ecfcd68b44483bd08961c0abbd279" style="width: 100.0%; height: 100.0%;">Name: La Independencia<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_1e93f05b47484035a747ff33529c782c.setContent(html_e67ecfcd68b44483bd08961c0abbd279);
+        
+
+        circle_marker_ad3166fb8f9345a9ac2a391a9e8f7579.bindPopup(popup_1e93f05b47484035a747ff33529c782c)
+        ;
+
+        
+    
+    
+            var circle_marker_c68803a2b5b14147a3dea4333c9538ee = L.circleMarker(
+                [6.146678, -75.372754],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_0c3423dc9a2d4bac8660152bfdb8171a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3888bdec34094949aed83507ab36e499 = $(`<div id="html_3888bdec34094949aed83507ab36e499" style="width: 100.0%; height: 100.0%;">Name: Estadio Alberto Grisales<br>Country: Colombia<br>Division: LIGA DIMAYOR</div>`)[0];
+            popup_0c3423dc9a2d4bac8660152bfdb8171a.setContent(html_3888bdec34094949aed83507ab36e499);
+        
+
+        circle_marker_c68803a2b5b14147a3dea4333c9538ee.bindPopup(popup_0c3423dc9a2d4bac8660152bfdb8171a)
+        ;
+
+        
+    
+    
+            var circle_marker_b1cce25800374be6a3c101fe46dac45d = L.circleMarker(
+                [19.302778, -99.15055600000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_c1f2f9feafd544e29b8f15dfdafc2d0c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a8d70804b44b4ba984ba68e73761bbd4 = $(`<div id="html_a8d70804b44b4ba984ba68e73761bbd4" style="width: 100.0%; height: 100.0%;">Name: Estadio Azteca<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_c1f2f9feafd544e29b8f15dfdafc2d0c.setContent(html_a8d70804b44b4ba984ba68e73761bbd4);
+        
+
+        circle_marker_b1cce25800374be6a3c101fe46dac45d.bindPopup(popup_c1f2f9feafd544e29b8f15dfdafc2d0c)
+        ;
+
+        
+    
+    
+            var circle_marker_7a337fee9df3499095a76dba31cef8a0 = L.circleMarker(
+                [20.705, -103.32813900000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_df9418c92b294d4ab6e8dd426a30043f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c8f6c15a20ba41c8b0136a65b3121dd1 = $(`<div id="html_c8f6c15a20ba41c8b0136a65b3121dd1" style="width: 100.0%; height: 100.0%;">Name: Etadio Jalisco<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_df9418c92b294d4ab6e8dd426a30043f.setContent(html_c8f6c15a20ba41c8b0136a65b3121dd1);
+        
+
+        circle_marker_7a337fee9df3499095a76dba31cef8a0.bindPopup(popup_df9418c92b294d4ab6e8dd426a30043f)
+        ;
+
+        
+    
+    
+            var circle_marker_c4c0546304e640bdaba14ffbf6eefcb9 = L.circleMarker(
+                [19.302778, -99.15055600000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_14a79ae89e72444dbdd9930ae65558dd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8bb1b57858034a6ea7869938e752b398 = $(`<div id="html_8bb1b57858034a6ea7869938e752b398" style="width: 100.0%; height: 100.0%;">Name: Estadio Azteca<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_14a79ae89e72444dbdd9930ae65558dd.setContent(html_8bb1b57858034a6ea7869938e752b398);
+        
+
+        circle_marker_c4c0546304e640bdaba14ffbf6eefcb9.bindPopup(popup_14a79ae89e72444dbdd9930ae65558dd)
+        ;
+
+        
+    
+    
+            var circle_marker_c877ef7aa0ba459dba7d173a76fab267 = L.circleMarker(
+                [20.681667, -103.462778],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_7316efb17e59405a9eec864c24bdfb66 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a99ba2d4b20e4656babdfe321674e41e = $(`<div id="html_a99ba2d4b20e4656babdfe321674e41e" style="width: 100.0%; height: 100.0%;">Name: Estadio Akron<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_7316efb17e59405a9eec864c24bdfb66.setContent(html_a99ba2d4b20e4656babdfe321674e41e);
+        
+
+        circle_marker_c877ef7aa0ba459dba7d173a76fab267.bindPopup(popup_7316efb17e59405a9eec864c24bdfb66)
+        ;
+
+        
+    
+    
+            var circle_marker_0946a9ecee6b42b6b55b8b371c7b2ee2 = L.circleMarker(
+                [21.115544, -101.657744],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_2c240dab5b794e818587b1e704f25ad5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0d1b2579821f4a3d8638d6f5e205b0a3 = $(`<div id="html_0d1b2579821f4a3d8638d6f5e205b0a3" style="width: 100.0%; height: 100.0%;">Name: Estadio Nou Camp<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_2c240dab5b794e818587b1e704f25ad5.setContent(html_0d1b2579821f4a3d8638d6f5e205b0a3);
+        
+
+        circle_marker_0946a9ecee6b42b6b55b8b371c7b2ee2.bindPopup(popup_2c240dab5b794e818587b1e704f25ad5)
+        ;
+
+        
+    
+    
+            var circle_marker_7e265067ab1440f8884c917a3610e749 = L.circleMarker(
+                [18.997222, -98.1975],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_7401418b85d54835974ce9fe81938c1a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_83585e03e1fd4e9496f2b60fc38f77f8 = $(`<div id="html_83585e03e1fd4e9496f2b60fc38f77f8" style="width: 100.0%; height: 100.0%;">Name: Olímpico de la B.U.A.P.<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_7401418b85d54835974ce9fe81938c1a.setContent(html_83585e03e1fd4e9496f2b60fc38f77f8);
+        
+
+        circle_marker_7e265067ab1440f8884c917a3610e749.bindPopup(popup_7401418b85d54835974ce9fe81938c1a)
+        ;
+
+        
+    
+    
+            var circle_marker_01900227c8064a42bc9bcca5fe613324 = L.circleMarker(
+                [19.718742000000002, -101.233622],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_bc7ddff619d9433aaf40c3dcb5fdcf33 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_453d7e4341504385af4bb2a136a109e5 = $(`<div id="html_453d7e4341504385af4bb2a136a109e5" style="width: 100.0%; height: 100.0%;">Name: Estadio Morelos<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_bc7ddff619d9433aaf40c3dcb5fdcf33.setContent(html_453d7e4341504385af4bb2a136a109e5);
+        
+
+        circle_marker_01900227c8064a42bc9bcca5fe613324.bindPopup(popup_bc7ddff619d9433aaf40c3dcb5fdcf33)
+        ;
+
+        
+    
+    
+            var circle_marker_afbf2f85d92d4f8cbec4dfa55518467e = L.circleMarker(
+                [25.670172, -100.2437],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_cc548c6afdbb4df8bd8978c9bc330836 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1983cdb06ec142efbd1a1532723e06e1 = $(`<div id="html_1983cdb06ec142efbd1a1532723e06e1" style="width: 100.0%; height: 100.0%;">Name: Estadio BBVA<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_cc548c6afdbb4df8bd8978c9bc330836.setContent(html_1983cdb06ec142efbd1a1532723e06e1);
+        
+
+        circle_marker_afbf2f85d92d4f8cbec4dfa55518467e.bindPopup(popup_cc548c6afdbb4df8bd8978c9bc330836)
+        ;
+
+        
+    
+    
+            var circle_marker_84d45679232a4219850feca01a2c6d53 = L.circleMarker(
+                [21.880653, -102.275483],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_14fe0133462c43dc91cc0602193006c2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_52a080eec9464a938b915c0f2209c110 = $(`<div id="html_52a080eec9464a938b915c0f2209c110" style="width: 100.0%; height: 100.0%;">Name: Estadio Victoria<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_14fe0133462c43dc91cc0602193006c2.setContent(html_52a080eec9464a938b915c0f2209c110);
+        
+
+        circle_marker_84d45679232a4219850feca01a2c6d53.bindPopup(popup_14fe0133462c43dc91cc0602193006c2)
+        ;
+
+        
+    
+    
+            var circle_marker_66b4d9d230674129b94842376c9a019c = L.circleMarker(
+                [20.105144, -98.756114],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_c44ed05ba4ff45e9a09887d00ebaa7bd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1162f59cbfc245b29eb3dfe40da46509 = $(`<div id="html_1162f59cbfc245b29eb3dfe40da46509" style="width: 100.0%; height: 100.0%;">Name: Estadio Hidalgo<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_c44ed05ba4ff45e9a09887d00ebaa7bd.setContent(html_1162f59cbfc245b29eb3dfe40da46509);
+        
+
+        circle_marker_66b4d9d230674129b94842376c9a019c.bindPopup(popup_c44ed05ba4ff45e9a09887d00ebaa7bd)
+        ;
+
+        
+    
+    
+            var circle_marker_d258df4acd9247dc86be91beacde8d4f = L.circleMarker(
+                [19.078056, -98.16444399999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_8dfb5f0a2ac54029a52f61b123f8353e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6ef7add7b4de4e06a34d5d363ebbae82 = $(`<div id="html_6ef7add7b4de4e06a34d5d363ebbae82" style="width: 100.0%; height: 100.0%;">Name: Estadio Cuauhtémoc<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_8dfb5f0a2ac54029a52f61b123f8353e.setContent(html_6ef7add7b4de4e06a34d5d363ebbae82);
+        
+
+        circle_marker_d258df4acd9247dc86be91beacde8d4f.bindPopup(popup_8dfb5f0a2ac54029a52f61b123f8353e)
+        ;
+
+        
+    
+    
+            var circle_marker_eba927fadc5a4da29573cf67372e2a6b = L.circleMarker(
+                [20.577642, -100.366539],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_51293f44134b4b4a8504b2aa5bc1aaa2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a2097b30078e4debb508caa46dac51b4 = $(`<div id="html_a2097b30078e4debb508caa46dac51b4" style="width: 100.0%; height: 100.0%;">Name: Estadio Corregidora<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_51293f44134b4b4a8504b2aa5bc1aaa2.setContent(html_a2097b30078e4debb508caa46dac51b4);
+        
+
+        circle_marker_eba927fadc5a4da29573cf67372e2a6b.bindPopup(popup_51293f44134b4b4a8504b2aa5bc1aaa2)
+        ;
+
+        
+    
+    
+            var circle_marker_48e6283c3cb94d349af1bf1fc106ce9b = L.circleMarker(
+                [25.629145, -103.379417],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_a42d2220c1fd4bdc90e46522bdf601b4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_79439306ba5e456aada33cd2bc1611fc = $(`<div id="html_79439306ba5e456aada33cd2bc1611fc" style="width: 100.0%; height: 100.0%;">Name: Estadio Corona<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_a42d2220c1fd4bdc90e46522bdf601b4.setContent(html_79439306ba5e456aada33cd2bc1611fc);
+        
+
+        circle_marker_48e6283c3cb94d349af1bf1fc106ce9b.bindPopup(popup_a42d2220c1fd4bdc90e46522bdf601b4)
+        ;
+
+        
+    
+    
+            var circle_marker_ad67045b677346c082a300f8c2bd064b = L.circleMarker(
+                [25.722806, -100.31205600000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_2f962d298dab416484948c3623685918 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0714d4f8beec41ffab2f40c27f36f96e = $(`<div id="html_0714d4f8beec41ffab2f40c27f36f96e" style="width: 100.0%; height: 100.0%;">Name: Estadio Universitario<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_2f962d298dab416484948c3623685918.setContent(html_0714d4f8beec41ffab2f40c27f36f96e);
+        
+
+        circle_marker_ad67045b677346c082a300f8c2bd064b.bindPopup(popup_2f962d298dab416484948c3623685918)
+        ;
+
+        
+    
+    
+            var circle_marker_29ccb4c363834ff8b8f316ea99fe4944 = L.circleMarker(
+                [32.506067, -116.99309199999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_1c8237ea837a4403be66810ba84dd552 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b46180025a1b4477ac593f330818ceb4 = $(`<div id="html_b46180025a1b4477ac593f330818ceb4" style="width: 100.0%; height: 100.0%;">Name: Estadio Caliente<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_1c8237ea837a4403be66810ba84dd552.setContent(html_b46180025a1b4477ac593f330818ceb4);
+        
+
+        circle_marker_29ccb4c363834ff8b8f316ea99fe4944.bindPopup(popup_1c8237ea837a4403be66810ba84dd552)
+        ;
+
+        
+    
+    
+            var circle_marker_fe3de7740c65468ea66f536135ca8420 = L.circleMarker(
+                [19.287285999999998, -99.666794],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_ce4456c730d6418e999ba070c4f7a25b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1367427853344f49b105c716a4b7b34f = $(`<div id="html_1367427853344f49b105c716a4b7b34f" style="width: 100.0%; height: 100.0%;">Name: Estadio Nemesio Diez<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_ce4456c730d6418e999ba070c4f7a25b.setContent(html_1367427853344f49b105c716a4b7b34f);
+        
+
+        circle_marker_fe3de7740c65468ea66f536135ca8420.bindPopup(popup_ce4456c730d6418e999ba070c4f7a25b)
+        ;
+
+        
+    
+    
+            var circle_marker_f034ddf58c984de9bc8ef1147ad2d9d5 = L.circleMarker(
+                [19.331928, -99.19210600000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_2e1b44342ac44fdaaf04ae4af62e768d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9d7843cee0c14a64a773bbf1ab9d086a = $(`<div id="html_9d7843cee0c14a64a773bbf1ab9d086a" style="width: 100.0%; height: 100.0%;">Name: Estadio Olímpico Universitario<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_2e1b44342ac44fdaaf04ae4af62e768d.setContent(html_9d7843cee0c14a64a773bbf1ab9d086a);
+        
+
+        circle_marker_f034ddf58c984de9bc8ef1147ad2d9d5.bindPopup(popup_2e1b44342ac44fdaaf04ae4af62e768d)
+        ;
+
+        
+    
+    
+            var circle_marker_dcece92c17164c98a728d6e25d3a64a2 = L.circleMarker(
+                [19.164222, -96.125017],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_f398f6d5931f4e05970bc3e19f38e819 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0ac03fc1df6b4548b59ecda0f1baeff8 = $(`<div id="html_0ac03fc1df6b4548b59ecda0f1baeff8" style="width: 100.0%; height: 100.0%;">Name: Estadio Luis Pirata Fuente<br>Country: Mexico<br>Division: LIGA BANCOMER MX</div>`)[0];
+            popup_f398f6d5931f4e05970bc3e19f38e819.setContent(html_0ac03fc1df6b4548b59ecda0f1baeff8);
+        
+
+        circle_marker_dcece92c17164c98a728d6e25d3a64a2.bindPopup(popup_f398f6d5931f4e05970bc3e19f38e819)
+        ;
+
+        
+    
+    
+            var circle_marker_f9213a2a98e7400498a67913bc381165 = L.circleMarker(
+                [33.755278000000004, -84.40083299999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_1c37416817784f68b58f4855391ecb2f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_68a76be199b64270b5b5833479a282b3 = $(`<div id="html_68a76be199b64270b5b5833479a282b3" style="width: 100.0%; height: 100.0%;">Name: Mercedes-Benz Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_1c37416817784f68b58f4855391ecb2f.setContent(html_68a76be199b64270b5b5833479a282b3);
+        
+
+        circle_marker_f9213a2a98e7400498a67913bc381165.bindPopup(popup_1c37416817784f68b58f4855391ecb2f)
+        ;
+
+        
+    
+    
+            var circle_marker_9188d7e655544a44aa47c33061e82195 = L.circleMarker(
+                [41.8625, -87.616667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_e7d51ad0cfe645c782d936f04a782121 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_eee15d012c3a41209f89460afc398a94 = $(`<div id="html_eee15d012c3a41209f89460afc398a94" style="width: 100.0%; height: 100.0%;">Name: Soldier Field<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_e7d51ad0cfe645c782d936f04a782121.setContent(html_eee15d012c3a41209f89460afc398a94);
+        
+
+        circle_marker_9188d7e655544a44aa47c33061e82195.bindPopup(popup_e7d51ad0cfe645c782d936f04a782121)
+        ;
+
+        
+    
+    
+            var circle_marker_c1819bc9053b4e3eb4db67f6610e599c = L.circleMarker(
+                [39.805556, -104.891944],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_3eef7e256ef34381a42eddadba2cb0e1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_67322ab6a5164db99e53c2e46edd20b3 = $(`<div id="html_67322ab6a5164db99e53c2e46edd20b3" style="width: 100.0%; height: 100.0%;">Name: DSG Park<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_3eef7e256ef34381a42eddadba2cb0e1.setContent(html_67322ab6a5164db99e53c2e46edd20b3);
+        
+
+        circle_marker_c1819bc9053b4e3eb4db67f6610e599c.bindPopup(popup_3eef7e256ef34381a42eddadba2cb0e1)
+        ;
+
+        
+    
+    
+            var circle_marker_ab6793d97ab84bce9ad27f7b1138ee6f = L.circleMarker(
+                [40.009444, -82.991111],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_a388e3c087a248f78ab5404eb2b2d584 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_323af9d51a874500b06e75c4ca89d7b6 = $(`<div id="html_323af9d51a874500b06e75c4ca89d7b6" style="width: 100.0%; height: 100.0%;">Name: Mapfre Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_a388e3c087a248f78ab5404eb2b2d584.setContent(html_323af9d51a874500b06e75c4ca89d7b6);
+        
+
+        circle_marker_ab6793d97ab84bce9ad27f7b1138ee6f.bindPopup(popup_a388e3c087a248f78ab5404eb2b2d584)
+        ;
+
+        
+    
+    
+            var circle_marker_9fb9f7fe3fd54427bb8d8f2b58933cce = L.circleMarker(
+                [38.868611, -76.998889],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_f48dff19bbff48c7a5deba28153e8612 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ecafaff029b64521a00fffa35b55e841 = $(`<div id="html_ecafaff029b64521a00fffa35b55e841" style="width: 100.0%; height: 100.0%;">Name: Audi Field<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_f48dff19bbff48c7a5deba28153e8612.setContent(html_ecafaff029b64521a00fffa35b55e841);
+        
+
+        circle_marker_9fb9f7fe3fd54427bb8d8f2b58933cce.bindPopup(popup_f48dff19bbff48c7a5deba28153e8612)
+        ;
+
+        
+    
+    
+            var circle_marker_2d6dbedd25684a95b133d8200d8fc0df = L.circleMarker(
+                [33.154458, -96.83515799999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_cdf7717ad05f455684d9fdfa32585434 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_98d03564b82e44b693db412812180e9e = $(`<div id="html_98d03564b82e44b693db412812180e9e" style="width: 100.0%; height: 100.0%;">Name: Toyota Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_cdf7717ad05f455684d9fdfa32585434.setContent(html_98d03564b82e44b693db412812180e9e);
+        
+
+        circle_marker_2d6dbedd25684a95b133d8200d8fc0df.bindPopup(popup_cdf7717ad05f455684d9fdfa32585434)
+        ;
+
+        
+    
+    
+            var circle_marker_28e3995b519c4aeebbafdb5af684d54c = L.circleMarker(
+                [29.7522, -95.3524],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_68ed609153ba4b3cab0d93ce9b5c648b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7744976c25344cfcab439d37f301093e = $(`<div id="html_7744976c25344cfcab439d37f301093e" style="width: 100.0%; height: 100.0%;">Name: BBVA Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_68ed609153ba4b3cab0d93ce9b5c648b.setContent(html_7744976c25344cfcab439d37f301093e);
+        
+
+        circle_marker_28e3995b519c4aeebbafdb5af684d54c.bindPopup(popup_68ed609153ba4b3cab0d93ce9b5c648b)
+        ;
+
+        
+    
+    
+            var circle_marker_24a49532158f4dfdb37a7e9a12cd0c9e = L.circleMarker(
+                [33.864444, -118.26111100000001],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_ff9275b440364dd3a7c43227f9f8a96e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f99d3e885f824e35b667361fe09c8a56 = $(`<div id="html_f99d3e885f824e35b667361fe09c8a56" style="width: 100.0%; height: 100.0%;">Name: Dignity Health Sports Park<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_ff9275b440364dd3a7c43227f9f8a96e.setContent(html_f99d3e885f824e35b667361fe09c8a56);
+        
+
+        circle_marker_24a49532158f4dfdb37a7e9a12cd0c9e.bindPopup(popup_ff9275b440364dd3a7c43227f9f8a96e)
+        ;
+
+        
+    
+    
+            var circle_marker_c0c7e7023178425b956ecac801ef9878 = L.circleMarker(
+                [34.013000000000005, -118.285],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_bf5cfcae349c48ae8dcea8c895b82a47 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f2a1fcafeeaf47ce8c609fc57825590e = $(`<div id="html_f2a1fcafeeaf47ce8c609fc57825590e" style="width: 100.0%; height: 100.0%;">Name: Banc of California Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_bf5cfcae349c48ae8dcea8c895b82a47.setContent(html_f2a1fcafeeaf47ce8c609fc57825590e);
+        
+
+        circle_marker_c0c7e7023178425b956ecac801ef9878.bindPopup(popup_bf5cfcae349c48ae8dcea8c895b82a47)
+        ;
+
+        
+    
+    
+            var circle_marker_f0151e3239cd429788b2552d19b16f60 = L.circleMarker(
+                [44.9528, -93.1651],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_9724f88f12934997a3f282b3ef62e4ce = L.popup({"maxWidth": "100%"});
+
+        
+            var html_edc01865fc044c43863e3e1b038d626a = $(`<div id="html_edc01865fc044c43863e3e1b038d626a" style="width: 100.0%; height: 100.0%;">Name: Allianz Field<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_9724f88f12934997a3f282b3ef62e4ce.setContent(html_edc01865fc044c43863e3e1b038d626a);
+        
+
+        circle_marker_f0151e3239cd429788b2552d19b16f60.bindPopup(popup_9724f88f12934997a3f282b3ef62e4ce)
+        ;
+
+        
+    
+    
+            var circle_marker_026f7cbc1cc449f6b8df8993770fdc03 = L.circleMarker(
+                [45.563056, -73.5525],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_579e1c82ff0b442f832d7eeba0024e5c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e95c5c14adfd47b3b679bdff71e42322 = $(`<div id="html_e95c5c14adfd47b3b679bdff71e42322" style="width: 100.0%; height: 100.0%;">Name: Saputo Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_579e1c82ff0b442f832d7eeba0024e5c.setContent(html_e95c5c14adfd47b3b679bdff71e42322);
+        
+
+        circle_marker_026f7cbc1cc449f6b8df8993770fdc03.bindPopup(popup_579e1c82ff0b442f832d7eeba0024e5c)
+        ;
+
+        
+    
+    
+            var circle_marker_00939a520c264374b69fe6462a40ff15 = L.circleMarker(
+                [42.090944, -71.264344],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_230270b34c134ab98320531ee879350c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_01d68c55af834fec8ba1836cbc6bcfe6 = $(`<div id="html_01d68c55af834fec8ba1836cbc6bcfe6" style="width: 100.0%; height: 100.0%;">Name: Gillette Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_230270b34c134ab98320531ee879350c.setContent(html_01d68c55af834fec8ba1836cbc6bcfe6);
+        
+
+        circle_marker_00939a520c264374b69fe6462a40ff15.bindPopup(popup_230270b34c134ab98320531ee879350c)
+        ;
+
+        
+    
+    
+            var circle_marker_7589a685827b4fc4a4274b1f982048d1 = L.circleMarker(
+                [40.829569, -73.926392],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_42b35cc29ee945c08475dddd8a2690f2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4002de38a3294136a906f71feb16b66a = $(`<div id="html_4002de38a3294136a906f71feb16b66a" style="width: 100.0%; height: 100.0%;">Name: Yankee Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_42b35cc29ee945c08475dddd8a2690f2.setContent(html_4002de38a3294136a906f71feb16b66a);
+        
+
+        circle_marker_7589a685827b4fc4a4274b1f982048d1.bindPopup(popup_42b35cc29ee945c08475dddd8a2690f2)
+        ;
+
+        
+    
+    
+            var circle_marker_320f803814e24bb5aad6f31fcfd0f4fb = L.circleMarker(
+                [40.736667, -74.150278],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_c3a90eb5de14416e90139f2151375d8a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3a6ed2ae95e14a698cf671bf3a68bb68 = $(`<div id="html_3a6ed2ae95e14a698cf671bf3a68bb68" style="width: 100.0%; height: 100.0%;">Name: Red Bull Arena<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_c3a90eb5de14416e90139f2151375d8a.setContent(html_3a6ed2ae95e14a698cf671bf3a68bb68);
+        
+
+        circle_marker_320f803814e24bb5aad6f31fcfd0f4fb.bindPopup(popup_c3a90eb5de14416e90139f2151375d8a)
+        ;
+
+        
+    
+    
+            var circle_marker_ef346c3e5780417ca498e4680f670295 = L.circleMarker(
+                [28.541065000000003, -81.38903499999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_2a39b45db5ea4f6990bda03a35e32e2c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9031bc1c726e494fafcb81e69ebfb030 = $(`<div id="html_9031bc1c726e494fafcb81e69ebfb030" style="width: 100.0%; height: 100.0%;">Name: Exploria Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_2a39b45db5ea4f6990bda03a35e32e2c.setContent(html_9031bc1c726e494fafcb81e69ebfb030);
+        
+
+        circle_marker_ef346c3e5780417ca498e4680f670295.bindPopup(popup_2a39b45db5ea4f6990bda03a35e32e2c)
+        ;
+
+        
+    
+    
+            var circle_marker_89e8c6eaea9b49d7b0325e073dbd3be7 = L.circleMarker(
+                [39.832221999999994, -75.378889],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_0dc6dda988834cbbbfc8adfdde52c010 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_96c80ff4e7724479bfa4b9d7c54cdd32 = $(`<div id="html_96c80ff4e7724479bfa4b9d7c54cdd32" style="width: 100.0%; height: 100.0%;">Name: PPL Park<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_0dc6dda988834cbbbfc8adfdde52c010.setContent(html_96c80ff4e7724479bfa4b9d7c54cdd32);
+        
+
+        circle_marker_89e8c6eaea9b49d7b0325e073dbd3be7.bindPopup(popup_0dc6dda988834cbbbfc8adfdde52c010)
+        ;
+
+        
+    
+    
+            var circle_marker_da0c1f731a644300b4033491cc228778 = L.circleMarker(
+                [45.521389, -122.691667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_32c05863f9214ef5a3369e3056edfba2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b1755769cf934fdfb681adee8a017c9a = $(`<div id="html_b1755769cf934fdfb681adee8a017c9a" style="width: 100.0%; height: 100.0%;">Name: Providence Park<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_32c05863f9214ef5a3369e3056edfba2.setContent(html_b1755769cf934fdfb681adee8a017c9a);
+        
+
+        circle_marker_da0c1f731a644300b4033491cc228778.bindPopup(popup_32c05863f9214ef5a3369e3056edfba2)
+        ;
+
+        
+    
+    
+            var circle_marker_c0ffd5337a594f368c9651744bdefeea = L.circleMarker(
+                [40.5829, -111.89299999999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_dbf89636af47476d901b5dbcf735fda0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d554e27a8eb745c699e3465ae68a7d3a = $(`<div id="html_d554e27a8eb745c699e3465ae68a7d3a" style="width: 100.0%; height: 100.0%;">Name: Rio Tinto Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_dbf89636af47476d901b5dbcf735fda0.setContent(html_d554e27a8eb745c699e3465ae68a7d3a);
+        
+
+        circle_marker_c0ffd5337a594f368c9651744bdefeea.bindPopup(popup_dbf89636af47476d901b5dbcf735fda0)
+        ;
+
+        
+    
+    
+            var circle_marker_7ab8bc966dde42d2ab74ea00c7ffd2cf = L.circleMarker(
+                [47.595278, -122.331667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_fc105a0b8a264a12b192fda185355e29 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ff8ad71e191f47d985503da9642443c2 = $(`<div id="html_ff8ad71e191f47d985503da9642443c2" style="width: 100.0%; height: 100.0%;">Name: CenturyLink Field<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_fc105a0b8a264a12b192fda185355e29.setContent(html_ff8ad71e191f47d985503da9642443c2);
+        
+
+        circle_marker_7ab8bc966dde42d2ab74ea00c7ffd2cf.bindPopup(popup_fc105a0b8a264a12b192fda185355e29)
+        ;
+
+        
+    
+    
+            var circle_marker_430e68ce46d942dfac242fe77ed83c1e = L.circleMarker(
+                [37.351389000000005, -121.925],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_784da21a867f4b74befb99f887741847 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0e8bbd6b1fb64377852d376e90769762 = $(`<div id="html_0e8bbd6b1fb64377852d376e90769762" style="width: 100.0%; height: 100.0%;">Name: Avaya Stadium<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_784da21a867f4b74befb99f887741847.setContent(html_0e8bbd6b1fb64377852d376e90769762);
+        
+
+        circle_marker_430e68ce46d942dfac242fe77ed83c1e.bindPopup(popup_784da21a867f4b74befb99f887741847)
+        ;
+
+        
+    
+    
+            var circle_marker_66cdf49b456742b1b42dd3b347ac215a = L.circleMarker(
+                [39.1218, -94.8237],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_a0c8d4229bdb4426b3763f41223e959f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_33056c363aba48b3b197c05e30938d9a = $(`<div id="html_33056c363aba48b3b197c05e30938d9a" style="width: 100.0%; height: 100.0%;">Name: Children's Mercy Park<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_a0c8d4229bdb4426b3763f41223e959f.setContent(html_33056c363aba48b3b197c05e30938d9a);
+        
+
+        circle_marker_66cdf49b456742b1b42dd3b347ac215a.bindPopup(popup_a0c8d4229bdb4426b3763f41223e959f)
+        ;
+
+        
+    
+    
+            var circle_marker_acab77c42dd94dff91007b51bcee8fa8 = L.circleMarker(
+                [43.632778, -79.418611],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_b72e0daddf0049158f1c2d7cb54bfe3a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_964a7b8f529445f5ab924b871511a249 = $(`<div id="html_964a7b8f529445f5ab924b871511a249" style="width: 100.0%; height: 100.0%;">Name: BMO Field<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_b72e0daddf0049158f1c2d7cb54bfe3a.setContent(html_964a7b8f529445f5ab924b871511a249);
+        
+
+        circle_marker_acab77c42dd94dff91007b51bcee8fa8.bindPopup(popup_b72e0daddf0049158f1c2d7cb54bfe3a)
+        ;
+
+        
+    
+    
+            var circle_marker_ca48464cc6674e7496ddf449de9116bd = L.circleMarker(
+                [49.276666999999996, -123.111944],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_43b3e3409f2347698e6fa94b7572511e);
+        
+    
+        var popup_0f1fd33f30b4442f83a7fbd46d5a562f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_67218e1b41bc4f6f91c0db356f51f7bb = $(`<div id="html_67218e1b41bc4f6f91c0db356f51f7bb" style="width: 100.0%; height: 100.0%;">Name: BC Place<br>Country: USA<br>Division: MLS</div>`)[0];
+            popup_0f1fd33f30b4442f83a7fbd46d5a562f.setContent(html_67218e1b41bc4f6f91c0db356f51f7bb);
+        
+
+        circle_marker_ca48464cc6674e7496ddf449de9116bd.bindPopup(popup_0f1fd33f30b4442f83a7fbd46d5a562f)
+        ;
+
+        
+    
+</script>

@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d126886056b04faa9107ef7583d8149b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_d126886056b04faa9107ef7583d8149b" ></div>
+        
+</body>
+<script>    
+    
+            var map_d126886056b04faa9107ef7583d8149b = L.map(
+                "map_d126886056b04faa9107ef7583d8149b",
+                {
+                    center: [29.528723, 106.502109],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e5825c1800464f809bafc600d1e9c7e5 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+            var circle_marker_53e17b43db284a1591c214cfa47b1130 = L.circleMarker(
+                [39.929528000000005, 116.44113899999999],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_b93423fb5f1c484696bc5fd64ea4c666 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5040fa69c04041b8823ec15eea82decb = $(`<div id="html_5040fa69c04041b8823ec15eea82decb" style="width: 100.0%; height: 100.0%;">Name: Workers Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_b93423fb5f1c484696bc5fd64ea4c666.setContent(html_5040fa69c04041b8823ec15eea82decb);
+        
+
+        circle_marker_53e17b43db284a1591c214cfa47b1130.bindPopup(popup_b93423fb5f1c484696bc5fd64ea4c666)
+        ;
+
+        
+    
+    
+            var circle_marker_a16fe9667a884e4392c78dd11ff9da05 = L.circleMarker(
+                [39.865694, 116.272625],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_3b5093ff0fc4404380d2a8d88baa232f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6c91fb7030b24644915adacbb1882cc1 = $(`<div id="html_6c91fb7030b24644915adacbb1882cc1" style="width: 100.0%; height: 100.0%;">Name: Beijing Fengtai Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_3b5093ff0fc4404380d2a8d88baa232f.setContent(html_6c91fb7030b24644915adacbb1882cc1);
+        
+
+        circle_marker_a16fe9667a884e4392c78dd11ff9da05.bindPopup(popup_3b5093ff0fc4404380d2a8d88baa232f)
+        ;
+
+        
+    
+    
+            var circle_marker_dea3fa585fa14395b3d2233facd5edd3 = L.circleMarker(
+                [43.864144, 125.33686100000001],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_9cf6dbc2bef54df1aa62774ee021b0cd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bad73d7fa7c740798c454bd81da05acc = $(`<div id="html_bad73d7fa7c740798c454bd81da05acc" style="width: 100.0%; height: 100.0%;">Name: Changchun Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_9cf6dbc2bef54df1aa62774ee021b0cd.setContent(html_bad73d7fa7c740798c454bd81da05acc);
+        
+
+        circle_marker_dea3fa585fa14395b3d2233facd5edd3.bindPopup(popup_9cf6dbc2bef54df1aa62774ee021b0cd)
+        ;
+
+        
+    
+    
+            var circle_marker_0a69a4c1dd754b878a4e13d4b368fdd1 = L.circleMarker(
+                [29.528723, 106.502109],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_15a321bf788e4165a3b096931feea929 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_11295724c64e46d2b6b799bf89a31c1f = $(`<div id="html_11295724c64e46d2b6b799bf89a31c1f" style="width: 100.0%; height: 100.0%;">Name: Chongqing Olympic Sports Center<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_15a321bf788e4165a3b096931feea929.setContent(html_11295724c64e46d2b6b799bf89a31c1f);
+        
+
+        circle_marker_0a69a4c1dd754b878a4e13d4b368fdd1.bindPopup(popup_15a321bf788e4165a3b096931feea929)
+        ;
+
+        
+    
+    
+            var circle_marker_21ead614eef840378d1facba5d6a9644 = L.circleMarker(
+                [38.906939, 121.604147],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_5b91713419704a239427f447db84dd2b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b2cae1a7507a4e27af05654fe010d58b = $(`<div id="html_b2cae1a7507a4e27af05654fe010d58b" style="width: 100.0%; height: 100.0%;">Name: Sportcenter of Dalian<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_5b91713419704a239427f447db84dd2b.setContent(html_b2cae1a7507a4e27af05654fe010d58b);
+        
+
+        circle_marker_21ead614eef840378d1facba5d6a9644.bindPopup(popup_5b91713419704a239427f447db84dd2b)
+        ;
+
+        
+    
+    
+            var circle_marker_3085cef79f6c47ac9fec1dfe6f403472 = L.circleMarker(
+                [23.138030999999998, 113.324661],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_d6b7cc48e38740c7a70947a1728d4c21 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f5f6867bddb64db6a3b7b86d4ffb73b4 = $(`<div id="html_f5f6867bddb64db6a3b7b86d4ffb73b4" style="width: 100.0%; height: 100.0%;">Name: Tianhe Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_d6b7cc48e38740c7a70947a1728d4c21.setContent(html_f5f6867bddb64db6a3b7b86d4ffb73b4);
+        
+
+        circle_marker_3085cef79f6c47ac9fec1dfe6f403472.bindPopup(popup_d6b7cc48e38740c7a70947a1728d4c21)
+        ;
+
+        
+    
+    
+            var circle_marker_bf1dd9398e5d4933bbcca1351c0127bb = L.circleMarker(
+                [23.139216, 113.26073899999999],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_0d28e99818554b8a84eeaf3df9ef0fd4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_84bb7437f99345afae3c7b1666a98d86 = $(`<div id="html_84bb7437f99345afae3c7b1666a98d86" style="width: 100.0%; height: 100.0%;">Name: Yuexiushan Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_0d28e99818554b8a84eeaf3df9ef0fd4.setContent(html_84bb7437f99345afae3c7b1666a98d86);
+        
+
+        circle_marker_bf1dd9398e5d4933bbcca1351c0127bb.bindPopup(popup_0d28e99818554b8a84eeaf3df9ef0fd4)
+        ;
+
+        
+    
+    
+            var circle_marker_3ff287de40414ead8bf572cc5b849bb9 = L.circleMarker(
+                [26.620721000000003, 106.605749],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_9674968a6ce94e66a927d9a4c62159b8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ea4297ea77d04458bd87e845fc510f47 = $(`<div id="html_ea4297ea77d04458bd87e845fc510f47" style="width: 100.0%; height: 100.0%;">Name: Guiyang Olympic Sports Center<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_9674968a6ce94e66a927d9a4c62159b8.setContent(html_ea4297ea77d04458bd87e845fc510f47);
+        
+
+        circle_marker_3ff287de40414ead8bf572cc5b849bb9.bindPopup(popup_9674968a6ce94e66a927d9a4c62159b8)
+        ;
+
+        
+    
+    
+            var circle_marker_92b98f178ed947acb0a6f486d80b2a7a = L.circleMarker(
+                [39.907325, 119.54770800000001],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_79a9f430310e4df0b489984c8535d039 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0d72d4203f2e49eda27f2e9cb97b1ec7 = $(`<div id="html_0d72d4203f2e49eda27f2e9cb97b1ec7" style="width: 100.0%; height: 100.0%;">Name: Qinhuangdao Arena<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_79a9f430310e4df0b489984c8535d039.setContent(html_0d72d4203f2e49eda27f2e9cb97b1ec7);
+        
+
+        circle_marker_92b98f178ed947acb0a6f486d80b2a7a.bindPopup(popup_79a9f430310e4df0b489984c8535d039)
+        ;
+
+        
+    
+    
+            var circle_marker_bfad6182a303498ea6f496f8c57f4e68 = L.circleMarker(
+                [34.7167, 113.725],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_2e17e3d85e3646b3b862f757d76b9346 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_928713032ad5497aa6ee0ed7807e2d82 = $(`<div id="html_928713032ad5497aa6ee0ed7807e2d82" style="width: 100.0%; height: 100.0%;">Name: Zhengzhou Hanghai Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_2e17e3d85e3646b3b862f757d76b9346.setContent(html_928713032ad5497aa6ee0ed7807e2d82);
+        
+
+        circle_marker_bfad6182a303498ea6f496f8c57f4e68.bindPopup(popup_2e17e3d85e3646b3b862f757d76b9346)
+        ;
+
+        
+    
+    
+            var circle_marker_006f82df7c794f069a5ac8f0cd371248 = L.circleMarker(
+                [32.010642, 118.7197],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_ff9768045b164a8e8440cc88cb8713bb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7b17fa2049ce45ec8e13e626b49e885b = $(`<div id="html_7b17fa2049ce45ec8e13e626b49e885b" style="width: 100.0%; height: 100.0%;">Name: Nanjing Olympic Sports Center<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_ff9768045b164a8e8440cc88cb8713bb.setContent(html_7b17fa2049ce45ec8e13e626b49e885b);
+        
+
+        circle_marker_006f82df7c794f069a5ac8f0cd371248.bindPopup(popup_ff9768045b164a8e8440cc88cb8713bb)
+        ;
+
+        
+    
+    
+            var circle_marker_de45638c9e1f42a782cd09d5aa77f815 = L.circleMarker(
+                [36.656646, 117.110052],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_56ba4bc6cc234ffa8c9baec320d20270 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3fbc540db0064c3b9df94db109afe076 = $(`<div id="html_3fbc540db0064c3b9df94db109afe076" style="width: 100.0%; height: 100.0%;">Name: Jinan Olympic Sports Center Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_56ba4bc6cc234ffa8c9baec320d20270.setContent(html_3fbc540db0064c3b9df94db109afe076);
+        
+
+        circle_marker_de45638c9e1f42a782cd09d5aa77f815.bindPopup(popup_56ba4bc6cc234ffa8c9baec320d20270)
+        ;
+
+        
+    
+    
+            var circle_marker_5c256612d2cf40048bdaa1d7517aa4e1 = L.circleMarker(
+                [31.2733, 121.4762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_5daea51c6ced42d3a80d4effa7c8074d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2cfcfb2ce82b400e8f895ac6e3525768 = $(`<div id="html_2cfcfb2ce82b400e8f895ac6e3525768" style="width: 100.0%; height: 100.0%;">Name: Hongkou Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_5daea51c6ced42d3a80d4effa7c8074d.setContent(html_2cfcfb2ce82b400e8f895ac6e3525768);
+        
+
+        circle_marker_5c256612d2cf40048bdaa1d7517aa4e1.bindPopup(popup_5daea51c6ced42d3a80d4effa7c8074d)
+        ;
+
+        
+    
+    
+            var circle_marker_f80a73e0fb594ab8b4dbbfd70ad70d21 = L.circleMarker(
+                [31.191290999999996, 121.489391],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_f0cd5883cf4d49da839ade8a66e49121 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4998429bbbda42e28dcc09efda7d0954 = $(`<div id="html_4998429bbbda42e28dcc09efda7d0954" style="width: 100.0%; height: 100.0%;">Name: Shanghai Arena<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_f0cd5883cf4d49da839ade8a66e49121.setContent(html_4998429bbbda42e28dcc09efda7d0954);
+        
+
+        circle_marker_f80a73e0fb594ab8b4dbbfd70ad70d21.bindPopup(popup_f0cd5883cf4d49da839ade8a66e49121)
+        ;
+
+        
+    
+    
+            var circle_marker_74310646263340d3a647085f066bde31 = L.circleMarker(
+                [39.006941, 117.351801],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_b8c96580638c4fc6b9cea9edfdb96414 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ea1cdf2e56734c759ecaba6c5ebd822f = $(`<div id="html_ea1cdf2e56734c759ecaba6c5ebd822f" style="width: 100.0%; height: 100.0%;">Name: Haihe Educational Football Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_b8c96580638c4fc6b9cea9edfdb96414.setContent(html_ea1cdf2e56734c759ecaba6c5ebd822f);
+        
+
+        circle_marker_74310646263340d3a647085f066bde31.bindPopup(popup_b8c96580638c4fc6b9cea9edfdb96414)
+        ;
+
+        
+    
+    
+            var circle_marker_f7e7b7d753c44f50b682456acfa80398 = L.circleMarker(
+                [39.073444, 117.169389],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_95d27eda8c7841429940b95d89ac0708 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_60e292ecb8cd423185321d9aab039f85 = $(`<div id="html_60e292ecb8cd423185321d9aab039f85" style="width: 100.0%; height: 100.0%;">Name: Tianjin Olimpic Stadium<br>Country: China<br>Division: CSL</div>`)[0];
+            popup_95d27eda8c7841429940b95d89ac0708.setContent(html_60e292ecb8cd423185321d9aab039f85);
+        
+
+        circle_marker_f7e7b7d753c44f50b682456acfa80398.bindPopup(popup_95d27eda8c7841429940b95d89ac0708)
+        ;
+
+        
+    
+    
+            var circle_marker_24625dd6d305490baf68c22984f9933a = L.circleMarker(
+                [34.615339, 135.516572],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_16fc584e96734789bcca7b70d575bf5b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5c5da27485714d668298923af0bb7f8f = $(`<div id="html_5c5da27485714d668298923af0bb7f8f" style="width: 100.0%; height: 100.0%;">Name: Kincho Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_16fc584e96734789bcca7b70d575bf5b.setContent(html_5c5da27485714d668298923af0bb7f8f);
+        
+
+        circle_marker_24625dd6d305490baf68c22984f9933a.bindPopup(popup_16fc584e96734789bcca7b70d575bf5b)
+        ;
+
+        
+    
+    
+            var circle_marker_8081eb3f0fdc434f9343164cdbf7f3c0 = L.circleMarker(
+                [35.664278, 139.52713899999998],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_afeea3cc8bdf4948b2855097f981a0c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ca7a4472e7f04661bafde2bbd685f09b = $(`<div id="html_ca7a4472e7f04661bafde2bbd685f09b" style="width: 100.0%; height: 100.0%;">Name: Ajinomoto Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_afeea3cc8bdf4948b2855097f981a0c3.setContent(html_ca7a4472e7f04661bafde2bbd685f09b);
+        
+
+        circle_marker_8081eb3f0fdc434f9343164cdbf7f3c0.bindPopup(popup_afeea3cc8bdf4948b2855097f981a0c3)
+        ;
+
+        
+    
+    
+            var circle_marker_ab772e7c4bdd42eaa8ce3810aa5d2dac = L.circleMarker(
+                [34.811372, 135.54085],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_f53ca852f04547b281e2ec39cb2630b4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f25a817e05a649168a7e6eb650dbaac6 = $(`<div id="html_f25a817e05a649168a7e6eb650dbaac6" style="width: 100.0%; height: 100.0%;">Name: Panasonic Suita Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_f53ca852f04547b281e2ec39cb2630b4.setContent(html_f25a817e05a649168a7e6eb650dbaac6);
+        
+
+        circle_marker_ab772e7c4bdd42eaa8ce3810aa5d2dac.bindPopup(popup_f53ca852f04547b281e2ec39cb2630b4)
+        ;
+
+        
+    
+    
+            var circle_marker_1533c17544294ce6bd2282dab5513cd9 = L.circleMarker(
+                [43.015172, 141.409767],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_48c9aac99f894aeb83a6dfcdda3886d3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_986fb49869bb49198e36a1c6cc02500d = $(`<div id="html_986fb49869bb49198e36a1c6cc02500d" style="width: 100.0%; height: 100.0%;">Name: Sapporo Dome<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_48c9aac99f894aeb83a6dfcdda3886d3.setContent(html_986fb49869bb49198e36a1c6cc02500d);
+        
+
+        circle_marker_1533c17544294ce6bd2282dab5513cd9.bindPopup(popup_48c9aac99f894aeb83a6dfcdda3886d3)
+        ;
+
+        
+    
+    
+            var circle_marker_eafafb67943a4eb3a8479f40dc0d0cc9 = L.circleMarker(
+                [34.725217, 137.875006],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_8cdc7c8791e54a329c9477795227a026 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ee6999fc1db44ab48cf7c40a922eb903 = $(`<div id="html_ee6999fc1db44ab48cf7c40a922eb903" style="width: 100.0%; height: 100.0%;">Name: Yamaha Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_8cdc7c8791e54a329c9477795227a026.setContent(html_ee6999fc1db44ab48cf7c40a922eb903);
+        
+
+        circle_marker_eafafb67943a4eb3a8479f40dc0d0cc9.bindPopup(popup_8cdc7c8791e54a329c9477795227a026)
+        ;
+
+        
+    
+    
+            var circle_marker_ecbb4fdcab6d40798dd595f128210801 = L.circleMarker(
+                [35.991744, 140.640525],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_cc67c59653104a599a77a96a93edc358 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_df46d573c0c44b94a934214251b847ae = $(`<div id="html_df46d573c0c44b94a934214251b847ae" style="width: 100.0%; height: 100.0%;">Name: Kashima Soccer Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_cc67c59653104a599a77a96a93edc358.setContent(html_df46d573c0c44b94a934214251b847ae);
+        
+
+        circle_marker_ecbb4fdcab6d40798dd595f128210801.bindPopup(popup_cc67c59653104a599a77a96a93edc358)
+        ;
+
+        
+    
+    
+            var circle_marker_72350ac8e4ff491ea2dee0000831099b = L.circleMarker(
+                [35.8485, 139.975149],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_ed038a0077154991a31b992342691d24 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a4e4d0f3d807463db7e972fdaa38efe2 = $(`<div id="html_a4e4d0f3d807463db7e972fdaa38efe2" style="width: 100.0%; height: 100.0%;">Name: Sankyo Frontier Kashiwa Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_ed038a0077154991a31b992342691d24.setContent(html_a4e4d0f3d807463db7e972fdaa38efe2);
+        
+
+        circle_marker_72350ac8e4ff491ea2dee0000831099b.bindPopup(popup_ed038a0077154991a31b992342691d24)
+        ;
+
+        
+    
+    
+            var circle_marker_1c256c921d8946659c5fcdae58045ae4 = L.circleMarker(
+                [35.585895, 139.65273100000002],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_71526994c1d44e18aa219183f033f8c4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_418a370b4cf54648955067814285cb3b = $(`<div id="html_418a370b4cf54648955067814285cb3b" style="width: 100.0%; height: 100.0%;">Name: Kawasaki Todoroki Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_71526994c1d44e18aa219183f033f8c4.setContent(html_418a370b4cf54648955067814285cb3b);
+        
+
+        circle_marker_1c256c921d8946659c5fcdae58045ae4.bindPopup(popup_71526994c1d44e18aa219183f033f8c4)
+        ;
+
+        
+    
+    
+            var circle_marker_01b07cda38284c919a7689077fef0317 = L.circleMarker(
+                [35.0845, 137.170611],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_3558da4a081d4bfeb697f79ed27fb1c4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_85d8258e660d41cf91aaaf5b7f0e66d6 = $(`<div id="html_85d8258e660d41cf91aaaf5b7f0e66d6" style="width: 100.0%; height: 100.0%;">Name: Toyota Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_3558da4a081d4bfeb697f79ed27fb1c4.setContent(html_85d8258e660d41cf91aaaf5b7f0e66d6);
+        
+
+        circle_marker_01b07cda38284c919a7689077fef0317.bindPopup(popup_3558da4a081d4bfeb697f79ed27fb1c4)
+        ;
+
+        
+    
+    
+            var circle_marker_73e94ed6d4c442e9988704fdfcfb2801 = L.circleMarker(
+                [33.371944, 130.520278],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_5578537d15a34720a21870a7d3d80a2b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2f07a5af4c5647eab1f89efc2305d48b = $(`<div id="html_2f07a5af4c5647eab1f89efc2305d48b" style="width: 100.0%; height: 100.0%;">Name: Ekimae Real Estate Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_5578537d15a34720a21870a7d3d80a2b.setContent(html_2f07a5af4c5647eab1f89efc2305d48b);
+        
+
+        circle_marker_73e94ed6d4c442e9988704fdfcfb2801.bindPopup(popup_5578537d15a34720a21870a7d3d80a2b)
+        ;
+
+        
+    
+    
+            var circle_marker_b60143f134754c5db8d0c12758ea550d = L.circleMarker(
+                [34.440778, 132.39425],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_e3ba72596be54744a9b28ef2774a38de = L.popup({"maxWidth": "100%"});
+
+        
+            var html_aedfbbacd61c4064b01c94432a16867c = $(`<div id="html_aedfbbacd61c4064b01c94432a16867c" style="width: 100.0%; height: 100.0%;">Name: EDION Hiroshima Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_e3ba72596be54744a9b28ef2774a38de.setContent(html_aedfbbacd61c4064b01c94432a16867c);
+        
+
+        circle_marker_b60143f134754c5db8d0c12758ea550d.bindPopup(popup_e3ba72596be54744a9b28ef2774a38de)
+        ;
+
+        
+    
+    
+            var circle_marker_7cdff3d88393490d90b20506a98c736f = L.circleMarker(
+                [34.984444, 138.481111],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_6659094ee30342be805bdf3219ce4f83 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_71f711ee00db4c21bcc54bd4e3e4e201 = $(`<div id="html_71f711ee00db4c21bcc54bd4e3e4e201" style="width: 100.0%; height: 100.0%;">Name: IAI Nihondaira Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_6659094ee30342be805bdf3219ce4f83.setContent(html_71f711ee00db4c21bcc54bd4e3e4e201);
+        
+
+        circle_marker_7cdff3d88393490d90b20506a98c736f.bindPopup(popup_6659094ee30342be805bdf3219ce4f83)
+        ;
+
+        
+    
+    
+            var circle_marker_72c3d45d5de74e97b442b39ca0988be6 = L.circleMarker(
+                [35.343608, 139.341263],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_4e18928b25d54a10b1c510240c14f0f8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a2a13c0888904e3e809d51e53bc744e7 = $(`<div id="html_a2a13c0888904e3e809d51e53bc744e7" style="width: 100.0%; height: 100.0%;">Name: Shonan BMW Stadium Hiratsuka<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_4e18928b25d54a10b1c510240c14f0f8.setContent(html_a2a13c0888904e3e809d51e53bc744e7);
+        
+
+        circle_marker_72c3d45d5de74e97b442b39ca0988be6.bindPopup(popup_4e18928b25d54a10b1c510240c14f0f8)
+        ;
+
+        
+    
+    
+            var circle_marker_05095ab5f05a4265aef72e3d93b8584d = L.circleMarker(
+                [35.903141999999995, 139.717492],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_5ec745838a674e598c4ddb8633cf2ab2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4c241a8e185f4bcc9c2fc9c67ea62da0 = $(`<div id="html_4c241a8e185f4bcc9c2fc9c67ea62da0" style="width: 100.0%; height: 100.0%;">Name: Saitama Stadium 2002<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_5ec745838a674e598c4ddb8633cf2ab2.setContent(html_4c241a8e185f4bcc9c2fc9c67ea62da0);
+        
+
+        circle_marker_05095ab5f05a4265aef72e3d93b8584d.bindPopup(popup_5ec745838a674e598c4ddb8633cf2ab2)
+        ;
+
+        
+    
+    
+            var circle_marker_95062e65a2ca4d9e97617fe17baf97ac = L.circleMarker(
+                [32.838611, 130.039444],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_6a6d4db21d614ae1805e2eba748f8ff1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a806c4e03521474884e4fc4d0ee450f0 = $(`<div id="html_a806c4e03521474884e4fc4d0ee450f0" style="width: 100.0%; height: 100.0%;">Name: Transcosmos Stadium Nagasaki<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_6a6d4db21d614ae1805e2eba748f8ff1.setContent(html_a806c4e03521474884e4fc4d0ee450f0);
+        
+
+        circle_marker_95062e65a2ca4d9e97617fe17baf97ac.bindPopup(popup_6a6d4db21d614ae1805e2eba748f8ff1)
+        ;
+
+        
+    
+    
+            var circle_marker_6064ec19fa0c4480aaee7c20bf9864e9 = L.circleMarker(
+                [38.319167, 140.881944],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_fd581afb3a9e4108bd045fb69535899d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_93472d8a756d46ffb1b09ddedb633cd5 = $(`<div id="html_93472d8a756d46ffb1b09ddedb633cd5" style="width: 100.0%; height: 100.0%;">Name: Yurtec Stadium Sendai<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_fd581afb3a9e4108bd045fb69535899d.setContent(html_93472d8a756d46ffb1b09ddedb633cd5);
+        
+
+        circle_marker_6064ec19fa0c4480aaee7c20bf9864e9.bindPopup(popup_fd581afb3a9e4108bd045fb69535899d)
+        ;
+
+        
+    
+    
+            var circle_marker_cd3982a4cf2d46eba69b4c1ed6870af1 = L.circleMarker(
+                [34.656708, 135.168964],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_b01b0cb13bda4c1db26fe9ce14c5d9d9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ada752df3237497ead9a74d2068585a6 = $(`<div id="html_ada752df3237497ead9a74d2068585a6" style="width: 100.0%; height: 100.0%;">Name: NOEVIR Stadium Kobe<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_b01b0cb13bda4c1db26fe9ce14c5d9d9.setContent(html_ada752df3237497ead9a74d2068585a6);
+        
+
+        circle_marker_cd3982a4cf2d46eba69b4c1ed6870af1.bindPopup(popup_b01b0cb13bda4c1db26fe9ce14c5d9d9)
+        ;
+
+        
+    
+    
+            var circle_marker_7f9208668be345859379a0787b6c9d14 = L.circleMarker(
+                [35.510044, 139.606247],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_58d6a88eae85448c939995c015626bb7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8e74714956c34423a54d83b8d210c323 = $(`<div id="html_8e74714956c34423a54d83b8d210c323" style="width: 100.0%; height: 100.0%;">Name: Nissan Stadium<br>Country: Japan<br>Division: MEIJI YASUDA J1</div>`)[0];
+            popup_58d6a88eae85448c939995c015626bb7.setContent(html_8e74714956c34423a54d83b8d210c323);
+        
+
+        circle_marker_7f9208668be345859379a0787b6c9d14.bindPopup(popup_58d6a88eae85448c939995c015626bb7)
+        ;
+
+        
+    
+    
+            var circle_marker_80d8525d383f43ae8045eb18e1491e8b = L.circleMarker(
+                [35.829739000000004, 128.690205],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_525cce2383d9453d855002e970e3fab6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d5be1ed3a8ab49869b1cf2af9fd7ba52 = $(`<div id="html_d5be1ed3a8ab49869b1cf2af9fd7ba52" style="width: 100.0%; height: 100.0%;">Name: Daegu Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_525cce2383d9453d855002e970e3fab6.setContent(html_d5be1ed3a8ab49869b1cf2af9fd7ba52);
+        
+
+        circle_marker_80d8525d383f43ae8045eb18e1491e8b.bindPopup(popup_525cce2383d9453d855002e970e3fab6)
+        ;
+
+        
+    
+    
+            var circle_marker_364503f549b84dfba15021a57aff1d73 = L.circleMarker(
+                [37.568222, 126.897361],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_7b929577c54246cba907772587c4963c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d122a33467864f9689a840e4764da377 = $(`<div id="html_d122a33467864f9689a840e4764da377" style="width: 100.0%; height: 100.0%;">Name: Seul Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_7b929577c54246cba907772587c4963c.setContent(html_d122a33467864f9689a840e4764da377);
+        
+
+        circle_marker_364503f549b84dfba15021a57aff1d73.bindPopup(popup_7b929577c54246cba907772587c4963c)
+        ;
+
+        
+    
+    
+            var circle_marker_5a734c9834f449d19858da8ef35f13d5 = L.circleMarker(
+                [37.77366, 128.897503],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_c5d9bc50212446bf8b81f3efdc8cbc00 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_46825d2bb34a4954859195aeebea6010 = $(`<div id="html_46825d2bb34a4954859195aeebea6010" style="width: 100.0%; height: 100.0%;">Name: Gangneung Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_c5d9bc50212446bf8b81f3efdc8cbc00.setContent(html_46825d2bb34a4954859195aeebea6010);
+        
+
+        circle_marker_5a734c9834f449d19858da8ef35f13d5.bindPopup(popup_c5d9bc50212446bf8b81f3efdc8cbc00)
+        ;
+
+        
+    
+    
+            var circle_marker_b30d54ddda6e415ca2aec9d14a7a2fb9 = L.circleMarker(
+                [35.23402, 128.664753],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_b100ec1419cd4ad6be6aba8b59bb9f28 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0de86863d92d4f1d802ba7f1a2f19a05 = $(`<div id="html_0de86863d92d4f1d802ba7f1a2f19a05" style="width: 100.0%; height: 100.0%;">Name: Changwon Civic Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_b100ec1419cd4ad6be6aba8b59bb9f28.setContent(html_0de86863d92d4f1d802ba7f1a2f19a05);
+        
+
+        circle_marker_b30d54ddda6e415ca2aec9d14a7a2fb9.bindPopup(popup_b100ec1419cd4ad6be6aba8b59bb9f28)
+        ;
+
+        
+    
+    
+            var circle_marker_b2abfc6ea95a4da3b124dd446993d775 = L.circleMarker(
+                [37.466131, 126.64303500000001],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_32a049ed9b1c4c078138165bfc3b5a08 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6f09cf0f982040b0b0da0ffc97981c59 = $(`<div id="html_6f09cf0f982040b0b0da0ffc97981c59" style="width: 100.0%; height: 100.0%;">Name: Sungui Arena Park<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_32a049ed9b1c4c078138165bfc3b5a08.setContent(html_6f09cf0f982040b0b0da0ffc97981c59);
+        
+
+        circle_marker_b2abfc6ea95a4da3b124dd446993d775.bindPopup(popup_32a049ed9b1c4c078138165bfc3b5a08)
+        ;
+
+        
+    
+    
+            var circle_marker_f80a17881dfc4c4fa07b49e7628bfa8f = L.circleMarker(
+                [33.246212, 126.50936100000001],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_5d9eef8acf2d445195d0eac8f128de70 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ee83831b661b4c46bf98cb50529319ee = $(`<div id="html_ee83831b661b4c46bf98cb50529319ee" style="width: 100.0%; height: 100.0%;">Name: Jeju World Cup Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_5d9eef8acf2d445195d0eac8f128de70.setContent(html_ee83831b661b4c46bf98cb50529319ee);
+        
+
+        circle_marker_f80a17881dfc4c4fa07b49e7628bfa8f.bindPopup(popup_5d9eef8acf2d445195d0eac8f128de70)
+        ;
+
+        
+    
+    
+            var circle_marker_6d78e2d8249d4da3a6afffe41409143c = L.circleMarker(
+                [35.868071, 127.06448],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_d57be6210e994fdd8519537c8d90c83c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e2ce3cdf7527482da835a80f82545f4d = $(`<div id="html_e2ce3cdf7527482da835a80f82545f4d" style="width: 100.0%; height: 100.0%;">Name: Jeonju World Cup Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_d57be6210e994fdd8519537c8d90c83c.setContent(html_e2ce3cdf7527482da835a80f82545f4d);
+        
+
+        circle_marker_6d78e2d8249d4da3a6afffe41409143c.bindPopup(popup_d57be6210e994fdd8519537c8d90c83c)
+        ;
+
+        
+    
+    
+            var circle_marker_b9ab6356f27f41cf9b3baa0ac2e634a8 = L.circleMarker(
+                [34.93312, 127.727478],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_9feca54bc2bf4c1bb9868ec858ae29bd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2045613ec84a4c209048dd686a06f204 = $(`<div id="html_2045613ec84a4c209048dd686a06f204" style="width: 100.0%; height: 100.0%;">Name: Dragon Dungeon Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_9feca54bc2bf4c1bb9868ec858ae29bd.setContent(html_2045613ec84a4c209048dd686a06f204);
+        
+
+        circle_marker_b9ab6356f27f41cf9b3baa0ac2e634a8.bindPopup(popup_9feca54bc2bf4c1bb9868ec858ae29bd)
+        ;
+
+        
+    
+    
+            var circle_marker_22c693a8556241ce82efc5cbb8f872aa = L.circleMarker(
+                [35.997745, 129.384412],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_c9bbee77ff8746468dace8a1b9896e95 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ce1efc7ea24b400e8ebf7964374be73a = $(`<div id="html_ce1efc7ea24b400e8ebf7964374be73a" style="width: 100.0%; height: 100.0%;">Name: Steel Yard Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_c9bbee77ff8746468dace8a1b9896e95.setContent(html_ce1efc7ea24b400e8ebf7964374be73a);
+        
+
+        circle_marker_22c693a8556241ce82efc5cbb8f872aa.bindPopup(popup_c9bbee77ff8746468dace8a1b9896e95)
+        ;
+
+        
+    
+    
+            var circle_marker_23a3389d21c34eca932d0823461bee05 = L.circleMarker(
+                [36.432367, 128.161655],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_77be8dc878294687ac58fc7f51f156a4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6c3c207e52a6439dbccf61b1ce8bd6d2 = $(`<div id="html_6c3c207e52a6439dbccf61b1ce8bd6d2" style="width: 100.0%; height: 100.0%;">Name: Sangju Civic Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_77be8dc878294687ac58fc7f51f156a4.setContent(html_6c3c207e52a6439dbccf61b1ce8bd6d2);
+        
+
+        circle_marker_23a3389d21c34eca932d0823461bee05.bindPopup(popup_77be8dc878294687ac58fc7f51f156a4)
+        ;
+
+        
+    
+    
+            var circle_marker_d4b4411978cc4c25ab9a5f68d2e4c977 = L.circleMarker(
+                [37.286421000000004, 127.036855],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_3138cb515d3c4fe3b41a589509adba97 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e35e7234503847ae943d07fcecbff00d = $(`<div id="html_e35e7234503847ae943d07fcecbff00d" style="width: 100.0%; height: 100.0%;">Name: Suwon World Cup Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_3138cb515d3c4fe3b41a589509adba97.setContent(html_e35e7234503847ae943d07fcecbff00d);
+        
+
+        circle_marker_d4b4411978cc4c25ab9a5f68d2e4c977.bindPopup(popup_3138cb515d3c4fe3b41a589509adba97)
+        ;
+
+        
+    
+    
+            var circle_marker_bdf7440831d44de3ad2c73bd65a7be8d = L.circleMarker(
+                [35.535328, 129.259512],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_bd95ffbe9c7847199c67702cdce5a7c7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_40e4fd9c28dd4376b92044028c5b3698 = $(`<div id="html_40e4fd9c28dd4376b92044028c5b3698" style="width: 100.0%; height: 100.0%;">Name: Munsu Ulsan Stadium<br>Country: Korea<br>Division: K-LEAGUE 1</div>`)[0];
+            popup_bd95ffbe9c7847199c67702cdce5a7c7.setContent(html_40e4fd9c28dd4376b92044028c5b3698);
+        
+
+        circle_marker_bdf7440831d44de3ad2c73bd65a7be8d.bindPopup(popup_bd95ffbe9c7847199c67702cdce5a7c7)
+        ;
+
+        
+    
+    
+            var circle_marker_10a12e47f7714109bce6ec308e2a2d21 = L.circleMarker(
+                [55.791389, 37.516110999999995],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_bebd050c79cf4bdbbce0c1586722a072 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_18bd41114b07452998be320a4c771e82 = $(`<div id="html_18bd41114b07452998be320a4c771e82" style="width: 100.0%; height: 100.0%;">Name: Arena CSKA<br>Country: Russia<br>Division: Russian Liga Premier</div>`)[0];
+            popup_bebd050c79cf4bdbbce0c1586722a072.setContent(html_18bd41114b07452998be320a4c771e82);
+        
+
+        circle_marker_10a12e47f7714109bce6ec308e2a2d21.bindPopup(popup_bebd050c79cf4bdbbce0c1586722a072)
+        ;
+
+        
+    
+    
+            var circle_marker_8e46c14546e445468765a5ee3f024338 = L.circleMarker(
+                [55.80355, 37.741169],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_4dc259b73b354d17a529b2aeeb117f5b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f74acbbf2bf3479e986454c3cecf2623 = $(`<div id="html_f74acbbf2bf3479e986454c3cecf2623" style="width: 100.0%; height: 100.0%;">Name: RZD Arena<br>Country: Russia<br>Division: Russian Liga Premier</div>`)[0];
+            popup_4dc259b73b354d17a529b2aeeb117f5b.setContent(html_f74acbbf2bf3479e986454c3cecf2623);
+        
+
+        circle_marker_8e46c14546e445468765a5ee3f024338.bindPopup(popup_4dc259b73b354d17a529b2aeeb117f5b)
+        ;
+
+        
+    
+    
+            var circle_marker_ff38e8fe5afa40208c5864b87886820c = L.circleMarker(
+                [55.8175, 37.435556],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_06dde22c49fe4c888c25901ca7186bbb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_52a162dde17e46b8aef3ea5a4792d585 = $(`<div id="html_52a162dde17e46b8aef3ea5a4792d585" style="width: 100.0%; height: 100.0%;">Name: Otkrytie Arena<br>Country: Russia<br>Division: Russian Liga Premier</div>`)[0];
+            popup_06dde22c49fe4c888c25901ca7186bbb.setContent(html_52a162dde17e46b8aef3ea5a4792d585);
+        
+
+        circle_marker_ff38e8fe5afa40208c5864b87886820c.bindPopup(popup_06dde22c49fe4c888c25901ca7186bbb)
+        ;
+
+        
+    
+    
+            var circle_marker_2d3b180a695849b9bdcd1793e76e8dd6 = L.circleMarker(
+                [22.094444, 39.125833],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_6f6e470e2f7f4b258aca91cac3f6bd32 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c702abbbf20340b786df9ce510a2e8f9 = $(`<div id="html_c702abbbf20340b786df9ce510a2e8f9" style="width: 100.0%; height: 100.0%;">Name: King Abdullah Sports City<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_6f6e470e2f7f4b258aca91cac3f6bd32.setContent(html_c702abbbf20340b786df9ce510a2e8f9);
+        
+
+        circle_marker_2d3b180a695849b9bdcd1793e76e8dd6.bindPopup(popup_6f6e470e2f7f4b258aca91cac3f6bd32)
+        ;
+
+        
+    
+    
+            var circle_marker_9bdfebe51c6d4dc68a065a1010cb42b7 = L.circleMarker(
+                [28.448611, 46.075],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_c4c152af107849019bba183f3014f1b1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7d6507d641704c549cc487d3711585be = $(`<div id="html_7d6507d641704c549cc487d3711585be" style="width: 100.0%; height: 100.0%;">Name: Al-Batin Club Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_c4c152af107849019bba183f3014f1b1.setContent(html_7d6507d641704c549cc487d3711585be);
+        
+
+        circle_marker_9bdfebe51c6d4dc68a065a1010cb42b7.bindPopup(popup_c4c152af107849019bba183f3014f1b1)
+        ;
+
+        
+    
+    
+            var circle_marker_5cf7b5e3c1dd4454aa8fe6ab9af5202d = L.circleMarker(
+                [26.3789, 43.9478],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_ed8012263b4c4f688060f20bf9ee0e56 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_735b2e34c9e745ceb10adc7d02ccf7e9 = $(`<div id="html_735b2e34c9e745ceb10adc7d02ccf7e9" style="width: 100.0%; height: 100.0%;">Name: King Salman Sport City Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_ed8012263b4c4f688060f20bf9ee0e56.setContent(html_735b2e34c9e745ceb10adc7d02ccf7e9);
+        
+
+        circle_marker_5cf7b5e3c1dd4454aa8fe6ab9af5202d.bindPopup(popup_ed8012263b4c4f688060f20bf9ee0e56)
+        ;
+
+        
+    
+    
+            var circle_marker_c5ca2f3015b1491199594b33531eb9e1 = L.circleMarker(
+                [25.305833, 49.612778000000006],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_15d71516276346c39b76cfe4edee6755 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_52cd349c3adc4695a5a0a3529d80b983 = $(`<div id="html_52cd349c3adc4695a5a0a3529d80b983" style="width: 100.0%; height: 100.0%;">Name: Prince Abdullah bin Jalawi Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_15d71516276346c39b76cfe4edee6755.setContent(html_52cd349c3adc4695a5a0a3529d80b983);
+        
+
+        circle_marker_c5ca2f3015b1491199594b33531eb9e1.bindPopup(popup_15d71516276346c39b76cfe4edee6755)
+        ;
+
+        
+    
+    
+            var circle_marker_5e00da98ebd84d20b19c8aec94f98b89 = L.circleMarker(
+                [26.3789, 43.9478],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_29b3b0435e854a578a922edf45978b2f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_56bd75234a8f4296801997b5062855c8 = $(`<div id="html_56bd75234a8f4296801997b5062855c8" style="width: 100.0%; height: 100.0%;">Name: King Salman Sport City Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_29b3b0435e854a578a922edf45978b2f.setContent(html_56bd75234a8f4296801997b5062855c8);
+        
+
+        circle_marker_5e00da98ebd84d20b19c8aec94f98b89.bindPopup(popup_29b3b0435e854a578a922edf45978b2f)
+        ;
+
+        
+    
+    
+            var circle_marker_184ad7ea6df5469aa2346ca03ff645d5 = L.circleMarker(
+                [25.860278, 43.502221999999996],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_0d9f88ccc615469db557dcfdaa1ebdac = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ea42850b07d3453f8de143e9efafe6df = $(`<div id="html_ea42850b07d3453f8de143e9efafe6df" style="width: 100.0%; height: 100.0%;">Name: Al Hazm Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_0d9f88ccc615469db557dcfdaa1ebdac.setContent(html_ea42850b07d3453f8de143e9efafe6df);
+        
+
+        circle_marker_184ad7ea6df5469aa2346ca03ff645d5.bindPopup(popup_0d9f88ccc615469db557dcfdaa1ebdac)
+        ;
+
+        
+    
+    
+            var circle_marker_991c7b866fdb4b28ba8300b32432f53a = L.circleMarker(
+                [24.788206, 46.839236],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_a15175764b9c46afba609af9dc9f7463 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_550f65d900d9409da6a216a1cd9fe35a = $(`<div id="html_550f65d900d9409da6a216a1cd9fe35a" style="width: 100.0%; height: 100.0%;">Name: King Fahd Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_a15175764b9c46afba609af9dc9f7463.setContent(html_550f65d900d9409da6a216a1cd9fe35a);
+        
+
+        circle_marker_991c7b866fdb4b28ba8300b32432f53a.bindPopup(popup_a15175764b9c46afba609af9dc9f7463)
+        ;
+
+        
+    
+    
+            var circle_marker_f666cf8a25e442abb34b97ac20d6e1d4 = L.circleMarker(
+                [22.094444, 39.125833],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_7179963016cc487ea000ece8cae748f3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e90706409a8341e0a19ec9d2b1e5a86b = $(`<div id="html_e90706409a8341e0a19ec9d2b1e5a86b" style="width: 100.0%; height: 100.0%;">Name: King Abdullah Sports City<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_7179963016cc487ea000ece8cae748f3.setContent(html_e90706409a8341e0a19ec9d2b1e5a86b);
+        
+
+        circle_marker_f666cf8a25e442abb34b97ac20d6e1d4.bindPopup(popup_7179963016cc487ea000ece8cae748f3)
+        ;
+
+        
+    
+    
+            var circle_marker_c4d9390608744c0fa45e4c0a12ce69cf = L.circleMarker(
+                [24.788206, 46.839236],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_9ed13c03275b4a57870dfaaf61fa7f3c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_daa2dc2c4cbf4ecdb69692f8ab3279a7 = $(`<div id="html_daa2dc2c4cbf4ecdb69692f8ab3279a7" style="width: 100.0%; height: 100.0%;">Name: King Fahd Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_9ed13c03275b4a57870dfaaf61fa7f3c.setContent(html_daa2dc2c4cbf4ecdb69692f8ab3279a7);
+        
+
+        circle_marker_c4d9390608744c0fa45e4c0a12ce69cf.bindPopup(popup_9ed13c03275b4a57870dfaaf61fa7f3c)
+        ;
+
+        
+    
+    
+            var circle_marker_c0c402259f5e4ca59caa886d0d6b9b21 = L.circleMarker(
+                [26.3699, 50.2052],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_e59d7438aff9422bb42a04cd7c7e49b1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c26d7e21146f4b9db7dcc8a677b1852c = $(`<div id="html_c26d7e21146f4b9db7dcc8a677b1852c" style="width: 100.0%; height: 100.0%;">Name: Prince Salud bin Jalawi Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_e59d7438aff9422bb42a04cd7c7e49b1.setContent(html_c26d7e21146f4b9db7dcc8a677b1852c);
+        
+
+        circle_marker_c0c402259f5e4ca59caa886d0d6b9b21.bindPopup(popup_e59d7438aff9422bb42a04cd7c7e49b1)
+        ;
+
+        
+    
+    
+            var circle_marker_26c00070ae54411aa6da19c49cd57b2b = L.circleMarker(
+                [22.094444, 39.125833],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_078aa84a12bc456da93060bfafff4312 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fa0a1b89a2ac414a96577f8d22ca6f92 = $(`<div id="html_fa0a1b89a2ac414a96577f8d22ca6f92" style="width: 100.0%; height: 100.0%;">Name: King Abdullah Sports City<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_078aa84a12bc456da93060bfafff4312.setContent(html_fa0a1b89a2ac414a96577f8d22ca6f92);
+        
+
+        circle_marker_26c00070ae54411aa6da19c49cd57b2b.bindPopup(popup_078aa84a12bc456da93060bfafff4312)
+        ;
+
+        
+    
+    
+            var circle_marker_b8f2287539c546d78b1d6cc777e415d2 = L.circleMarker(
+                [24.788206, 46.839236],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_a43f62da15ef4c298b29394ea9e4af25 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f4c124117dbe43dd849c2396e1c1d54f = $(`<div id="html_f4c124117dbe43dd849c2396e1c1d54f" style="width: 100.0%; height: 100.0%;">Name: King Fahd Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_a43f62da15ef4c298b29394ea9e4af25.setContent(html_f4c124117dbe43dd849c2396e1c1d54f);
+        
+
+        circle_marker_b8f2287539c546d78b1d6cc777e415d2.bindPopup(popup_a43f62da15ef4c298b29394ea9e4af25)
+        ;
+
+        
+    
+    
+            var circle_marker_100b908070e14a2e9ee9eb9b3f0e4a12 = L.circleMarker(
+                [26.3789, 43.9478],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_e081e6bee475421fbe86a613fa1d89c4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_223cd3af8da3447385c3272774e85f10 = $(`<div id="html_223cd3af8da3447385c3272774e85f10" style="width: 100.0%; height: 100.0%;">Name: King Salman Sport City Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_e081e6bee475421fbe86a613fa1d89c4.setContent(html_223cd3af8da3447385c3272774e85f10);
+        
+
+        circle_marker_100b908070e14a2e9ee9eb9b3f0e4a12.bindPopup(popup_e081e6bee475421fbe86a613fa1d89c4)
+        ;
+
+        
+    
+    
+            var circle_marker_e2802828c870481b95aa3674f0df91c7 = L.circleMarker(
+                [21.4855, 39.9737],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_8dd73a734f9a4564bbbd776390872112 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a811a5bc42774d5c97590871f27d7c9e = $(`<div id="html_a811a5bc42774d5c97590871f27d7c9e" style="width: 100.0%; height: 100.0%;">Name: King Abdul Aziz Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_8dd73a734f9a4564bbbd776390872112.setContent(html_a811a5bc42774d5c97590871f27d7c9e);
+        
+
+        circle_marker_e2802828c870481b95aa3674f0df91c7.bindPopup(popup_8dd73a734f9a4564bbbd776390872112)
+        ;
+
+        
+    
+    
+            var circle_marker_9fefe57af7664d09b291822273fff634 = L.circleMarker(
+                [26.4272, 50.1141],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_45c82a0c97b94acbaf4bf605b4c6709f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_98863a5cb54a44a396233d99bfc8e248 = $(`<div id="html_98863a5cb54a44a396233d99bfc8e248" style="width: 100.0%; height: 100.0%;">Name: Prince Mohamed bin Fahd Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_45c82a0c97b94acbaf4bf605b4c6709f.setContent(html_98863a5cb54a44a396233d99bfc8e248);
+        
+
+        circle_marker_9fefe57af7664d09b291822273fff634.bindPopup(popup_45c82a0c97b94acbaf4bf605b4c6709f)
+        ;
+
+        
+    
+    
+            var circle_marker_21caa73aa240467186c252163c7c5a0e = L.circleMarker(
+                [21.4855, 39.9737],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_d126886056b04faa9107ef7583d8149b);
+        
+    
+        var popup_458d521228e04c2b95c27f4e03c4393d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_19cb00205636498e85b6f2d9e029fd3b = $(`<div id="html_19cb00205636498e85b6f2d9e029fd3b" style="width: 100.0%; height: 100.0%;">Name: King Abdul Aziz Stadium<br>Country: Saudi Arabia<br>Division: LIGA PROFESIONAL SAUDÍ</div>`)[0];
+            popup_458d521228e04c2b95c27f4e03c4393d.setContent(html_19cb00205636498e85b6f2d9e029fd3b);
+        
+
+        circle_marker_21caa73aa240467186c252163c7c5a0e.bindPopup(popup_458d521228e04c2b95c27f4e03c4393d)
+        ;
+
+        
+    
+</script>
