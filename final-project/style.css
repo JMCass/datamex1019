@@ -59,7 +59,7 @@ h2 {
 }
 
 a {
-    color: #black;
+    color: black;
     text-decoration: none;
     background-color: transparent;
 }
@@ -91,6 +91,8 @@ a {
 
 .tarjetas {
     margin-top: 30px;
+    margin-left: 25px;
+    position: relative;
 }
 
 footer {
@@ -107,7 +109,7 @@ h6 {
 }
 
 footer .container {
-    padding-top: 0px;
+    padding-top: -2px;
 }
 
 .fas fa-home mr-3 {
@@ -177,11 +179,7 @@ h5 {
     color: #400216;
 }
 
-.fa-neuter {
-    color: #400216;
-}
-
-.fa-venus {
+.fa-fa-globe {
     color: #400216;
 }
 
