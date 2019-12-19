@@ -85,9 +85,8 @@ body {
     justify-content: center;
 }
 
-p text {
-    justify-content: center;
-    margin-top: 20px;
+p {
+    text-align: justify;
 }
 
 .content {
