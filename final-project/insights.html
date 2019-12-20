@@ -32,46 +32,66 @@
 <body class="content">
     <article class="text">
         <p></p>
-        <p>El análisis de supervivencia tiene una característica que lo diferencia de otros análisis estadísticos, y es que ciertos individuos experimentan un evento terminal (suceso) y otros no. En este sentido, el tiempo de supervivencia de los que no
-            lo han experimentado se convierte en un factor desconocido. En el presente trabajo, el "evento" analizado consiste en la fecha de retiro de los jugadores profesionales. En particular, la base de datos se segmentó en 2 partes; la primera, contiene
-            a todos los jugadores de 16 hasta 29 años de edad, los cuales supondremos que no tendrían por qué experimentar (en el corto plazo) el evento; en segundo lugar, se consideró a los jugadores de 30 hasta 43, los cuales sí estarán más propensos
-            a experimentar dicho evento.</p>
-        <p>Flexitarian bitters cardigan tofu tattooed, Kickstarter Thundercats umami hella raw denim mumblecore stumptown Godard trust fund. Pop-up organic iPhone, Godard actually vegan fanny pack Intelligentsia sartorial. Chambray Echo Park you probably
-            haven't heard of them, food truck Wes Anderson Brooklyn brunch. Scenester Austin street art, sartorial sriracha letterpress hashtag. Wayfarers vinyl single-origin coffee, fashion axe pork belly hoodie polaroid mumblecore street art Truffaut.
-            Readymade ethical Carles American Apparel fanny pack twee. Normcore Etsy squid, farm-to-table XOXO forage selfies distillery photo booth Tonx.</p>
+        <p>La base de datos del juego FIFA 19 contiene información sobre 651 clubes y 18,207 jugadores profesionales. Es importante mencionar que no se encuentra contenido la totalidad de jugadores a nivel mundial, pero permite conocer las características
+            físicas y personales de un grupo de jugadores destacados. Esta primera parte del trabajo realizó una serie de pasos para lograr tener una base de datos completa.</p>
+        <p>El primero de los basos consisitó en poblar el Data Frame con medias de las columnas numéricas, así como texto en las columnas no numéricas para evitar borrar celdas con valores nulos. Posteriormente, se realizaron algunos cambios en los tipos
+            de datos que permitiera una correcta manipulación de la información. Finalmente, se generaron nuevas columnas con información que sería relevante y necesaria para poder realizar el resto de los elementos del trabajo y análisis que se presentará
+            en las siguientes secciones.</p>
+        <p>El primer gráfico generado se basa en la distribución de las posiciones de cada jugador contenido en el juego. En este sentido, la posición con mayor número de resgistros son los delanteros <b>'ST'</b>, seguido de porteros <b>'GK'</b> y defensores
+            centrales <b>'CB'</b>.</p>
         <p><img src="img/main1.png"></p>
-        <p>Twee 8-bit Blue Bottle, wolf tattooed distillery retro dreamcatcher put a bird on it letterpress asymmetrical actually Austin crucifix cred. Selfies ethical butcher vegan, umami bitters literally wolf seitan +1 Intelligentsia Pitchfork. Godard
-            mixtape pork belly Pitchfork, fap food truck wolf banh mi post-ironic. Narwhal letterpress Etsy direct trade irony pour-over. Cosby sweater literally Vice DIY butcher selvage shabby chic, XOXO hashtag letterpress single-origin coffee. Artisan
-            Portland disrupt swag small batch chambray, Neutra bespoke Wes Anderson tofu VHS ennui. Cosby sweater letterpress 90's shabby chic cornhole, literally YOLO sartorial bitters Blue Bottle cardigan chambray asymmetrical.
-        </p>
-        <p>Fixie gluten-free sriracha flannel, selfies chambray direct trade. Authentic mixtape semiotics deep v jean shorts pork belly occupy shabby chic sriracha. Tousled Williamsburg fanny pack High Life shabby chic Cosby sweater, gastropub organic cornhole
-            post-ironic hella drinking vinegar cliche wolf pork belly. Wolf selvage cornhole church-key, ethnic raw denim chillwave authentic asymmetrical Austin synth. Single-origin coffee iPhone Carles, Godard synth chia photo booth fap mustache authentic
-            pickled direct trade. Literally Vice Echo Park, trust fund viral ennui you probably haven't heard of them cred biodiesel lomo scenester gastropub chia keffiyeh Intelligentsia. Blue Bottle blog asymmetrical, pickled XOXO sustainable twee seitan
-            cornhole 90's.
-        </p>
+        <p>Podemos observar que el pie preferido por los jugadores dentro del juego es el <b>derecho</b>, a diferencia de los jugadores <b>zurdos</b> en el juego. Esto no necesariamente implica que utilicen exclusivamente ese pie, simplemente se sienten
+            más cómodos al realizar un pase, recepción o un tiro.</p>
         <p><img src="img/main2.png"></p>
-        <p>Flexitarian bitters cardigan tofu tattooed, Kickstarter Thundercats umami hella raw denim mumblecore stumptown Godard trust fund. Pop-up organic iPhone, Godard actually vegan fanny pack Intelligentsia sartorial. Chambray Echo Park you probably
-            haven't heard of them, food truck Wes Anderson Brooklyn brunch. Scenester Austin street art, sartorial sriracha letterpress hashtag. Wayfarers vinyl single-origin coffee, fashion axe pork belly hoodie polaroid mumblecore street art Truffaut.
-            Readymade ethical Carles American Apparel fanny pack twee. Normcore Etsy squid, farm-to-table XOXO forage selfies distillery photo booth Tonx.</p>
+        <p>Este gráfico nos muestra que la mayoría de los jugadores realizan, en promedio, el <b>mismo esfuerzo al atacar o defender</b>. Esto es lógico observarlo debido a que los jugadores cubren una posición en particular y, a menos que el equipo tuviera
+            algún jugador lesiondo o expulsado, dicho esfuerzo se incrementaría para cubrir la vacante faltante. Si este no fuera el caso, ningún jugador se agotaría en el campo de juego intentando cubrir más de una posición.</p>
         <p><img src="img/main3.png"></p>
-        <p>Mlkshk flexitarian ethical, narwhal forage bespoke artisan hella plaid vinyl try-hard Tonx actually keytar. McSweeney's chambray forage next level, mixtape Austin Portland Odd Future ethical seitan. Gluten-free roof party locavore, pop-up cornhole
-            chambray mlkshk bitters McSweeney's Kickstarter bespoke. YOLO cred pop-up chambray PBR&B. Kitsch mixtape DIY skateboard leggings, YOLO ennui chillwave dreamcatcher put a bird on it. Pug artisan PBR&B PBR dreamcatcher, Marfa Etsy mixtape mustache
-            messenger bag Vice. Plaid lomo pour-over post-ironic, synth disrupt beard Truffaut church-key Tumblr narwhal Bushwick cred slow-carb tofu.</p>
-        <p>Pitchfork disrupt Vice fixie sriracha Blue Bottle. Carles gastropub skateboard Schlitz, Truffaut semiotics PBR fanny pack. Truffaut biodiesel aesthetic, skateboard Etsy distillery blog. Craft beer mumblecore bitters, Tonx fixie viral fingerstache
-            Bushwick occupy. DIY tofu pug lo-fi, street art flexitarian Truffaut. 90's banjo lo-fi master cleanse selvage Tonx, narwhal tote bag. Helvetica before they sold out put a bird on it slow-carb normcore lo-fi.
-        </p>
+        <p>La diversidad de países presentes en el juego coincide con lo que observaríamos en la realidad. Sin embargo, es importante destacar que el juego se encuentra sesgado debido a que por razones comerciales, la cantidad de equipo contenidos se encuentran
+            concentrados en <b>Inglaterra, Alemania, España, Argentina, Francia, Brasil e Italia</b>.</p>
         <p><img src="img/main4.png"></p>
-        <p>Mlkshk flexitarian ethical, narwhal forage bespoke artisan hella plaid vinyl try-hard Tonx actually keytar. McSweeney's chambray forage next level, mixtape Austin Portland Odd Future ethical seitan. Gluten-free roof party locavore, pop-up cornhole
-            chambray mlkshk bitters McSweeney's Kickstarter bespoke. YOLO cred pop-up chambray PBR&B. Kitsch mixtape DIY skateboard leggings, YOLO ennui chillwave dreamcatcher put a bird on it. Pug artisan PBR&B PBR dreamcatcher, Marfa Etsy mixtape mustache
-            messenger bag Vice. Plaid lomo pour-over post-ironic, synth disrupt beard Truffaut church-key Tumblr narwhal Bushwick cred slow-carb tofu.</p>
-        <p>Pitchfork disrupt Vice fixie sriracha Blue Bottle. Carles gastropub skateboard Schlitz, Truffaut semiotics PBR fanny pack. Truffaut biodiesel aesthetic, skateboard Etsy distillery blog. Craft beer mumblecore bitters, Tonx fixie viral fingerstache
-            Bushwick occupy. DIY tofu pug lo-fi, street art flexitarian Truffaut. 90's banjo lo-fi master cleanse selvage Tonx, narwhal tote bag. Helvetica before they sold out put a bird on it slow-carb normcore lo-fi.
-        </p>
+        <p>La distribución de la masa salarial se concentra en unos cuantos jugadores, los cuales denominaremos <b>Súper Estrellas</b>, por lo sin importar el país, posición o características físicas hace que pertenecer a este grupo genere una brecha salarial
+            de cada 6 a 1 respecto un jugador promedio.</p>
         <p><img src="img/main5.png"></p>
-        <p>Wolf vinyl hella, jean shorts disrupt skateboard master cleanse hashtag iPhone. Pop-up bicycle rights Brooklyn iPhone Helvetica kitsch Godard, XOXO blog aesthetic beard quinoa. Fixie kale chips PBR&B twee, YOLO raw denim before they sold out photo
-            booth bespoke seitan food truck. Ethical chia before they sold out, trust fund viral ennui you probably haven't heard of them cred bitters mixtape semiotics deep v jean shorts pork belly occupy shabby chic sriracha ethnic normcore bicycle
-            rights single-origin coffee slow-carb jean shorts. Twee ethnic mumblecore, Carles banh mi slow-carb pour-over organic. Ethical tofu narwhal, hoodie viral ennui tousled paleo. Butcher chia cray iPhone keytar, sustainable Cosby sweater literally
-            try-hard put a bird on it photo booth ethical street art literally semiotics.</p>
+        <p>Sobre el peso de los jugadores podemos observar que en promedio se encuentran en un rago de <b>70 a 80 kgs</b>, lo cual podría, y con base en la estatura de los mismos, podría suponer una ventaja el ser más delgado que fornido para practicar este
+            deporte.
+        </p>
+        <p><img src="img/main6.png"></p>
+        <p>En cuanto a la altura de los jugadores, podemos observar que la mayoría de los jugadores tiene una estatura menor al <b>1 metro 60 cms</b> y realmente son pocos los jugadores que tiene una estatura cercana a los 2 metros.</p>
+        <p><img src="img/main7.png"></p>
+        <p>La edad de los jugadores está principalmente concentrada en las edades de <b>20 a 30 años</b>, aunque con la presencia de algunos jugadores muy jóvenes <b>(16 años)</b> o algunos más longevos <b>(43 años)</b> que están activos en la base de datos
+            del juego.
+        </p>
+        <p><img src="img/main8.png"></p>
+        <p>La siguiente gráfica muestra la correlación existente entre las variables contenidas en el DataFrame. Podemos observar que las características contempladas como habilidades tienen un alto grado de correlación.</p>
+        <p><img src="img/main9.png"></p>
+        <p>La siguiente gráfica muestra qué tan equilibrado en cuanto a habilidades está cada una de las posiciones del juego. En particular, los jugadores que juegan como laterales parecen estar mucho más equilibrados en cuanto a sus habilidades. Esto hace
+            sentido por la forma propia de la posición que participa como un pivote que permite ayudar al ataque o defender en caso de ser necesario.</p>
+        <p><img src="img/main10.png"></p>
+        <p>La siguiente gráfica muestra que en realidad existe una gran cantidad de jugadores extranjeros en cada liga. Lo anterior genera una competencia constante con los jugadores locales y, en algunos casos, permite generar una dinámica donde el nivel
+            competitivo bastante elevado y encontremos ligas con partidos extremadamente interesantes y entretenidos para el público.
+        </p>
+        <p><img src="img/main11.png"></p>
+        <p>El equipo más valioso dentro de la base de datos, lo cual está totalmente en línea con lo que podemos observar en la realidad, es que el <b>Real Madrid, Barcelona, M. City, Juventus y B. München</b> son los equipos más valiosos contemplando el
+            valor de mercado de los jugadores que componen su plantilla.</p>
+        <p><img src="img/main12.png"></p>
+        <p>El equipo más valioso dentro de la base de datos podemos observar que la <b>Juventus, Napoli, Inter, Real Madrid y Milán</b> son los equipos con mayor calidad. Esto no parece tener correspondencia con la realidad, pero quizás los jugadores Súper
+            estrellas hacen que se pondere de diferente forma esta variable. Lo anterior considerarando la valoración total de los jugadores que componen su plantilla.</p>
+        <p><img src="img/main13.png"></p>
+        <p>El equipo más valioso dentro de la base de datos podemos observar que la <b>Juventus, Barcelona, Real Madrid, M. City y Bayern München</b> son los equipos con mayor calidad. Esto no parece tener correspondencia con la realidad, pero quizás los
+            jugadores Súper estrellas hacen que se pondere de diferente forma esta variable. Lo anterior considerarando el potencial de los jugadores que componen su plantilla.</p>
+        <p><img src="img/main14.png"></p>
+        <p>Como podemos ver en estos gráficos, los jugadores con un perfil más ofensivo son los más costosos y demandados por los clubes a diferencia de aquellos en una posición de defensa.</p>
+        <p><img src="img/main15.png"></p>
+        <p>Se podría considerar que al ser los jugadores que más rachas "negativas/positivas" experimentan, además de que muy posiblemente la cantidad de playeras, anuncios y elementos de venta que pueden aprovechar los clubes es mucho mayor que de una posición
+            defensiva.
+        </p>
+        <p><img src="img/main16.png"></p>
+        <p>Por otra parte, es posible observar que la valoración total que tiene un jugador incrementa su valor de mercado y que dicho valor de mercado alcanza su tope cerca de los 26-27 años y después comienza un descenso. Lo cual tiene lógica con lo que
+            los clubes esperan que es aprovechar los mejores años de sus jugadores y después renegociar un salario menor a cambio de minutos de juego, lo que muchas veces produce retiros anticipados.</p>
+        <p><img src="img/main17.png"></p>
+        <p>Finalmente, la última gráfica nos muestra que a medida que transcurren los años, tanto la valoración total como el potencial alcanzan una convergencia, lo que podríamos denominar la <b>cúspide profesional</b>de los jugadores cercano a los 29 años.
+            A partir de este momento, las condiciones físicas se estabilizan y comienzan con un descenso paulatino que es normal y perfectamente observable en los jugadores</p>
+        <p><img src="img/main18.png"></p>
     </article>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo " crossorigin="anonymous "></script>

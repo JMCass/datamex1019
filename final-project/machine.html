@@ -31,46 +31,56 @@
 <body class="content">
     <article class="text">
         <p></p>
-        <p>El análisis de supervivencia tiene una característica que lo diferencia de otros análisis estadísticos, y es que ciertos individuos experimentan un evento terminal (suceso) y otros no. En este sentido, el tiempo de supervivencia de los que no
-            lo han experimentado se convierte en un factor desconocido. En el presente trabajo, el "evento" analizado consiste en la fecha de retiro de los jugadores profesionales. En particular, la base de datos se segmentó en 2 partes; la primera, contiene
-            a todos los jugadores de 16 hasta 29 años de edad, los cuales supondremos que no tendrían por qué experimentar (en el corto plazo) el evento; en segundo lugar, se consideró a los jugadores de 30 hasta 43, los cuales sí estarán más propensos
-            a experimentar dicho evento.</p>
-        <p>Flexitarian bitters cardigan tofu tattooed, Kickstarter Thundercats umami hella raw denim mumblecore stumptown Godard trust fund. Pop-up organic iPhone, Godard actually vegan fanny pack Intelligentsia sartorial. Chambray Echo Park you probably
-            haven't heard of them, food truck Wes Anderson Brooklyn brunch. Scenester Austin street art, sartorial sriracha letterpress hashtag. Wayfarers vinyl single-origin coffee, fashion axe pork belly hoodie polaroid mumblecore street art Truffaut.
-            Readymade ethical Carles American Apparel fanny pack twee. Normcore Etsy squid, farm-to-table XOXO forage selfies distillery photo booth Tonx.</p>
-        <p><img src="img/newplot.png"></p>
-        <p>Twee 8-bit Blue Bottle, wolf tattooed distillery retro dreamcatcher put a bird on it letterpress asymmetrical actually Austin crucifix cred. Selfies ethical butcher vegan, umami bitters literally wolf seitan +1 Intelligentsia Pitchfork. Godard
-            mixtape pork belly Pitchfork, fap food truck wolf banh mi post-ironic. Narwhal letterpress Etsy direct trade irony pour-over. Cosby sweater literally Vice DIY butcher selvage shabby chic, XOXO hashtag letterpress single-origin coffee. Artisan
-            Portland disrupt swag small batch chambray, Neutra bespoke Wes Anderson tofu VHS ennui. Cosby sweater letterpress 90's shabby chic cornhole, literally YOLO sartorial bitters Blue Bottle cardigan chambray asymmetrical.
+        <h1>Modelo Supervizado</h1>
+        <p></p>
+        <p>Las siguientes tablas contiene las variables numéricas utilizadas para el modelo no supervizado de Machine Learning con el cuál se realizó el pronósitco del salario (Tabla 1) y valor de mercado (Tabla 2) que le correspondería recibir, al menos
+            en un aspecto teórico, a las jugadoras profesionales de fútbol.</p>
+        <p>La decisión de separar en dos el modelo tuvo la finalidad de verificar cuál de los dos, o los dos, modelos tenía una mejor predicción.</p>
+        <p><img src="img/sup1.png"></p>
+        <p>Sin embargo, ambos modelos funcionaron de manera correcta y se vieron robustecidos con <b>XGBoost</b>.</p>
+        <p><img src="img/sup2.png"></p>
+        <p>El modelo realizó <b>32 iteraciones</b> antes de encontrar los mejores valores posibles. Posteriormente, reentrené el modelo para obtener la mejor predicción posible. La potencia de XGBoost quedó evidenciado fortalecer cada uno de los calsificadores
+            débiles que me brindaran el mejor pronósticos posible sobre las variables objetivo.</p>
+        <p>Una de las ventajas de trabajar con XGBoost es que permite trabajar con una gran cantidad de variables, lo que seerá de grán ayuda cuando en una segunda etapa tenga un DataFrame mucho más grande y donde, a través de web scrapping, introduzca la
+            información existente de las jugadoras femeniles registradas en el juego y de la información que obtenga de diversas fuentes de información.</p>
+        <p>Una vez que se tuvo el modelo entrenado y con el pronosticador final, tomé la información de <b>15 jugadoras</b> para como serían sus valores teóricos en cuanto al salario. Antes de describir los resultados, es importante mencionar que en México,
+            una jugadora profesional recibe, en promedio, <b>$4,500 pesos mensuales</b> mientras que un jugador masculino gana <b>$635,000 pesos.</b>
         </p>
-        <p>Fixie gluten-free sriracha flannel, selfies chambray direct trade. Authentic mixtape semiotics deep v jean shorts pork belly occupy shabby chic sriracha. Tousled Williamsburg fanny pack High Life shabby chic Cosby sweater, gastropub organic cornhole
-            post-ironic hella drinking vinegar cliche wolf pork belly. Wolf selvage cornhole church-key, ethnic raw denim chillwave authentic asymmetrical Austin synth. Single-origin coffee iPhone Carles, Godard synth chia photo booth fap mustache authentic
-            pickled direct trade. Literally Vice Echo Park, trust fund viral ennui you probably haven't heard of them cred biodiesel lomo scenester gastropub chia keffiyeh Intelligentsia. Blue Bottle blog asymmetrical, pickled XOXO sustainable twee seitan
-            cornhole 90's.
-        </p>
-        <p><img src="img/newplot2.png"></p>
-        <p>Flexitarian bitters cardigan tofu tattooed, Kickstarter Thundercats umami hella raw denim mumblecore stumptown Godard trust fund. Pop-up organic iPhone, Godard actually vegan fanny pack Intelligentsia sartorial. Chambray Echo Park you probably
-            haven't heard of them, food truck Wes Anderson Brooklyn brunch. Scenester Austin street art, sartorial sriracha letterpress hashtag. Wayfarers vinyl single-origin coffee, fashion axe pork belly hoodie polaroid mumblecore street art Truffaut.
-            Readymade ethical Carles American Apparel fanny pack twee. Normcore Etsy squid, farm-to-table XOXO forage selfies distillery photo booth Tonx.</p>
-        <p><img src="img/newplot3.png"></p>
-        <p>Mlkshk flexitarian ethical, narwhal forage bespoke artisan hella plaid vinyl try-hard Tonx actually keytar. McSweeney's chambray forage next level, mixtape Austin Portland Odd Future ethical seitan. Gluten-free roof party locavore, pop-up cornhole
-            chambray mlkshk bitters McSweeney's Kickstarter bespoke. YOLO cred pop-up chambray PBR&B. Kitsch mixtape DIY skateboard leggings, YOLO ennui chillwave dreamcatcher put a bird on it. Pug artisan PBR&B PBR dreamcatcher, Marfa Etsy mixtape mustache
-            messenger bag Vice. Plaid lomo pour-over post-ironic, synth disrupt beard Truffaut church-key Tumblr narwhal Bushwick cred slow-carb tofu.</p>
-        <p>Pitchfork disrupt Vice fixie sriracha Blue Bottle. Carles gastropub skateboard Schlitz, Truffaut semiotics PBR fanny pack. Truffaut biodiesel aesthetic, skateboard Etsy distillery blog. Craft beer mumblecore bitters, Tonx fixie viral fingerstache
-            Bushwick occupy. DIY tofu pug lo-fi, street art flexitarian Truffaut. 90's banjo lo-fi master cleanse selvage Tonx, narwhal tote bag. Helvetica before they sold out put a bird on it slow-carb normcore lo-fi.
-        </p>
-        <p><img src="img/newplot4.png"></p>
-        <p>Mlkshk flexitarian ethical, narwhal forage bespoke artisan hella plaid vinyl try-hard Tonx actually keytar. McSweeney's chambray forage next level, mixtape Austin Portland Odd Future ethical seitan. Gluten-free roof party locavore, pop-up cornhole
-            chambray mlkshk bitters McSweeney's Kickstarter bespoke. YOLO cred pop-up chambray PBR&B. Kitsch mixtape DIY skateboard leggings, YOLO ennui chillwave dreamcatcher put a bird on it. Pug artisan PBR&B PBR dreamcatcher, Marfa Etsy mixtape mustache
-            messenger bag Vice. Plaid lomo pour-over post-ironic, synth disrupt beard Truffaut church-key Tumblr narwhal Bushwick cred slow-carb tofu.</p>
-        <p>Pitchfork disrupt Vice fixie sriracha Blue Bottle. Carles gastropub skateboard Schlitz, Truffaut semiotics PBR fanny pack. Truffaut biodiesel aesthetic, skateboard Etsy distillery blog. Craft beer mumblecore bitters, Tonx fixie viral fingerstache
-            Bushwick occupy. DIY tofu pug lo-fi, street art flexitarian Truffaut. 90's banjo lo-fi master cleanse selvage Tonx, narwhal tote bag. Helvetica before they sold out put a bird on it slow-carb normcore lo-fi.
-        </p>
-        <p><img src="img/newplot5.png"></p>
-        <p>Wolf vinyl hella, jean shorts disrupt skateboard master cleanse hashtag iPhone. Pop-up bicycle rights Brooklyn iPhone Helvetica kitsch Godard, XOXO blog aesthetic beard quinoa. Fixie kale chips PBR&B twee, YOLO raw denim before they sold out photo
-            booth bespoke seitan food truck. Ethical chia before they sold out, trust fund viral ennui you probably haven't heard of them cred bitters mixtape semiotics deep v jean shorts pork belly occupy shabby chic sriracha ethnic normcore bicycle
-            rights single-origin coffee slow-carb jean shorts. Twee ethnic mumblecore, Carles banh mi slow-carb pour-over organic. Ethical tofu narwhal, hoodie viral ennui tousled paleo. Butcher chia cray iPhone keytar, sustainable Cosby sweater literally
-            try-hard put a bird on it photo booth ethical street art literally semiotics.</p>
+        <p><img src="img/sup3.png"></p>
+        <p>Con base en la predicción, las jugadoras mexicanas <b>Kenti Robles, Charlyn Corral y Stephany Mayor</b> deberían de percibir un salario (teórico) de $1,293,101, $1,163,833 y $1,103,651 pesos de manera anual.</p>
+        <p>En términos mensuales, las jugadoras estarían percibiendo $107,758, $96,986 y $91,970 pesos mensuales. Una cantidad por encima de los $4,500 pesos que algunas jugadoras en la realidad reciben.</p>
+        <p><img src="img/sup4.png"></p>
+        <p>Por otro lado, el valor de mercado de dichas jugadoras deberían situarse alrededor de $377,810,915 (€17 millones), $463,100,000 (€22 millones) y $189,450,000 (€9 millones).</p>
+        <p>Desafortunadamente, no existe información sobre el valor de mercado de las jugadoras como sí lo hay para los hombres en Transfermarkt.</p>
+        <h1>Modelo No Supervizado</h1>
+        <p></p>
+        <p>La segunda parte del modelo de Machine Learning consistió en intentar clusterizar a los jugadores registrados en la base de datos. La lógica detrás de esto era identificar si realmente los valores de mercado y salario son tan diferentes como lo
+            observado en los insights que vimos previamente.</p>
+        <p><img src="img/unsup1.png"></p>
+        <p>Utilizando el método de agrupamiento <b>KMeans</b>, que tiene como objetivo la partición de un conjunto de n observaciones en k grupos en el que cada observación pertenece al grupo cuyo valor medio es más cercano, se propuso una categorización
+            de 4 tipos de jugadores que son: 1) jugadores en desarrollo, 2) jugadores consolidados y cerca del retiro, 3) jugadores consolidados con proyección, y 4) súper estrellas.</p>
+        <p>La siguiente imagen muestra los resultados de la clusterización que realiza KMeans.</p>
+        <p><img src="img/unsup2.png"></p>
+        <p>En esta imagen, se observan las predicciones de la clusterización para determinar las 4 etiquetas y la división del DataFrame que tendremos como resultado de este modelo.</p>
+        <p><img src="img/unsup3.png"></p>
+        <p>Por ejmplo, dentro de los jugadores que pertenecen al <b>clúster 2</b> podemos encontrar a J. Rodríguez, G. Higuaín, Iniesta, entre otros; es decir jugadores consolidados con proyección.</p>
+        <p><img src="img/unsup4.png"></p>
+        <p>Por ejmplo, dentro de los jugadores que pertenecen al <b>clúster 3</b> podemos encontrar a L. Messi, Cristiano Ronaldo, Neymar Jr, entre otros, jugadores súper estrellas.</p>
+        <p><img src="img/unsup5.png"></p>
+        <p>Por ejmplo, dentro de los jugadores que pertenecen al <b>clúster 0</b> podemos encontrar a G. Buffon, Dani Alves, Iker Casillas, entre otros, jugadores consolidados y cerca del retiro.</p>
+        <p><img src="img/unsup6.png"></p>
+        <p>Por ejmplo, dentro de los jugadores que pertenecen al <b>clúster 1</b> podemos encontrar a XXXX, XXXX, XXXX, entre otros, jugadores consolidados y cerca del retiro.</p>
+        <p><img src="img/unsup12.png"></p>
+        <p>El promedio del valor de mercado y salario por cada uno de los clústers se puede observar en las siguientes imagen.</p>
+        <p><img src="img/unsup7.png"></p>
+        <p>La siguiente gráfica muestra cómo se distinguen los clústeres de los jugadores contenidos en el DataFrame, según su valor de mercado y salario.</p>
+        <p><img src="img/unsup8.png"></p>
+        <p>Por otra parte, podemos observar los clústeres, según su valor de mercado y valoración total contenido en el DataFrame.</p>
+        <p><img src="img/unsup9.png"></p>
+        <p>En tanto, podemos observar los clústeres, según su salario y potencial contenido en el DataFrame.</p>
+        <p><img src="img/unsup10.png"></p>
+        <p>Finalmente, podemos observar los clústeres, según su salario y potencial contenido en el DataFrame.</p>
+        <p><img src="img/unsup11.png"></p>
     </article>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo " crossorigin="anonymous "></script>
